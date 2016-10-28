@@ -1,0 +1,1084 @@
+G06Q 10/00
+G06Q 10/02
+G06Q 10/025
+G06Q 10/04
+G06Q 10/043
+G06Q 10/047
+G06Q 10/06
+G06Q 10/063
+G06Q 10/0631
+G06Q 10/06311
+G06Q 10/063112
+G06Q 10/063114
+G06Q 10/063116
+G06Q 10/063118
+G06Q 10/06312
+G06Q 10/06313
+G06Q 10/06314
+G06Q 10/06315
+G06Q 10/06316
+G06Q 10/0633
+G06Q 10/0635
+G06Q 10/0637
+G06Q 10/06375
+G06Q 10/0639
+G06Q 10/06393
+G06Q 10/06395
+G06Q 10/06398
+G06Q 10/067
+G06Q 10/08
+G06Q 10/083
+G06Q 10/0831
+G06Q 10/0832
+G06Q 10/0833
+G06Q 10/0834
+G06Q 10/08345
+G06Q 10/0835
+G06Q 10/08355
+G06Q 10/0836
+G06Q 10/0837
+G06Q 10/0838
+G06Q 10/087
+G06Q 10/0875
+G06Q 10/10
+G06Q 10/101
+. .
+{Collaborative creation of products or services}
+G06Q 10/103
+. .
+{Workflow collaboration or project management}
+Collapse
+G06Q 10/105
+. .
+{Human resources}
+G06Q 10/1053
+. . .
+{Employment or hiring}
+G06Q 10/1057
+. . .
+{Benefits package}
+G06Q 10/107
+. .
+{Computer aided management of electronic mail (electronic mail network systems H04L 12/58; electronic mail protocols H04L 29/06)}
+Collapse
+G06Q 10/109
+. .
+{Time management, e.g. calendars, reminders, meetings, time accounting (organizing, planning, scheduling or allocating time G06Q 10/06)}
+G06Q 10/1091
+. . .
+{Recording time for administrative purposes}
+Collapse
+G06Q 10/1093
+. . .
+{Calendar-based scheduling for a person or group}
+G06Q 10/1095
+. . . .
+{Meeting or appointment}
+G06Q 10/1097
+. . . .
+{Task assignment}
+G06Q 10/20
+.
+{Product repair or maintenance administration}
+G06Q 10/30
+.
+{Product recycling or disposal administration}
+Collapse
+G06Q 20/00
+Payment architectures, schemes or protocols (apparatus for performing or posting payment transactions G07F 7/08, G07F 19/00; electronic cash registers G07G 1/12)
+Collapse
+G06Q 20/02
+.
+involving a neutral party, e.g. certification authority, notary or trusted third party [TTP]
+G06Q 20/023
+. .
+{characterized in that the neutral party is a clearing house}
+G06Q 20/027
+. .
+{involving a payment switch or gateway}
+Collapse
+G06Q 20/04
+.
+Payment circuits
+Collapse
+G06Q 20/042
+G06Q 20/0425
+G06Q 20/045
+G06Q 20/0453
+. . .
+{the ticket being an electronic receipt}
+G06Q 20/0457
+. . .
+{characterized in that the ticket is sent electronically}
+Collapse
+G06Q 20/06
+. .
+Private payment circuit, e.g. involving electronic currency used among participants of a common payment scheme
+Collapse
+G06Q 20/065
+. . .
+{using e-cash}
+G06Q 20/0652
+. . . .
+{e-cash with decreasing value according to a parameter, e.g. time}
+G06Q 20/0655
+. . . .
+{e-cash managed centrally}
+G06Q 20/0658
+. . . .
+{e-cash managed locally}
+Collapse
+G06Q 20/08
+.
+Payment architectures
+Collapse
+G06Q 20/085
+. .
+{involving remote charge determination or related payment systems}
+G06Q 20/0855
+. . .
+{involving a third party}
+Collapse
+G06Q 20/10
+. .
+specially adapted for electronic funds transfer [EFT] systems; specially adapted for home banking systems
+G06Q 20/102
+. . .
+{Bill distribution or payments}
+G06Q 20/105
+. . .
+{involving programming of a portable memory device, e.g. IC cards, "electronic purses"}
+Collapse
+G06Q 20/108
+. . .
+{Remote banking, e.g. home banking}
+G06Q 20/1085
+. . . .
+{involving automatic teller machines [ATMs]}
+Collapse
+G06Q 20/12
+. .
+specially adapted for electronic shopping systems
+Collapse
+G06Q 20/123
+. . .
+{Shopping for digital content}
+G06Q 20/1235
+. . . .
+{with control of digital rights management [DRM]}
+G06Q 20/127
+. . .
+{Shopping or accessing services according to a time-limitation}
+Collapse
+G06Q 20/14
+. .
+specially adapted for billing systems
+G06Q 20/145
+. . .
+{Payments according to the detected use or quantity}
+G06Q 20/16
+. .
+Payments settled via telecommunication systems
+G06Q 20/18
+. .
+involving self- service terminals [SST], vending machines, kiosks or multimedia terminals
+Collapse
+G06Q 20/20
+. .
+Point-of-sale [POS] network systems {(POS per se G07F or G07G)}
+G06Q 20/201
+. . .
+{Price look-up processing, e.g. updating}
+G06Q 20/202
+. . .
+{Interconnection or interaction of plural electronic cash registers [ECR] or to host computer, e.g. network details, transfer of information from host to ECR or from ECR to ECR}
+NOTE
+Features of the apparatus per se should be classified in G07G 1/14
+G06Q 20/203
+. . .
+{Inventory monitoring}
+G06Q 20/204
+. . .
+{comprising interface for record bearing medium or carrier for electronic funds transfer or payment credit}
+G06Q 20/206
+. . .
+{comprising security or user identification provision, e.g. password entry}
+G06Q 20/207
+. . .
+{Tax processing}
+G06Q 20/208
+. . .
+{Input by product or record sensing, e.g. weighing or scanner processing}
+G06Q 20/209
+. . .
+{Specified transaction journal output feature, e.g. printed receipt or voice output}
+Collapse
+G06Q 20/22
+.
+Payment schemes or models
+G06Q 20/223
+. .
+{based on the use of peer-to-peer networks}
+G06Q 20/227
+. .
+{characterized in that multiple accounts are available to the payer}
+G06Q 20/24
+. .
+Credit schemes, i.e. "pay after"
+G06Q 20/26
+. .
+Debit schemes, e.g. "pay now"
+G06Q 20/28
+. .
+Pre-payment schemes, e.g. "pay before"
+G06Q 20/29
+. .
+{characterised by micro-payments}
+Collapse
+G06Q 20/30
+.
+characterised by the use of specific devices
+G06Q 20/305
+. .
+{using a wired telephone network to facilitate payment}
+Collapse
+G06Q 20/32
+. .
+using wireless devices
+Collapse
+G06Q 20/322
+. . .
+{Aspects of commerce using mobile devices [M-devices]}
+G06Q 20/3221
+. . . .
+{Access to banking information through M-devices}
+G06Q 20/3223
+. . . .
+{Realising banking transactions through M-devices}
+G06Q 20/3224
+. . . .
+{Transactions dependent on location of M-devices}
+G06Q 20/3226
+. . . .
+{Use of secure elements separate from M-devices}
+G06Q 20/3227
+. . . .
+{Use of a security embedded in M-devices}
+G06Q 20/3229
+. . . .
+{Use of the SIM of a M-device as secure element}
+Collapse
+G06Q 20/325
+. . .
+{using wireless networks}
+G06Q 20/3255
+. . . .
+{using an SMS for payment}
+Collapse
+G06Q 20/327
+. . .
+{Short range or proximity payments by means of M-devices}
+G06Q 20/3272
+. . . .
+{using an audio code}
+G06Q 20/3274
+. . . .
+{using a pictured code, e.g. barcode or QR-code, being displayed on the M-device}
+G06Q 20/3276
+. . . .
+{using a pictured code, e.g. barcode or QR-code, being read by the M-device}
+G06Q 20/3278
+. . . .
+{RFID or NFC payments by means of M-devices}
+Collapse
+G06Q 20/34
+. .
+using cards, e.g. integrated circuit [IC] cards or magnetic cards
+Collapse
+G06Q 20/341
+. . .
+{Active cards, i.e. cards including their own processing means, e.g. including an IC or chip}
+G06Q 20/3415
+. . . .
+{Cards acting autonomously as pay-media}
+G06Q 20/342
+. . .
+{Cards defining paid or billed services or quantities}
+Collapse
+G06Q 20/343
+. . .
+{Cards including a counter}
+G06Q 20/3433
+. . . .
+{the counter having monetary units}
+G06Q 20/3437
+. . . .
+{the counter having non-monetary units, e.g. trips}
+G06Q 20/346
+. . .
+{Cards serving only as information carrier of service}
+G06Q 20/347
+. . .
+{Passive cards}
+G06Q 20/348
+. . .
+{Single-use cards, i.e. without possibility of recharging}
+G06Q 20/349
+. . .
+{Rechargeable cards}
+G06Q 20/351
+. . .
+{Virtual cards}
+G06Q 20/352
+. . .
+{Contactless payments by cards}
+G06Q 20/353
+. . .
+{Payments by additional cards plugged into M-devices}
+G06Q 20/354
+. . .
+{Card activation or deactivation}
+Collapse
+G06Q 20/355
+. . .
+{Personalisation of cards for use}
+G06Q 20/3552
+. . . .
+{Downloading or loading of personalisation data}
+G06Q 20/3555
+. . . .
+{Personalisation of two or more cards}
+G06Q 20/3558
+. . . .
+{Preliminary personalisation for transfer to user}
+Collapse
+G06Q 20/356
+. . .
+{Aspects of software for card payments}
+G06Q 20/3563
+. . . .
+{Software being resident on card}
+G06Q 20/3567
+. . . .
+{Software being in the reader}
+Collapse
+G06Q 20/357
+. . .
+{Cards having a plurality of specified features}
+G06Q 20/3572
+. . . .
+{Multiple accounts on card}
+G06Q 20/3574
+. . . .
+{Multiple applications on card}
+Collapse
+G06Q 20/3576
+. . . .
+{Multiple memory zones on card}
+G06Q 20/35765
+. . . . .
+{Access rights to memory zones}
+Collapse
+G06Q 20/3578
+. . . .
+{Hierarchy of users of cards}
+G06Q 20/35785
+. . . . .
+{Parent-child type, i.e. where parent has control on child rights}
+Collapse
+G06Q 20/36
+. .
+using electronic wallets or electronic money safes
+G06Q 20/363
+. . .
+{with the personal data files for a user}
+Collapse
+G06Q 20/367
+. . .
+{involving intelligent token, e.g. electronic purse}
+G06Q 20/3672
+. . . .
+{Intelligent token initializing or reloading}
+G06Q 20/3674
+. . . .
+{involving authentication}
+G06Q 20/3676
+. . . .
+{Balancing accounts}
+G06Q 20/3678
+. . . .
+{e-cash details, e.g. blinded, divisible or detecting double spending}
+Collapse
+G06Q 20/38
+.
+Payment protocols; Details thereof
+G06Q 20/381
+. .
+{Currency conversion}
+Collapse
+G06Q 20/382
+. .
+{insuring higher security of transaction}
+Collapse
+G06Q 20/3821
+. . .
+{Electronic credentials}
+G06Q 20/38215
+. . . .
+{Use of certificates or encrypted proofs of transaction rights}
+G06Q 20/3823
+. . .
+{combining multiple encryption tools for a transaction}
+G06Q 20/3825
+. . .
+{Use of electronic signatures}
+G06Q 20/3827
+. . .
+{Use of message hashing}
+G06Q 20/3829
+. . .
+{involving key management}
+G06Q 20/383
+. .
+{Anonymous user system}
+G06Q 20/385
+. .
+{Use of an alias or a single-use code}
+G06Q 20/387
+. .
+{Payment using discounts or coupons (relating to marketing G06Q 30/02)}
+NOTE
+This group covers only the usage of discounts or coupons interacting with the payment of the protocol
+G06Q 20/388
+. .
+{Mutual authentication without cards}
+G06Q 20/389
+. .
+{Keeping log of transactions for guaranteeing non-repudiation of a transaction}
+Collapse
+G06Q 20/40
+. .
+Authorisation, e.g. identification of payer or payee, verification of customer or shop credentials; Review and approval of payers, e.g. check credit lines or negative lists
+Collapse
+G06Q 20/401
+. . .
+{Transaction verification}
+G06Q 20/4012
+. . . .
+{Verifying personal identification number [PIN]}
+Collapse
+G06Q 20/4014
+. . . .
+{Identity check for transaction}
+G06Q 20/40145
+. . . . .
+{Biometric identity checks}
+G06Q 20/4016
+. . . .
+{involving fraud or risk level assessment in transaction processing}
+G06Q 20/4018
+. . . .
+{using the card verification value [CVV] associated with the card}
+Collapse
+G06Q 20/403
+. . .
+{Solvency checks}
+G06Q 20/4033
+. . . .
+{Local solvency checks}
+G06Q 20/4037
+. . . .
+{Remote solvency checks}
+G06Q 20/405
+. . .
+{Establishing or using transaction specific rules}
+G06Q 20/407
+. . .
+{Cancellation of a transaction}
+Collapse
+G06Q 20/409
+. . .
+{Card specific authentication in transaction processing}
+G06Q 20/4093
+. . . .
+{Monitoring of card authentication}
+Collapse
+G06Q 20/4097
+. . . .
+{Mutual authentication between card and transaction partners}
+G06Q 20/40975
+. . . . .
+{Use of encryption for mutual authentication}
+Collapse
+G06Q 20/42
+. .
+Confirmation, e.g. check or permission by the legal debtor of payment
+G06Q 20/425
+. . .
+{using two different networks, one for transaction and one for security confirmation}
+Collapse
+G06Q 30/00
+Commerce, e.g. shopping or e-commerce
+Collapse
+G06Q 30/01
+.
+{Customer relationship, e.g. warranty}
+G06Q 30/012
+. .
+{Product or service warranty}
+G06Q 30/014
+. .
+{Product recall}
+G06Q 30/016
+. .
+{Customer service, i.e. after purchase service}
+Collapse
+G06Q 30/018
+. .
+{Business or product certification or verification}
+G06Q 30/0185
+. . .
+{Product, service or business identity fraud}
+Collapse
+G06Q 30/02
+.
+Marketing, e.g. market research and analysis, surveying, promotions, advertising, buyer profiling, customer management or rewards; Price estimation or determination
+G06Q 30/0201
+. .
+{Market data gathering, market analysis or market modelling}
+Collapse
+G06Q 30/0202
+. .
+{Market predictions or demand forecasting}
+G06Q 30/0203
+. . .
+{Market surveys or market polls}
+Collapse
+G06Q 30/0204
+. . .
+{Market segmentation}
+G06Q 30/0205
+. . . .
+{Location or geographical consideration}
+G06Q 30/0206
+. . .
+{Price or cost determination based on market factors}
+Collapse
+G06Q 30/0207
+. .
+{Discounts or incentives, e.g. coupons, rebates, offers or upsales}
+G06Q 30/0208
+. . .
+{Trade or exchange of a good or service for an incentive}
+G06Q 30/0209
+. . .
+{Incentive being awarded or redeemed in connection with the playing of a video game}
+G06Q 30/0211
+. . .
+{Determining discount or incentive effectiveness}
+G06Q 30/0212
+. . .
+{Chance discounts or incentives}
+G06Q 30/0213
+. . .
+{Consumer transaction fees}
+G06Q 30/0214
+. . .
+{Referral award systems}
+Collapse
+G06Q 30/0215
+. . .
+{Including financial accounts}
+G06Q 30/0216
+. . . .
+{Investment accounts}
+Collapse
+G06Q 30/0217
+. . .
+{Giving input on a product or service or expressing a customer desire in exchange for an incentive or reward}
+G06Q 30/0218
+. . . .
+{based on score}
+G06Q 30/0219
+. . .
+{based on funds or budget}
+G06Q 30/0221
+. . .
+{Re-usable coupons}
+G06Q 30/0222
+. . .
+{During e-commerce, i.e. online transactions}
+G06Q 30/0223
+. . .
+{based on inventory}
+G06Q 30/0224
+. . .
+{based on user history}
+G06Q 30/0225
+. . .
+{Avoiding frauds}
+Collapse
+G06Q 30/0226
+. . .
+{Frequent usage incentive systems, e.g. frequent flyer miles programs or point systems}
+Collapse
+G06Q 30/0227
+. . . .
+{Frequent usage incentive value reconciliation between diverse systems}
+G06Q 30/0228
+. . . . .
+{On-line clearing houses}
+G06Q 30/0229
+. . . .
+{Multi-merchant loyalty card systems}
+G06Q 30/0231
+. . . .
+{Awarding of a frequent usage incentive independent of the monetary value of a good or service purchased, or distance travelled}
+G06Q 30/0232
+. . . .
+{Frequent usage rewards other than merchandise, cash or travel}
+G06Q 30/0233
+. . . .
+{Method of redeeming a frequent usage reward}
+G06Q 30/0234
+. . .
+{Rebate after completed purchase, i.e. post transaction awards}
+G06Q 30/0235
+. . .
+{Including timing, i.e. limited awarding or usage time constraint}
+G06Q 30/0236
+. . .
+{Incentive or reward received by requiring registration or ID from user}
+G06Q 30/0237
+. . .
+{at kiosk}
+G06Q 30/0238
+. . .
+{at point-of-sale [POS]}
+G06Q 30/0239
+. . .
+{Online discounts or incentives}
+Collapse
+G06Q 30/0241
+. .
+{Advertisement}
+Collapse
+G06Q 30/0242
+. . .
+{Determination of advertisement effectiveness}
+G06Q 30/0243
+. . . .
+{Comparative campaigns}
+G06Q 30/0244
+. . . .
+{Optimization}
+G06Q 30/0245
+. . . .
+{Surveys}
+G06Q 30/0246
+. . . .
+{Traffic}
+G06Q 30/0247
+. . .
+{Calculate past, present or future revenues}
+G06Q 30/0248
+. . .
+{Avoiding fraud}
+G06Q 30/0249
+. . .
+{based upon budgets or funds}
+Collapse
+G06Q 30/0251
+. . .
+{Targeted advertisement}
+G06Q 30/0252
+. . . .
+{based on events or environment, e.g. weather or festivals}
+G06Q 30/0253
+. . . .
+{During e-commerce, i.e. online transactions}
+G06Q 30/0254
+. . . .
+{based on statistics}
+Collapse
+G06Q 30/0255
+. . . .
+{based on user history}
+G06Q 30/0256
+. . . . .
+{User search}
+Collapse
+G06Q 30/0257
+. . . .
+{User requested}
+G06Q 30/0258
+. . . . .
+{Registration}
+G06Q 30/0259
+. . . .
+{based on store location}
+G06Q 30/0261
+. . . .
+{based on user location}
+G06Q 30/0262
+. . . .
+{during computer stand-by mode}
+G06Q 30/0263
+. . . .
+{based upon Internet or website rating}
+G06Q 30/0264
+. . . .
+{based upon schedule}
+Collapse
+G06Q 30/0265
+. . . .
+{Vehicular advertisement}
+G06Q 30/0266
+. . . . .
+{based on the position of the vehicle}
+G06Q 30/0267
+. . . .
+{Wireless devices}
+G06Q 30/0268
+. . . .
+{at point-of-sale [POS]}
+Collapse
+G06Q 30/0269
+. . . .
+{based on user profile or attribute}
+G06Q 30/0271
+. . . . .
+{Personalized advertisement}
+G06Q 30/0272
+. . .
+{Period of advertisement exposure}
+Collapse
+G06Q 30/0273
+. . .
+{Fees for advertisement}
+G06Q 30/0274
+. . . .
+{Split fees}
+G06Q 30/0275
+. . . .
+{Auctions}
+G06Q 30/0276
+. . .
+{Advertisement creation}
+G06Q 30/0277
+. . .
+{Online advertisement}
+G06Q 30/0278
+. .
+{Product appraisal}
+G06Q 30/0279
+. .
+{Fundraising management}
+G06Q 30/0281
+. .
+{Customer communication at a business location, e.g. providing product or service information, consulting}
+G06Q 30/0282
+. .
+{Business establishment or product rating or recommendation}
+Collapse
+G06Q 30/0283
+. .
+{Price estimation or determination}
+G06Q 30/0284
+. . .
+{Time or distance, e.g. usage of parking meters or taximeters}
+NOTE
+Constructional aspects of time meters are classified in groups G07B 13/00, G07B 15/00 or G07F 17/24
+G06Q 30/04
+.
+Billing or invoicing, {e.g. tax processing in connection with a sale}
+Collapse
+G06Q 30/06
+.
+Buying, selling or leasing transactions
+Collapse
+G06Q 30/0601
+. .
+{Electronic shopping}
+G06Q 30/0603
+. . .
+{Catalogue ordering}
+G06Q 30/0605
+. . .
+{Supply or demand aggregation}
+G06Q 30/0607
+. . .
+{Regulated}
+G06Q 30/0609
+. . .
+{Buyer or seller confidence or verification}
+G06Q 30/0611
+. . .
+{Request for offers or quotes}
+Collapse
+G06Q 30/0613
+. . .
+{Third-party assisted}
+G06Q 30/0615
+. . . .
+{Anonymizing}
+G06Q 30/0617
+. . . .
+{Representative agent}
+G06Q 30/0619
+. . . .
+{Neutral agent}
+G06Q 30/0621
+. . .
+{Item configuration or customization}
+Collapse
+G06Q 30/0623
+. . .
+{Item investigation}
+Collapse
+G06Q 30/0625
+. . . .
+{Directed, with specific intent or strategy}
+G06Q 30/0627
+. . . . .
+{using item specifications}
+G06Q 30/0629
+. . . . .
+{for generating comparisons}
+G06Q 30/0631
+. . .
+{Item recommendations}
+Collapse
+G06Q 30/0633
+. . .
+{Lists, e.g. purchase orders, compilation or processing}
+Collapse
+G06Q 30/0635
+. . . .
+{Processing of requisition or of purchase orders}
+G06Q 30/0637
+. . . . .
+{Approvals}
+G06Q 30/0639
+. . .
+{Item locations}
+Collapse
+G06Q 30/0641
+. . .
+{Shopping interfaces}
+G06Q 30/0643
+. . . .
+{Graphical representation of items or shoppers}
+G06Q 30/0645
+. .
+{Rental, i.e. leasing}
+G06Q 30/08
+. .
+Auctions, {matching or brokerage (matching or brokerage for stock exchange G06Q 40/04)}
+Collapse
+G06Q 40/00
+Finance; Insurance; Tax strategies; Processing of corporate or income taxes
+Collapse
+G06Q 40/02
+.
+Banking, e.g. interest calculation, credit approval, mortgages, home banking or on-line banking
+G06Q 40/025
+. .
+{Credit processing or loan processing, e.g. risk analysis for mortgages}
+G06Q 40/04
+.
+Exchange, e.g. stocks, commodities, derivatives or currency exchange
+G06Q 40/06
+.
+Investment, e.g. financial instruments, portfolio management or fund management
+G06Q 40/08
+.
+Insurance, e.g. risk analysis or pensions {(processing of insurance policies or claims G06Q 10/10)}
+G06Q 40/10
+.
+{Tax strategies}
+WARNING
+The backfile of this group is being reclassified into groups G06Q 40/10 and G06Q 40/12. Until reclassification is complete, groups G06Q 40/10 and G06Q 40/12 should be considered in order to perform a complete search.
+Collapse
+G06Q 40/12
+.
+{Accounting}
+WARNING
+G06Q 40/12 is incomplete pending reclassification of documents from G06Q 40/10. Until reclassification is complete, groups G06Q 40/10 and G06Q 40/12 should be considered in order to perform a complete search.
+G06Q 40/123
+. .
+{Tax preparation or submission}
+G06Q 40/125
+. .
+{Finance or payroll}
+G06Q 40/128
+. .
+{Check-book balancing, updating or printing arrangements}
+Collapse
+G06Q 50/00
+Systems or methods specially adapted for a specific business sector, e.g. utilities or tourism
+G06Q 50/01
+.
+{Social networking}
+G06Q 50/02
+.
+Agriculture; Fishing; Mining
+G06Q 50/04
+.
+Manufacturing
+G06Q 50/06
+.
+Electricity, gas or water supply
+G06Q 50/08
+.
+Construction
+Collapse
+G06Q 50/10
+.
+Services
+G06Q 50/12
+. .
+Hotels or restaurants
+G06Q 50/14
+. .
+Travel agencies
+Collapse
+G06Q 50/16
+. .
+Real estate
+G06Q 50/163
+. . .
+{Property management}
+G06Q 50/165
+. . .
+{Land development}
+G06Q 50/167
+. . .
+{Closing}
+Collapse
+G06Q 50/18
+. .
+Legal services; Handling legal documents
+G06Q 50/182
+. . .
+{Alternative dispute resolution}
+G06Q 50/184
+. . .
+{Intellectual property management}
+G06Q 50/186
+. . .
+{Estate planning}
+G06Q 50/188
+. . .
+{Electronic negotiation}
+Collapse
+G06Q 50/20
+. .
+Education
+Collapse
+G06Q 50/205
+. . .
+{Education administration or guidance}
+G06Q 50/2053
+. . . .
+{Education institution selection, admissions, or financial aid}
+G06Q 50/2057
+. . . .
+{Career enhancement or continuing education service}
+Collapse
+G06Q 50/22
+. .
+Health care, e.g. hospitals; Social work
+G06Q 50/24
+. . .
+Patient record management (processing of medical or biological data for scientific purposes G06F 19/00)
+Collapse
+G06Q 50/26
+. .
+Government or public service
+G06Q 50/265
+. . .
+{Personal security, identity or safety}
+G06Q 50/28
+.
+Logistics, e.g. warehousing, loading, distribution or shipping
+Collapse
+G06Q 50/30
+.
+Transportation; Communications
+G06Q 50/32
+. .
+Post and telecommunications (franking apparatus G07B 17/00)
+G06Q 50/34
+.
+Betting or bookmaking, e.g. Internet betting
+NOTE
+When classifying in this group, classification should also be made in group G07F 17/32
+Collapse
+G06Q 90/00
+Systems or methods specially adapted for administrative, commercial, financial, managerial, supervisory or forecasting purposes, not involving significant data processing
+Collapse
+G06Q 90/20
+.
+{Destination assistance within a business structure or complex}
+G06Q 90/205
+. .
+{Building evacuation}
+G06Q 99/00
+Subject matter not provided for in other groups of this subclass
+Collapse
+G06Q 2220/00
+Business processing using cryptography (postage metering system using cryptography G06Q 2250/05)
+Collapse
+G06Q 2220/10
+.
+Usage protection of distributed data files
+Collapse
+G06Q 2220/12
+. .
+Usage or charge determination
+G06Q 2220/123
+. . .
+involving third party for collecting or distributing payments, e.g. clearinghouse
+G06Q 2220/127
+. . .
+Adding plural layers of rights or limitations by other than the original producer
+Collapse
+G06Q 2220/14
+. .
+Requiring a supplemental attachment or input, e.g. a dongle, to open
+G06Q 2220/145
+. . .
+Specific computer ID, e.g. serial number, configuration
+Collapse
+G06Q 2220/16
+. .
+Copy protection or prevention
+G06Q 2220/165
+. . .
+Having origin or program ID
+G06Q 2220/18
+. .
+Licensing
+G06Q 2230/00
+Voting or election arrangements
+G06Q 2240/00
+Transportation facility access, e.g. fares, tolls or parking
+Collapse
+G06Q 2250/00
+Postage metering systems
+Collapse
+G06Q 2250/05
+
+G06Q 2250/053
+G06Q 2250/057
+G06Q 2250/10
+G06Q 2250/20
+G06Q 2250/30
+G06Q 2250/40
+G06Q 2250/50
+G06Q 2250/60
+G06Q 2250/70
+G06Q 2250/80
+G06Q 2250/90
+G06Q 2250/905

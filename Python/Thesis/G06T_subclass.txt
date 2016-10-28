@@ -1,0 +1,1437 @@
+	
+G06T 1/00
+General purpose image data processing
+G06T 1/0007
+.
+{Image acquisition}
+G06T 1/0014
+.
+{Image feed-back for automatic industrial control, e.g. robot with camera (robots B25J 19/023)}
+Collapse
+G06T 1/0021
+.
+{Image watermarking}
+Collapse
+G06T 1/0028
+. .
+{Adaptive watermarking, e.g. Human Visual System [HVS]-based watermarking}
+G06T 1/0035
+. . .
+{Output size adaptive watermarking}
+G06T 1/0042
+. .
+{Fragile watermarking, e.g. so as to detect tampering}
+Collapse
+G06T 1/005
+. .
+{Robust watermarking, e.g. average attack or collusion attack resistant}
+G06T 1/0057
+. . .
+{Compression invariant watermarking}
+G06T 1/0064
+. . .
+{Geometric transfor invariant watermarking, e.g. affine transform invariant}
+G06T 1/0071
+. . .
+{using multiple or alternating watermarks}
+G06T 1/0078
+. . .
+{using multiple thresholds}
+G06T 1/0085
+. .
+{Time domain based watermarking, e.g. watermarks spread over several images}
+G06T 1/0092
+. .
+{Payload characteristic determination in a watermarking scheme, e.g. number of bits to be embedded}
+G06T 1/20
+.
+Processor architectures; Processor configuration, e.g. pipelining (architectures of general purpose stored programme computers G06F 15/76)
+G06T 1/60
+.
+Memory management
+Collapse
+G06T 3/00
+Geometric image transformation in the plane of the image, e.g. from bit-mapped to bit-mapped creating a different image
+G06T 3/0006
+.
+{Affine transformations (G06T 3/4038, G06T 3/0068 take precedence)}
+Collapse
+G06T 3/0012
+.
+{Context preserving transformation, e.g. by using an importance map (G06T 3/0062 takes precedence)}
+G06T 3/0018
+. .
+{Fisheye, wide-angle transformation}
+G06T 3/0025
+. .
+{Detail-in-context presentation (G06T 3/0018 takes precedence)}
+Collapse
+G06T 3/0031
+.
+{for topological mapping of a higher dimensional structure on a lower dimensional surface}
+G06T 3/0037
+. .
+{Reshaping or unfolding a 3D tree structure onto a 2D plane}
+G06T 3/0043
+. .
+{Surface of revolution to planar image transformation}
+G06T 3/005
+.
+{for projecting an image on a non-planar surface, e.g. a geodetic screen}
+G06T 3/0056
+.
+{the transformation method being selected according to the characteristics of the input image}
+G06T 3/0062
+.
+{Panospheric to cylindrical image transformation}
+Collapse
+G06T 3/0068
+.
+{for image registration, e.g. elastic snapping}
+G06T 3/0075
+. .
+{using affine transformations}
+G06T 3/0081
+. .
+{by elastic snapping}
+G06T 3/0087
+.
+{Spatio-temporal transformations, e.g. video cubism}
+G06T 3/0093
+.
+{for image warping, i.e. transforming by individually repositioning each pixel}
+G06T 3/20
+.
+Linear translation of a whole image or part thereof, e.g. panning
+Collapse
+G06T 3/40
+.
+Scaling the whole image or part thereof
+G06T 3/4007
+. .
+{Interpolation-based scaling, e.g. bilinear interpolation (G06T 3/4015, G06T 3/403 take precedence)}
+G06T 3/4015
+. .
+{Demosaicing, e.g. colour filter array [CFA], Bayer pattern}
+G06T 3/4023
+. .
+{Decimation- or insertion-based scaling, e.g. pixel or line decimation}
+G06T 3/403
+. .
+{Edge-driven scaling}
+G06T 3/4038
+. .
+{for image mosaicing, i.e. plane images composed of plane sub-images}
+G06T 3/4046
+. .
+{using neural networks}
+Collapse
+G06T 3/4053
+. .
+{Super resolution, i.e. output image resolution higher than sensor resolution}
+G06T 3/4061
+. . .
+{by injecting details from a different spectral band}
+G06T 3/4069
+. . .
+{by subpixel displacement}
+G06T 3/4076
+. . .
+{by iteratively correcting the provisional high resolution image using the original low-resolution image}
+G06T 3/4084
+. .
+{Transform-based scaling, e.g. FFT domain scaling}
+G06T 3/4092
+. .
+{Image resolution transcoding, e.g. client/server architecture}
+Collapse
+G06T 3/60
+.
+Rotation of a whole image or part thereof
+G06T 3/602
+. .
+{Block rotation, e.g. by recursive reversing or rotating}
+G06T 3/604
+. .
+{using a CORDIC [COordinate Rotation Digital Compute] device}
+G06T 3/606
+. .
+{Rotation by memory addressing or mapping}
+G06T 3/608
+. .
+{Skewing or deskewing, e.g. by two-pass or three-pass rotation}
+Collapse
+G06T 5/00
+Image enhancement or restoration, e.g. from bit-mapped to bit-mapped creating a similar image
+Collapse
+G06T 5/001
+.
+{Image restoration}
+G06T 5/002
+. .
+{Denoising; Smoothing (noise processing or correction adapted to be used in an image pickup device containing and electronic image sensor H04N 5/217, H04N 5/357 to H04N 5/365)}
+Collapse
+G06T 5/003
+. .
+{Deblurring; Sharpening (vibration or motion blur correction for cameras comprising an electronic image sensor H04N 5/23264)}
+G06T 5/004
+. . .
+{Unsharp masking}
+G06T 5/005
+. .
+{Retouching; Inpainting; Scratch removal (detecting, correction, reducing or removing defects, e.g. non-responsive pixels of solid state image sensors H04N 5/367, scratch removal for cinematographic films scanned by electronic image sensor H04N 5/253)}
+G06T 5/006
+.
+{Geometric correction (detecting, correcting, reducing or removing artefacts resulting only from the lens unit, e.g. flare, shading, vignetting or "cos4" H04N 5/3572, correction of chromatic aberrations adapted to be used in an image pickup device containing and electronic image sensor H04N 9/045)}
+Collapse
+G06T 5/007
+.
+{Dynamic range modification (applied in cameras using an electronic image sensor H04N 5/2355, H04N 5/2356)}
+G06T 5/008
+. .
+{Local, e.g. shadow enhancement}
+G06T 5/009
+. .
+{Global, i.e. based on properties of the image as a whole (applied in cameras using an electronic image sensor H04N 5/23229, H04N 5/235)}
+G06T 5/10
+.
+by non-spatial domain filtering {(applied in cameras using an electronic image sensor H04N 5/23229, H04N 5/235, H04N 5/253, H04N 5/367)}
+Collapse
+G06T 5/20
+.
+by the use of local operators {(applied in cameras using an electronic image sensor H04N 5/23229, H04N 5/235, H04N 5/253, H04N 5/367)}
+G06T 5/30
+. .
+Erosion or dilatation, e.g. thinning
+G06T 5/40
+.
+by the use of histogram techniques {(applied in cameras using an electronic image sensor H04N 5/23229, H04N 5/235)}
+G06T 5/50
+.
+by the use of more than one image, e.g. averaging, subtraction {(applied in cameras using an electronic image sensor H04N 5/23229, H04N 5/235)}
+Collapse
+G06T 7/00
+Image analysis, e.g. from bit-mapped to non bit-mapped
+Collapse
+G06T 7/0002
+.
+{Inspection of images, e.g. flaw detection (G06T 7/004 takes precedence)}
+Collapse
+G06T 7/0004
+. .
+{Industrial image inspection}
+G06T 7/0006
+. . .
+{using a design-rule based approach}
+G06T 7/0008
+. . .
+{checking presence/absence}
+G06T 7/001
+. . .
+{using an image reference approach (image matching for pattern recognition or image matching in general G06K 9/6203)}
+Collapse
+G06T 7/0012
+. .
+{Biomedical image inspection}
+Collapse
+G06T 7/0014
+. . .
+{using an image reference approach (image matching for pattern recognition or image matching in general G06K 9/6203)}
+G06T 7/0016
+. . . .
+{involving temporal comparison (change detection in general G06T 7/20)}
+Collapse
+G06T 7/0018
+.
+{Camera calibration, e.g. determining intrinsic or extrinsic parameters}
+G06T 7/002
+. .
+{Stereo camera calibration, e.g. determination of the transformation between left camera coordinate system and right camera coordinate system}
+Collapse
+G06T 7/0022
+.
+{Determining parameters from multiple pictures (depth or shape from stereo images G06T 7/0075; depth or shape from multiple images G06T 7/0065; stereo camera calibration G06T 7/002)}
+Collapse
+G06T 7/0024
+. .
+{Registration of images, e.g. alignment of images (image matching for pattern recognition or image matching in general G06K 9/6203)}
+G06T 7/0026
+. . .
+{using correlation-based methods}
+Collapse
+G06T 7/0028
+. . .
+{using feature-based methods}
+G06T 7/003
+. . . .
+{involving reference images or patches (image matching for pattern recognition or image matching in general G06K 9/6203)}
+G06T 7/0032
+. . . .
+{involving models (model matching for pattern recognition G06K 9/6204, G06K 9/6878)}
+G06T 7/0034
+. . .
+{using statistical methods (image matching by comparing statistics of regions for pattern recognition G06K 9/6212)}
+G06T 7/0036
+. . .
+{using transform-domain based approaches}
+G06T 7/0038
+. . .
+{Registration of image sequences}
+Collapse
+G06T 7/004
+.
+{Determining position or orientation of objects}
+Collapse
+G06T 7/0042
+. .
+{using feature-based methods}
+G06T 7/0044
+. . .
+{involving reference images or patches (image matching for pattern recognition or image matching in general G06K 9/6203)}
+G06T 7/0046
+. . .
+{involving models (model matching for pattern recognition G06K 9/6204, G06K 9/6878)}
+G06T 7/0048
+. .
+{using statistical methods (image matching by comparing statistics of regions for pattern recognition G06K 9/6212)}
+Collapse
+G06T 7/0051
+.
+{Depth or shape recovery}
+G06T 7/0053
+. .
+{from shading}
+G06T 7/0055
+. .
+{from specularities}
+G06T 7/0057
+. .
+{from laser ranging and structured images, e.g. interferometry (image acquisition and arrangements for measuring contours or curvatures of an object by projecting a pattern, thereupon G01B 11/25)}
+G06T 7/0059
+. .
+{from texture}
+G06T 7/0061
+. .
+{from perspective effects, e.g. using vanishing points}
+G06T 7/0063
+. .
+{from line drawings}
+Collapse
+G06T 7/0065
+. .
+{from multiple images}
+G06T 7/0067
+. . .
+{from contours}
+G06T 7/0069
+. . .
+{from focus}
+G06T 7/0071
+. . .
+{from motion}
+WARNING
+Not complete pending reclassification; see also group G06T 7/20
+G06T 7/0073
+. . .
+{from multiple light sources, e.g. photometric stereo}
+Collapse
+G06T 7/0075
+. . .
+{from stereo images}
+G06T 7/0077
+. . . .
+{from three or more stereo images}
+Collapse
+G06T 7/0079
+.
+{Segmentation or edge detection (image analysis based on texture or colour features G06T 7/40; motion-based segmentation G06T 7/2006; separation of touching or overlapping patterns for pattern recognition G06K 9/34; extraction of features or characteristics of the image for pattern recognition G06K 9/46)}
+G06T 7/0081
+. .
+{Region-based segmentation (image analysis based on texture or colour features G06T 7/40; separation of touching or overlapping patterns by cutting or merging for pattern recognition G06K 9/342; quantising the analogue image signal for pattern recognition G06K 9/38; extraction of features or characteristics of the image related to colour for pattern recognition G06K 9/4652)}
+G06T 7/0083
+. .
+{Edge-based segmentation (detecting partial patterns or configurations G06K 9/4604)}
+G06T 7/0085
+. .
+{Edge detection (detecting partial patterns or configurations G06K 9/4604)}
+G06T 7/0087
+. .
+{involving probabilistic approaches, e.g. Markov Random Field [MRF] modeling (Markov models or related models or networks embedding Markov models for pattern recognition G06K 9/6297; classification techniques based on a parametric, e.g. probabilistic, model G06K 9/6277; detecting partial patterns or configurations by analysing connectivity relationship of elements of the pattern G06K 9/4638)}
+G06T 7/0089
+. .
+{involving deformable models, e.g. active contour (pattern recognition techniques involving a deformation of the sample or reference pattern or elastic matching G06K 9/6206)}
+G06T 7/0091
+. .
+{involving morphological operators (combinations of preprocessing functions using a local operator for pattern recognition G06K 9/56)}
+G06T 7/0093
+. .
+{involving graph-based approaches (non-hierarchical partitioning techniques based on graph theory for pattern recognition G06K 9/6224)}
+G06T 7/0095
+. .
+{involving transform domain approaches (detecting partial patterns, e.g. edges or contours, using the Hough transform for pattern recognition G06K 9/4633)}
+G06T 7/0097
+. .
+{involving the use of two or more images}
+Collapse
+G06T 7/20
+.
+Analysis of motion {(movement detection in television systems H04N 5/144; motion estimation for digital video signal compression H04N 19/51; recognizing scenes under surveillance and traffic patterns G06K 9/00771, G06K 9/00785)}
+WARNING
+This group is being reorganised. Documents dealing with shape from motion are reclassified to G06T 7/0071 and a sub-group G06T 7/2006 is created
+G06T 7/2006
+. .
+{Motion-based segmentation}
+WARNING
+Not complete pending reclassification; see also group G06T 7/20
+Collapse
+G06T 7/2013
+. .
+{using block-matching}
+G06T 7/202
+. . .
+{using full search}
+G06T 7/2026
+. . .
+{using non-full search, e.g. three step search}
+Collapse
+G06T 7/2033
+. .
+{using feature-based methods, e.g. corners, segments}
+G06T 7/204
+. . .
+{involving reference images or patches (image matching for pattern recognition or image matching in general G06K 9/6203)}
+WARNING
+Not complete pending reclassification; see also group G06T 7/20
+G06T 7/2046
+. . .
+{involving models (model matching for pattern recognition G06K 9/6204, G06K 9/6878)}
+WARNING
+Not complete pending reclassification; see also group G06T 7/20
+G06T 7/2053
+. .
+{involving subtraction of pictures}
+G06T 7/206
+. .
+{using transform domain based approaches, e.g. Fourier}
+G06T 7/2066
+. .
+{using gradient-based methods}
+G06T 7/2073
+. .
+{Motion estimation over a hierarchy of resolutions}
+G06T 7/208
+. .
+{involving a stochastic approach, e.g. Kalman filter}
+G06T 7/2086
+. .
+{Computing motion from a sequence of stereo images}
+G06T 7/2093
+. .
+{Multi-camera tracking}
+WARNING
+Not complete pending reclassification; see also group G06T 7/20
+Collapse
+G06T 7/40
+.
+Analysis of texture {(depth or shape from texture G06T 7/0059)}
+Collapse
+G06T 7/401
+. .
+{based on statistical texture description}
+G06T 7/402
+. . .
+{using transform-domain based approaches}
+G06T 7/403
+. . .
+{using image operators, e.g. filter, edge density, local histograms}
+G06T 7/404
+. . .
+{using co-occurrence matrix computation}
+G06T 7/405
+. . .
+{using random Fields}
+G06T 7/406
+. . .
+{using fractals}
+G06T 7/407
+. .
+{based on structural texture description, i.e. primitives and placement rules}
+G06T 7/408
+. .
+{Color analysis}
+Collapse
+G06T 7/60
+.
+Analysis of geometric attributes, e.g. area, center of gravity or perimeter, from an image
+G06T 7/602
+. .
+{Area, perimeter, diameter or volume}
+G06T 7/604
+. .
+{Convexity or concavity}
+G06T 7/606
+. .
+{Center of gravity or moments (moments specific for pattern recognition, e.g. Zernike moments G06K 9/525)}
+G06T 7/608
+. .
+{Symmetry}
+Collapse
+G06T 9/00
+Image coding, e.g. from bit-mapped to non bit-mapped ({H04N 1/00, H04N 19/00 take precedence; } compression in general H03M; compression for image communication H04N)
+G06T 9/001
+.
+{Model-based coding, e.g. wire frame (see provisionally also G06T 9/00)}
+G06T 9/002
+.
+{using neural networks}
+G06T 9/004
+.
+{Predictors, e.g. intraframe, interframe coding (see provisionally also G06T 9/00)}
+G06T 9/005
+.
+{Statistical coding, e.g. Huffman, run length coding (see provisionally also G06T 9/00)}
+G06T 9/007
+.
+{Transform coding, e.g. discrete cosine transform (see provisionally also G06T 9/00)}
+G06T 9/008
+.
+{Vector quantisation (see provisionally also G06T 9/00)}
+G06T 9/20
+.
+Contour coding, e.g. using detection of edges
+G06T 9/40
+.
+Tree coding, e.g. quadtree, octree (see provisionally also G06T 9/00)
+Collapse
+G06T 11/00
+2D [Two Dimensional] image generation
+G06T 11/001
+.
+{Texturing; Colouring; Generation of texture or colour}
+Collapse
+G06T 11/003
+.
+{Reconstruction from projections, e.g. tomography}
+WARNING
+As from 06.2011 documents of this group are being continuously reclassified to its subgroups
+G06T 11/005
+. .
+{Specific pre-processing for tomographic reconstruction, e.g. calibration, source positioning, rebinning, scatter correction, retrospective gating}
+WARNING
+Not complete pending the completion of a reclassification; see also G11/00T
+G06T 11/006
+. .
+{Inverse problem, transformation from projection-space into object-space, e.g. transform methods, back-projection, algebraic methods}
+WARNING
+Not complete pending the completion of a reclassification; see also G06T 11/003
+G06T 11/008
+. .
+{Specific post-processing after tomographic reconstruction, e.g. voxelisation, metal artifact correction}
+WARNING
+Not complete pending the completion of a reclassification; see also G06T 11/003
+Collapse
+G06T 11/20
+.
+Drawing from basic elements, e.g. lines or circles
+G06T 11/203
+. .
+{Drawing of straight lines or curves}
+G06T 11/206
+. .
+{Drawing of charts or graphs}
+G06T 11/40
+.
+Filling a planar surface by adding surface attributes, e.g. colour or texture
+G06T 11/60
+.
+Editing figures and text; Combining figures or text
+G06T 11/80
+.
+Creating or modifying a manually drawn or painted image using a manual input device, e.g. mouse, light pen, direction keys on keyboard
+Collapse
+G06T 13/00
+Animation
+Collapse
+G06T 13/20
+.
+3D [Three Dimensional] animation
+G06T 13/205
+. .
+{driven by audio data}
+G06T 13/40
+. .
+of characters, e.g. humans, animals or virtual beings
+G06T 13/60
+. .
+of natural phenomena, e.g. rain, snow, water or plants
+G06T 13/80
+.
+2D [Two Dimensional] animation, e.g. using sprites
+Collapse
+G06T 15/00
+3D [Three Dimensional] image rendering
+G06T 15/005
+.
+{General purpose rendering architectures}
+G06T 15/02
+.
+Non-photorealistic rendering
+G06T 15/04
+.
+Texture mapping
+G06T 15/06
+.
+Ray-tracing
+G06T 15/08
+.
+Volume rendering
+Collapse
+G06T 15/10
+.
+Geometric effects
+Collapse
+G06T 15/20
+. .
+Perspective computation
+G06T 15/205
+. . .
+{Image-based rendering}
+WARNING
+This group is not complete pending a reorganisation. See also G06T 15/00
+G06T 15/30
+. .
+Clipping
+Collapse
+G06T 15/40
+. .
+Hidden part removal
+G06T 15/405
+. . .
+{using Z-buffer}
+Collapse
+G06T 15/50
+.
+Lighting effects
+G06T 15/503
+. .
+{Blending, e.g. for anti-aliasing}
+G06T 15/506
+. .
+{Illumination models}
+G06T 15/55
+. .
+Radiosity
+G06T 15/60
+. .
+Shadow generation
+Collapse
+G06T 15/80
+. .
+Shading
+G06T 15/83
+. . .
+Phong shading
+G06T 15/87
+. . .
+Gouraud shading
+Collapse
+G06T 17/00
+Three dimensional [3D] modelling, e.g. data description of 3D objects
+G06T 17/005
+.
+{Tree description, e.g. octree, quadtree}
+G06T 17/05
+.
+Geographic models
+G06T 17/10
+.
+Constructive solid geometry [CSG] using solid primitives, e.g. cylinders, cubes
+Collapse
+G06T 17/20
+.
+Finite element generation, e.g. wire-frame surface description, {tesselation}
+G06T 17/205
+. .
+{Re-meshing}
+G06T 17/30
+.
+Polynomial surface description
+Collapse
+G06T 19/00
+Manipulating 3D models or images for computer graphics
+WARNING
+As from August 1, 2011, documents relating to subject matter covered by subgroups G06T 19/003, G06T 19/006 are continuously reclassified to said subgroups
+G06T 19/003
+.
+{Navigation within 3D models or images}
+WARNING
+This group is not complete pending reclassification; see also group G06T 19/00
+G06T 19/006
+.
+{Mixed reality (object pose determination, tracking or camera calibration for mixed reality G06T 7/00)}
+WARNING
+This group is not complete pending reclassification; see also group G06T 19/00
+G06T 19/20
+.
+Editing of 3D images, e.g. changing shapes or colours, aligning objects or positioning parts
+Collapse
+G06T 2200/00
+Indexing scheme for image data processing or generation, in general
+G06T 2200/04
+.
+involving 3D image data
+G06T 2200/08
+.
+involving all processing steps from image acquisition to 3D model generation
+G06T 2200/12
+.
+involving antialiasing
+G06T 2200/16
+.
+involving adaptation to the client's capabilities
+G06T 2200/21
+.
+involving computational photography
+G06T 2200/24
+.
+involving graphical user interfaces [GUIs]
+G06T 2200/28
+.
+involving image processing hardware
+G06T 2200/32
+.
+involving image mosaicing
+G06T 2200/36
+.
+Review paper; Tutorial; Survey
+Collapse
+G06T 2201/00
+General purpose image data processing
+Collapse
+G06T 2201/005
+.
+Image watermarking
+G06T 2201/0051
+. .
+Embedding of the watermark in the spatial domain
+G06T 2201/0052
+. .
+Embedding of the watermark in the frequency domain
+G06T 2201/0053
+. .
+Embedding of the watermark in the coding stream, possibly without decoding; Embedding of the watermark in the compressed domain
+G06T 2201/0061
+. .
+Embedding of the watermark in each block of the image, e.g. segmented watermarking
+G06T 2201/0062
+. .
+Embedding of the watermark in text images, e.g. watermarking text documents using letter skew, letter distance or row distance
+G06T 2201/0063
+. .
+in relation to collusion attacks, e.g. collusion attack resistant
+G06T 2201/0064
+. .
+for copy protection or copy management, e.g. CGMS, copy only once, one-time copy
+G06T 2201/0065
+. .
+Extraction of an embedded watermark; Reliable detection
+G06T 2201/0081
+. .
+whereby both original and watermarked images are required at decoder, e.g. destination-based, non-blind, non-oblivious
+G06T 2201/0083
+. .
+whereby only watermarked image required at decoder, e.g. source-based, blind, oblivious
+G06T 2201/0201
+. .
+whereby only tamper or origin are detected and no embedding takes place
+G06T 2201/0202
+. .
+whereby the quality of watermarked images is measured; Measuring quality or performance of watermarking methods; Balancing between quality and robustness
+G06T 2201/0203
+. .
+whereby the image with embedded watermark is reverted to the original condition before embedding, e.g. lossless, distortion-free or invertible watermarking
+G06T 2201/0601
+. .
+whereby calibration information is embedded in the watermark, e.g. a grid, a scale, a list of transformations
+Collapse
+G06T 2207/00
+Indexing scheme for image analysis or image enhancement
+Collapse
+G06T 2207/10
+.
+Image acquisition modality
+Collapse
+G06T 2207/10004
+. .
+Still image; Photographic image
+G06T 2207/10008
+. . .
+from scanner, fax or copier
+G06T 2207/10012
+. . .
+Stereo images
+Collapse
+G06T 2207/10016
+. .
+Video; Image sequence
+G06T 2207/10021
+. . .
+Stereoscopic video; Stereoscopic image sequence
+G06T 2207/10024
+. .
+Color image
+G06T 2207/10028
+. .
+Range image; Depth image; 3D point clouds
+Collapse
+G06T 2207/10032
+. .
+Satellite or aerial image; Remote sensing
+G06T 2207/10036
+. . .
+Multispectral image; Hyperspectral image
+G06T 2207/10041
+. . .
+Panchromatic image
+G06T 2207/10044
+. . .
+Radar image
+G06T 2207/10048
+. .
+Infrared image
+G06T 2207/10052
+. .
+Images from lightfield camera
+Collapse
+G06T 2207/10056
+. .
+Microscopic image
+G06T 2207/10061
+. . .
+from scanning electron microscope
+G06T 2207/10064
+. .
+Fluorescence image
+G06T 2207/10068
+. .
+Endoscopic image
+Collapse
+G06T 2207/10072
+. .
+Tomographic images
+G06T 2207/10076
+. . .
+4D tomography; Time-sequential 3D tomography
+G06T 2207/10081
+. . .
+Computed x-ray tomography [CT]
+G06T 2207/10084
+. . .
+Hybrid tomography; Concurrent acquisition with multiple different tomographic modalities
+Collapse
+G06T 2207/10088
+. . .
+Magnetic resonance imaging [MRI]
+G06T 2207/10092
+. . . .
+Diffusion tensor magnetic resonance imaging [DTI]
+G06T 2207/10096
+. . . .
+Dynamic contrast-enhanced magnetic resonance imaging [DCE-MRI]
+G06T 2207/10101
+. . .
+Optical tomography; Optical coherence tomography [OCT]
+G06T 2207/10104
+. . .
+Positron emission tomography [PET]
+G06T 2207/10108
+. . .
+Single photon emission computed tomography [SPECT]
+G06T 2207/10112
+. . .
+Digital tomosynthesis [DTS]
+Collapse
+G06T 2207/10116
+. .
+X-ray image
+G06T 2207/10121
+. . .
+Fluoroscopy
+G06T 2207/10124
+. . .
+Digitally reconstructed radiograph [DRR]
+G06T 2207/10128
+. . .
+Scintigraphy
+Collapse
+G06T 2207/10132
+. .
+Ultrasound image
+G06T 2207/10136
+. . .
+3D ultrasound image
+Collapse
+G06T 2207/10141
+. .
+Special mode during image acquisition
+G06T 2207/10144
+. . .
+Varying exposure
+G06T 2207/10148
+. . .
+Varying focus
+G06T 2207/10152
+. . .
+Varying illumination
+Collapse
+G06T 2207/20
+.
+Special algorithmic details
+Collapse
+G06T 2207/20004
+. .
+Adaptive image processing
+G06T 2207/20008
+. . .
+Globally adaptive
+G06T 2207/20012
+. . .
+Locally adaptive
+G06T 2207/20016
+. .
+Hierarchical, coarse-to-fine, multiscale or multiresolution image processing; Pyramid transform
+G06T 2207/20021
+. .
+Dividing image into blocks, subimages or windows
+Collapse
+G06T 2207/20024
+. .
+Filtering details
+G06T 2207/20028
+. . .
+Bilateral filtering
+G06T 2207/20032
+. . .
+Median filtering
+Collapse
+G06T 2207/20036
+. .
+Morphological image processing
+G06T 2207/20041
+. . .
+Distance transform
+G06T 2207/20044
+. . .
+Skeletonization; Medial axis transform
+Collapse
+G06T 2207/20048
+. .
+Transform domain processing
+G06T 2207/20052
+. . .
+Discrete cosine transform [DCT]
+G06T 2207/20056
+. . .
+Discrete and fast Fourier transform, [DFT, FFT]
+G06T 2207/20061
+. . .
+Hough transform
+G06T 2207/20064
+. . .
+Wavelet transform [DWT]
+G06T 2207/20068
+. .
+Projection on vertical or horizontal image axis
+G06T 2207/20072
+. .
+Graph-based image processing
+G06T 2207/20076
+. .
+Probabilistic image processing
+G06T 2207/20081
+. .
+Training; Learning
+G06T 2207/20084
+. .
+Artificial neural networks [ANN]
+G06T 2207/20088
+. .
+Trinocular vision calculations; trifocal tensor
+Collapse
+G06T 2207/20092
+. .
+Interactive image processing based on input by user
+G06T 2207/20096
+. . .
+Interactive definition of curve of interest
+G06T 2207/20101
+. . .
+Interactive definition of point of interest, landmark or seed
+G06T 2207/20104
+. . .
+Interactive definition of region of interest [ROI]
+G06T 2207/20108
+. . .
+Interactive selection of 2D slice in a 3D data set
+Collapse
+G06T 2207/20112
+. .
+Image segmentation details
+G06T 2207/20116
+. . .
+Active contour; Active surface; Snakes
+G06T 2207/20121
+. . .
+Active appearance model [AAM]
+G06T 2207/20124
+. . .
+Active shape model [ASM]
+G06T 2207/20128
+. . .
+Atlas-based segmentation
+G06T 2207/20132
+. . .
+Image cropping
+G06T 2207/20136
+. . .
+Edge growing; Edge linking
+G06T 2207/20141
+. . .
+Region-growing; Region merging; Connected component labeling
+G06T 2207/20144
+. . .
+Foreground-background segmentation
+G06T 2207/20148
+. . .
+Thresholding
+G06T 2207/20152
+. . .
+Watershed segmentation
+G06T 2207/20156
+. . .
+Automatic seed setting
+G06T 2207/20161
+. . .
+Level set
+G06T 2207/20164
+. . .
+Salient point detection; Corner detection
+G06T 2207/20168
+. . .
+Radial search
+Collapse
+G06T 2207/20172
+. .
+Image enhancement details
+G06T 2207/20182
+. . .
+Noise reduction or smoothing in the temporal domain; Spatio-temporal filtering
+G06T 2207/20192
+. . .
+Edge enhancement; Edge preservation
+G06T 2207/20201
+. . .
+Motion blur correction
+G06T 2207/20204
+. . .
+Removing film grain; Adding simulated film grain
+G06T 2207/20208
+. . .
+High dynamic range [HDR] image processing
+Collapse
+G06T 2207/20212
+. .
+Image combination
+G06T 2207/20216
+. . .
+Image averaging
+G06T 2207/20221
+. . .
+Image fusion; Image merging
+G06T 2207/20224
+. . .
+Image subtraction
+G06T 2207/20228
+. .
+Disparity calculation for image-based rendering
+Collapse
+G06T 2207/30
+.
+Subject of image; Context of image processing
+Collapse
+G06T 2207/30004
+. .
+Biomedical image processing
+Collapse
+G06T 2207/30008
+. . .
+Bone
+G06T 2207/30012
+. . . .
+Spine; Backbone
+G06T 2207/30016
+. . .
+Brain
+G06T 2207/30021
+. . .
+Catheter; Guide wire
+G06T 2207/30024
+. . .
+Cell structures in vitro; Tissue sections in vitro
+Collapse
+G06T 2207/30028
+. . .
+Colon; Small intestine
+G06T 2207/30032
+. . . .
+Colon polyp
+G06T 2207/30036
+. . .
+Dental; Teeth
+G06T 2207/30041
+. . .
+Eye; Retina; Ophthalmic
+G06T 2207/30044
+. . .
+Fetus; Embryo
+G06T 2207/30048
+. . .
+Heart; Cardiac
+G06T 2207/30052
+. . .
+Implant; Prosthesis
+G06T 2207/30056
+. . .
+Liver; Hepatic
+Collapse
+G06T 2207/30061
+. . .
+Lung
+G06T 2207/30064
+. . . .
+Lung nodule
+G06T 2207/30068
+. . .
+Mammography; Breast
+G06T 2207/30072
+. . .
+Microarray; Biochip, DNA array; Well plate
+G06T 2207/30076
+. . .
+Plethysmography
+G06T 2207/30081
+. . .
+Prostate
+G06T 2207/30084
+. . .
+Kidney; Renal
+G06T 2207/30088
+. . .
+Skin; Dermal
+G06T 2207/30092
+. . .
+Stomach; Gastric
+G06T 2207/30096
+. . .
+Tumor; Lesion
+Collapse
+G06T 2207/30101
+. . .
+Blood vessel; Artery; Vein; Vascular
+G06T 2207/30104
+. . . .
+Vascular flow; Blood flow; Perfusion
+Collapse
+G06T 2207/30108
+. .
+Industrial image inspection
+G06T 2207/30112
+. . .
+Baggage; Luggage; Suitcase
+G06T 2207/30116
+. . .
+Casting
+G06T 2207/30121
+. . .
+CRT, LCD or plasma display
+G06T 2207/30124
+. . .
+Fabrics; Textile; Paper
+G06T 2207/30128
+. . .
+Food products
+G06T 2207/30132
+. . .
+Masonry; Concrete
+G06T 2207/30136
+. . .
+Metal
+G06T 2207/30141
+. . .
+Printed circuit board [PCB]
+G06T 2207/30144
+. . .
+Printing quality
+G06T 2207/30148
+. . .
+Semiconductor; IC; Wafer
+G06T 2207/30152
+. . .
+Solder
+G06T 2207/30156
+. . .
+Vehicle coating
+G06T 2207/30161
+. . .
+Wood; Lumber
+G06T 2207/30164
+. . .
+Workpiece; Machine component
+G06T 2207/30168
+. .
+Image quality inspection
+G06T 2207/30172
+. .
+Centreline of tubular or elongated structure
+G06T 2207/30176
+. .
+Document
+Collapse
+G06T 2207/30181
+. .
+Earth observation
+G06T 2207/30184
+. . .
+Infrastructure
+G06T 2207/30188
+. . .
+Vegetation; Agriculture
+G06T 2207/30192
+. . .
+Weather; Meteorology
+Collapse
+G06T 2207/30196
+. .
+Human being; Person
+G06T 2207/30201
+. . .
+Face
+Collapse
+G06T 2207/30204
+. .
+Marker
+G06T 2207/30208
+. . .
+Marker matrix
+G06T 2207/30212
+. .
+Military
+G06T 2207/30216
+. .
+Redeye defect
+Collapse
+G06T 2207/30221
+. .
+Sports video; Sports image
+G06T 2207/30224
+. . .
+Ball; Puck
+G06T 2207/30228
+. . .
+Playing field
+G06T 2207/30232
+. .
+Surveillance
+G06T 2207/30236
+. .
+Traffic on road, railway or crossing
+G06T 2207/30241
+. .
+Trajectory
+G06T 2207/30242
+. .
+Counting objects in image
+G06T 2207/30244
+. .
+Camera pose
+Collapse
+G06T 2207/30248
+. .
+Vehicle exterior or interior
+Collapse
+G06T 2207/30252
+. . .
+Vehicle exterior; Vicinity of vehicle
+G06T 2207/30256
+. . . .
+Lane; Road marking
+G06T 2207/30261
+. . . .
+Obstacle
+G06T 2207/30264
+. . . .
+Parking
+G06T 2207/30268
+. . .
+Vehicle interior
+Collapse
+G06T 2210/00
+Indexing scheme for image generation or computer graphics
+G06T 2210/04
+.
+Architectural design, interior design
+G06T 2210/08
+.
+Bandwidth reduction
+G06T 2210/12
+.
+Bounding box
+G06T 2210/16
+.
+Cloth
+G06T 2210/21
+.
+Collision detection, intersection
+G06T 2210/22
+.
+Cropping
+G06T 2210/24
+.
+Fluid dynamics
+G06T 2210/28
+.
+Force feedback
+G06T 2210/32
+.
+Image data format
+G06T 2210/36
+.
+Level of detail
+G06T 2210/41
+.
+Medical
+G06T 2210/44
+.
+Morphing
+G06T 2210/52
+.
+Parallel processing
+G06T 2210/56
+.
+Particle system, point based geometry or rendering
+G06T 2210/61
+.
+Scene description
+G06T 2210/62
+.
+Semi-transparency
+G06T 2210/64
+.
+Weathering
+Collapse
+G06T 2211/00
+Image generation
+Collapse
+G06T 2211/40
+.
+Computed tomography
+G06T 2211/404
+. .
+Angiography
+G06T 2211/408
+. .
+Dual energy
+G06T 2211/412
+. .
+Dynamic
+G06T 2211/416
+. .
+Exact reconstruction
+G06T 2211/421
+. .
+Filtered back projection [FBP]
+G06T 2211/424
+. .
+Iterative
+G06T 2211/428
+. .
+Real-time
+G06T 2211/432
+. .
+Truncation
+G06T 2211/436
+. .
+Limited angle
+Collapse
+G06T 2213/00
+Indexing scheme for animation
+G06T 2213/04
+.
+Animation description language
+G06T 2213/08
+.
+Animation software package
+G06T 2213/12
+.
+Rule based animation
+Collapse
+G06T 2215/00
+Indexing scheme for image rendering
+G06T 2215/06
+.
+Curved planar reformation of 3D line structures
+G06T 2215/08
+.
+Gnomonic or central projection
+G06T 2215/12
+.
+Shadow map, environment map
+G06T 2215/16
+.
+Using real world measurements to influence rendering
+Collapse
+G06T 2219/00
+Indexing scheme for manipulating 3D models or images for computer graphics
+G06T 2219/004
+.
+Annotating, labelling
+G06T 2219/008
+.
+Cut plane or projection plane definition
+G06T 2219/012
+.
+Dimensioning, tolerancing
+G06T 2219/016
+.
+Exploded view
+G06T 2219/021
+.
+Flattening
+G06T 2219/024
+.
+Multi-user, collaborative environment
+G06T 2219/028
+.
+Multiple view windows (top-side-front-sagittal-orthogonal)
+Collapse
+G06T 2219/20
+.
+Indexing scheme for editing of 3D models
+G06T 2219/2004
+. .
+Aligning objects, relative positioning of parts
+G06T 2219/2008
+. .
+Assembling, disassembling
+G06T 2219/2012
+. .
+Colour editing, changing, or manipulating; Use of colour codes
+G06T 2219/2016
+. .
+Rotation, translation, scaling
+G06T 2219/2021
+. .
+Shape modification
+G06T 2219/2024
+. .
+Style variation
