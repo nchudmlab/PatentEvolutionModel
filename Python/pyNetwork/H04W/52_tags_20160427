@@ -1,0 +1,2868 @@
+2015-01~2015-05 52/04
+-------------------------
+b'base station' : 1.273054427968299
+b'access point' : 1.031487722676938
+b'differences reception' : 1.0
+b'radio base' : 0.9738496457803151
+b'correction value' : 0.9666827154549829
+b'group values' : 0.9666827154549829
+b'measures reception' : 0.9500240731824745
+b'communication control' : 0.9444390948483389
+b'specifies correction' : 0.909195955705344
+b'value sum' : 0.9073663938372653
+b'sum number' : 0.8981222917669717
+b'Radio communication' : 0.8944631680308137
+b'station specifies' : 0.8796340876263842
+b'value distribution' : 0.8758786711603272
+b'distribution differences' : 0.8499759268175253
+b'reception value' : 0.843400508975858
+b'coverage area' : 0.7907558979297062
+b'stations mobile-station' : 0.76534837334067
+b'number stations' : 0.765100763463787
+b'algorithm initialization' : 0.7536831969186326
+b'communication system' : 0.7484421211912786
+b'terminal communication' : 0.7462686567164177
+b'network algorithm' : 0.744439094848339
+b'Transmit power' : 0.744439094848339
+b'mobile-station group' : 0.7396932388747506
+b'algorithms messages' : 0.7314395763119885
+b'interval control' : 0.7142857142857143
+b'channel gain' : 0.7092922484352431
+b'access terminal' : 0.7047940023385376
+b'terminals tradeoff' : 0.7018777082330283
+b'tradeoff coverage' : 0.6981222917669714
+b'point Transmit' : 0.6981222917669714
+b'scheme interference' : 0.6962927298988927
+b'transmissions interference' : 0.6944631680308135
+b'point algorithms' : 0.6925373134328358
+b'protection scheme' : 0.6870486278285988
+b'point network' : 0.681463649494463
+b'terminal protection' : 0.6796340876263842
+b'transmit data' : 0.676222573767109
+b'reuse spectrum' : 0.6666345690900336
+b'CTS' : 0.6648050072219547
+b'request signal' : 0.6648050072219547
+b'interference transmissions' : 0.6648050072219547
+b'signals system' : 0.6648050072219547
+b'point example' : 0.6648050072219547
+b'power signals' : 0.6613934933626797
+b'point cause' : 0.6555609051516609
+b'system throughput' : 0.6555609051516609
+b'throughput reuse' : 0.627732306210881
+b'access terminals' : 0.6243207923516061
+b'RTS' : 0.6222436206066442
+
+
+2015-01~2015-05 52/40
+-------------------------
+b'monitoring time' : 1.0
+b'access point' : 1.0
+b'parameter measurements' : 0.959478672985782
+b'handover command' : 0.9544233807266982
+b'restriction transmission' : 0.9367298578199053
+b'femto cell' : 0.9342022116903633
+b'probability handover' : 0.9265402843601895
+b'neighbor cells' : 0.9012638230647708
+b'communication parameter' : 0.8911532385466034
+b'macro cell' : 0.8886255924170615
+b'e.g. femto' : 0.8860979462875196
+b'terminal vicinity' : 0.8835703001579779
+b'network monitors' : 0.881042654028436
+b'power periodicity' : 0.8784360189573458
+b'transmit power' : 0.855687203791469
+b'monitors communication' : 0.8455766192733016
+b'transmissions Transmissions' : 0.840521327014218
+b'periodicity transmission' : 0.8379936808846761
+b'measurement data' : 0.8354660347551341
+b'cell detection' : 0.8303317535545023
+b'DRX' : 0.8278041074249605
+b'example transmit' : 0.8278041074249605
+b'intervals reception' : 0.8202211690363349
+b'downlink carrier' : 0.817693522906793
+b'communications network' : 0.8126382306477091
+b'cell communications' : 0.8025276461295417
+b'measurements serving' : 0.7974723538704581
+b'carrier frequency' : 0.779699842022117
+b'cycle adjustment' : 0.777172195892575
+b'e.g. macro' : 0.7746445497630331
+b'beacon transmission' : 0.7620063191153237
+b'cell neighbor' : 0.7544233807266982
+b'terminal information' : 0.7493680884676144
+b'occurrence event' : 0.7265402843601895
+b'time intervals' : 0.7240126382306477
+b'access terminal' : 0.7088467614533965
+b'event cycle' : 0.6834913112164298
+b'point e.g.' : 0.6809636650868879
+b'user equipment' : 0.637914691943128
+
+
+2015-01~2015-05 52/28
+-------------------------
+b'access point' : 1.2016603919297228
+b'transmit power' : 1.1968577268349723
+b'power control' : 1.1902933866476957
+b'tradeoff coverage' : 1.0
+b'terminal protection' : 0.9356115455159764
+b'Transmit power' : 0.9338739260546387
+b'point cause' : 0.9173665411719278
+b'transmissions interference' : 0.9091611159378318
+b'access terminal' : 0.9086232813426558
+b'protection scheme' : 0.9041413263828554
+b'terminals tradeoff' : 0.8992180712423979
+b'point example' : 0.887633941500145
+b'algorithms messages' : 0.887633941500145
+b'point network' : 0.8859928564533258
+b'coverage area' : 0.8760498117578916
+b'scheme interference' : 0.8727676416642534
+b'point Transmit' : 0.8694854715706151
+b'interference transmissions' : 0.867747852109277
+b'network algorithm' : 0.8644656820156387
+b'terminal communication' : 0.8528815522733854
+b'access terminals' : 0.8519989519120708
+b'point algorithms' : 0.8446761270392896
+b'algorithm initialization' : 0.8380152524374941
+b'signal technology' : 0.8280722077420599
+b'frequency band' : 0.7752678830002896
+b'connection recognition' : 0.7643457035290224
+b'devices frequency' : 0.7620426682112171
+b'broadcasting system' : 0.7520996235157834
+b'signal Provided' : 0.7504585384689643
+b'space use' : 0.7501413539641167
+b'carrier recovery' : 0.7454387489139879
+b'channel estimation' : 0.7388744087267111
+b'level performance' : 0.7305724490780963
+b'combination adjustment' : 0.7256491939376388
+b'devices channel' : 0.7173472342890239
+b'use system' : 0.7055424544564421
+b'transmitter unit' : 0.7008398494063134
+b'system connection' : 0.6982196295836609
+b'control downlink' : 0.687614634617241
+b'recognition signal' : 0.6784300746073118
+b'band broadcasting' : 0.6776715899218071
+b'OFDM-CDMA' : 0.6776715899218071
+b'interference pilot' : 0.6727483347813495
+b'control techniques' : 0.6678250796408919
+b'transmissions level' : 0.6660874601795541
+b'code set' : 0.6644463751327347
+b'recovery handoff' : 0.6628052900859156
+b'downlink and/or' : 0.6528622453904817
+b'acquisition synchronization' : 0.6528622453904817
+b'stream code' : 0.6512211603436624
+b'synchronization carrier' : 0.6495800752968433
+
+
+2012-06~2012-12 52/38
+-------------------------
+b'information base' : 1.0
+b'MS' : 1.0
+b'base station' : 0.9638218308145065
+b'handover condition' : 0.9468059212709933
+b'mode wireless' : 0.9127519748633638
+b'station power' : 0.8957360653198503
+b'response request' : 0.8850928241099285
+b'power mode' : 0.8553094505786294
+b'actions station' : 0.8439655108829536
+b'communication system' : 0.8375928425493622
+b'response message' : 0.8248253785615767
+b'wireless communication' : 0.7780039681661612
+b'BS' : 0.7482205946348621
+
+
+2011-06~2011-12 52/02
+-------------------------
+b'data transfer' : 1.0
+b'product embodiments' : 1.0
+b'computer program' : 0.9780007198128485
+b'BSS' : 0.9633345330214143
+b'message wireless' : 0.9266690660428288
+b'embodiment inserts' : 0.8997660608241856
+b'inserts message' : 0.8973366924599604
+b'power mode' : 0.8875292423969767
+b'infrastructure example' : 0.8826705056685262
+b'power modes' : 0.8728630556055424
+b'trigger indicating' : 0.8704336872413172
+b'embodiments power' : 0.8631005938456
+b'operation wireless' : 0.8606262371783335
+b'communication devices' : 0.8581968688141083
+b'example embodiment' : 0.8484344070541657
+b'Power mechanism' : 0.843530682022674
+b'confirms transmitting' : 0.8312938635954651
+b'receiving device' : 0.8203167176534101
+b'mechanism communication' : 0.7921990282526541
+b'modes operation' : 0.7628216663667444
+b'program product' : 0.7628216663667444
+b'transfer link' : 0.7610221342450961
+b'transfer period' : 0.726786035630736
+
+
+2013-06~2013-12 52/30
+-------------------------
+b'wireless communications' : 1.0
+b'packet access' : 1.0
+b'controls view' : 0.9797034708770391
+b'control uplink' : 0.9340180061644919
+b'speed packet' : 0.9069356626828942
+b'power controls' : 0.9035488468988706
+b'set speed' : 0.8646370137543706
+b'power levels' : 0.783414348890757
+b'levels set' : 0.7664924527612296
+
+
+2011-01~2011-05 52/44
+-------------------------
+b'transceiver units' : 1.0
+b'computer Additionally' : 1.0
+b'storage manipulation' : 0.9568556584594533
+b'conflicts regions' : 0.925457420374972
+b'conditions wishing' : 0.9176643325050827
+b'bar code' : 0.913711316918907
+b'communicate host' : 0.913711316918907
+b'reduces conflicts' : 0.9097583013327312
+b'criterion roaming' : 0.8980121978766662
+b'RF' : 0.8764400271063928
+b'embodiment criterion' : 0.8627738875084711
+b'system multiplicity' : 0.851027784052406
+b'scanners collection' : 0.8234696182516378
+b'controller adapter' : 0.8156765303817485
+b'station reduces' : 0.7999774113395077
+b'data bar' : 0.7921843234696184
+b'simulcast mode' : 0.7842782922972669
+b'capability Improved' : 0.7764852044273776
+b'computers storage' : 0.7725321888412018
+b'protocol heavy' : 0.7607860853851368
+b'heavy conditions' : 0.7333408628868309
+b'turn communicate' : 0.7293878473006551
+b'time embodiment' : 0.7254348317144793
+b'channel interpoll' : 0.7215947594307659
+b'code scanners' : 0.7215947594307659
+b'base stations' : 0.715608764400271
+b'communication system' : 0.7117686921165575
+b'roaming terminals' : 0.7019426248023493
+b'terminal capability' : 0.6901965213462842
+b'adapter simulcast' : 0.6822904901739326
+b'gap time' : 0.6274000451773208
+b'mode interface' : 0.6235599728936074
+b'collection means' : 0.6078608538513666
+b'communication protocol' : 0.6019878021233339
+b'host computers' : 0.5588434605827872
+b'interpoll gap' : 0.5450643776824032
+
+
+2012-06~2012-12 52/26
+-------------------------
+b'basis parameter' : 1.0
+b'AMC' : 1.0
+b'parameter transmission' : 0.9355297903944545
+b'receivers receiver' : 0.9283710183198547
+b'combination basis' : 0.9083078890906089
+b'control combination' : 0.8853874401716454
+b'CINR' : 0.7583587775760576
+b'transmit power' : 0.7411632832700665
+b'power control' : 0.7282692413489574
+
+
+2011-06~2011-12 52/34
+-------------------------
+b'basis radio' : 1.0
+b'packet transmission' : 1.0
+b'downlink stations' : 0.9796915355002193
+b'quality information' : 0.8154486344998504
+b'storage unit' : 0.809101477928533
+b'information downlink' : 0.7989411543575571
+b'transmission resource' : 0.7748317055002889
+b'control device' : 0.7659505593573133
+b'radio quality' : 0.7545354236426796
+b'transmission control' : 0.7463765341427249
+b'resource use' : 0.7418411105000453
+b'use packet' : 0.739307120928387
+
+
+2013-01~2013-05 52/04
+-------------------------
+b'wireless communication' : 1.0
+b'routing table' : 1.0
+b'system Provided' : 0.9521422222222222
+b'controllers ad' : 0.8940444444444445
+b'data transmission' : 0.8940444444444445
+b'level manner' : 0.8735288888888889
+b'network setting' : 0.8564266666666667
+b'link transmission' : 0.8530133333333334
+b'information device' : 0.8478933333333334
+b'sector recovery' : 0.8179733333333334
+b'sector response' : 0.807697777777778
+b'antenna embodiment' : 0.8017066666666667
+b'response message' : 0.7923377777777778
+b'ad hoc' : 0.7812266666666667
+b'networks system' : 0.7794844444444444
+b'power sector' : 0.7607111111111111
+b'transmission power' : 0.7521422222222223
+b'communications network' : 0.7461511111111111
+b'communication system' : 0.7410311111111112
+b'transmit power' : 0.7410311111111112
+b'setting transmit' : 0.712817777777778
+b'communications controllers' : 0.7094044444444445
+b'control networks' : 0.6880533333333335
+b'subset communications' : 0.6812266666666666
+b'power control' : 0.6760711111111111
+b'power level' : 0.618808888888889
+
+
+2015-01~2015-05 52/08
+-------------------------
+b'transmit power' : 1.0035904472025527
+b'WTRU' : 1.0
+b'command one' : 1.0
+b'control transmitter/receiver' : 0.9784888580485421
+b'power control' : 0.9587860818916347
+b'transmitter/receiver unit' : 0.9390622782254886
+b'unit carrier' : 0.9319024113296221
+b'carrier system' : 0.9014335504423664
+b'control command' : 0.8745498798803535
+b'carriers transmit' : 0.7992766536821798
+b'power parameters' : 0.7724034968747866
+
+
+2011-01~2011-05 52/26
+-------------------------
+b'path quality' : 2.0
+b'controls transmissions' : 1.9616893607200554
+b'stack architectures' : 1.9039926148165245
+b'tolerances availability' : 1.8462958689129936
+b'quality measurements' : 1.8077544426494345
+b'rates path' : 1.5769674590353104
+b'loss tolerances' : 1.5769674590353104
+b'requirements applications' : 1.5578121393953381
+b'application reliability' : 1.5384260327717516
+b'ad hoc' : 1.5192707131317795
+b'reliability requirements' : 1.2499423032540964
+b'availability rates' : 1.2499423032540964
+b'transmissions account' : 1.1345488114470343
+b'limits loss' : 1.0
+b'communication networks' : 1.0
+
+
+2014-06~2014-12 52/24
+-------------------------
+b'transmit power' : 1.8233644943808045
+b'base station' : 1.4009201190537088
+b'power level' : 1.3419389594543478
+b'OSI' : 1.1069985664016682
+b'target IoT' : 1.0729831878013814
+b'power value' : 1.0079129644209366
+b'transmission power' : 0.9696351261664946
+b'neighbor sectors' : 0.9518006863895044
+b'IoT levels' : 0.8910682479690691
+b'communication device' : 0.875792770030755
+b'wireless communication' : 0.8105618951302301
+b'power control' : 0.709688703419035
+b'network Techniques' : 0.7046374520759016
+b'communication devices' : 0.6878013814674835
+b'reception quality' : 0.6720317998175421
+b'RF' : 0.6666666666666666
+b'communication system' : 0.6531267328729644
+b'strength value' : 0.64218688909162
+b'Transmit power' : 0.641013945001955
+b'terminals sector' : 0.6367131500065164
+b'IS' : 0.6337156262218169
+b'Techniques interference' : 0.6261805251894165
+b'list target' : 0.6184673530561711
+b'UE' : 0.6154698292714714
+b'quality information' : 0.5733958903514489
+b'access point' : 0.5649246274816456
+b'number section' : 0.5528042052217733
+b'device number' : 0.5503279899213693
+b'environment parameter' : 0.543789912680829
+b'section number' : 0.5405534558408271
+b'femtocell base' : 0.5207220122507494
+b'host processor' : 0.5193101351057822
+b'P2P client' : 0.5078413484512794
+b'OTA' : 0.5065380772405405
+b'server nodes' : 0.4937660193752987
+b'wireless subsystems' : 0.4809939615100569
+b'set server' : 0.4700464833398497
+b'levels neighbor' : 0.4567531169903124
+b'scheme access' : 0.45351666015031067
+b'radio signal' : 0.4370954428949998
+b'femto cell' : 0.43657413441070425
+b'point transmit' : 0.43175203093097014
+b'signals femtocell' : 0.4013640905339068
+b'downlink signals' : 0.4008427820496112
+b'level downlink' : 0.3977149311438377
+b'estimate Sector' : 0.39708501672531393
+b'interference management' : 0.3903080064294713
+b'communication area' : 0.38066379947000306
+b'rate control' : 0.3721708154133542
+b'Interference management' : 0.3697163212997958
+b'interference estimate' : 0.3678917416047613
+
+
+2011-06~2011-12 52/30
+-------------------------
+b'basis radio' : 1.0
+b'packet transmission' : 1.0
+b'downlink stations' : 0.9886303030303031
+b'information downlink' : 0.8398268398268398
+b'quality information' : 0.8095238095238095
+b'transmission resource' : 0.801948051948052
+b'use packet' : 0.801948051948052
+b'resource use' : 0.7956329004329006
+b'storage unit' : 0.7905783549783549
+b'control device' : 0.788057142857143
+b'radio quality' : 0.7830025974025974
+b'transmission control' : 0.7137385281385281
+
+
+2014-01~2014-05 52/00
+-------------------------
+b'usage intervals' : 1.0
+b'access point' : 1.0
+b'device monitoring' : 0.9930511011332048
+b'services device' : 0.9862091084028223
+b'intervals power' : 0.9746632456703014
+b'point periods' : 0.9377806286080822
+b'Channel term' : 0.935428693607013
+b'movements device' : 0.9331836647423561
+b'bits bundling' : 0.9146889031430404
+b'wireless network' : 0.8917040838144109
+b'monitoring movements' : 0.8847551849476157
+b'battery life' : 0.8617703656189862
+b'number bits' : 0.8617703656189862
+b'periods network' : 0.8548214667521914
+b'device wireless' : 0.8456275390207397
+b'cell phone' : 0.8432756040196705
+b'Control Channel' : 0.8432756040196705
+b'Uplink Control' : 0.8432756040196705
+b'field communications' : 0.8410305751550137
+b'application acknowledge' : 0.8386786401539449
+b'LTE' : 0.831836647423562
+b'acknowledge /negative' : 0.8248877485567672
+b'Physical Uplink' : 0.8202907846910411
+b'ACK/NACK information' : 0.8202907846910411
+b'device vicinity' : 0.8202907846910411
+b'connecting device' : 0.8179388496899722
+b'system field' : 0.8179388496899722
+b'ACK' : 0.8133418858242463
+b'channel application' : 0.8110968569595893
+b'network usage' : 0.809493264913406
+b'/negative information' : 0.8087449219585202
+b'ratio user' : 0.7995509942270684
+b'phone battery' : 0.7995509942270684
+b'coverage buffer' : 0.7834081676288219
+b'power usage' : 0.7773145178533247
+b'coverage area' : 0.7749625828522557
+b'NACK' : 0.7742142398973703
+b'communication determining' : 0.7742142398973703
+b'network disconnect' : 0.7742142398973703
+b'WLAN' : 0.771862304896301
+b'network coverage' : 0.7703656189865298
+b'network transmitting' : 0.767265341030575
+b'term evolution' : 0.7650203121659181
+b'bundling scheme' : 0.7634167201197348
+b'evolution system' : 0.7626683771648494
+b'device connecting' : 0.7534744494333973
+b'determining processor' : 0.7488774855676715
+b'disconnect time' : 0.7419285867008767
+b'identifying processor' : 0.7395766516998076
+b'set access' : 0.7380799657900363
+b'utilization ratio' : 0.7303827239683558
+
+
+2011-06~2011-12 52/22
+-------------------------
+b'control identifier' : 1.2490581075206488
+b'identifier user' : 1.0377481524416752
+b'power control' : 1.0037675699174031
+b'Uplink system' : 1.0
+b'group users' : 1.0
+b'use wireless' : 0.905665845529633
+b'transmission power' : 0.8792566294739892
+b'wireless access' : 0.867917693087958
+b'channel transmission' : 0.8188668308940732
+b'access system' : 0.8150992609766696
+b'command group' : 0.8113316910592666
+b'cell system' : 0.7471743225619476
+
+
+2013-06~2013-12 52/38
+-------------------------
+b'MS' : 1.0
+b'request message' : 1.0
+b'base station' : 0.9191384615384616
+b'information base' : 0.9033641025641024
+b'actions station' : 0.8915282051282051
+b'action handover' : 0.8500923076923075
+b'handover condition' : 0.8402461538461538
+b'station wireless' : 0.8086769230769231
+b'response request' : 0.8047384615384615
+b'wireless communication' : 0.7909333333333333
+b'communication system' : 0.7712000000000001
+b'response message' : 0.7455589743589743
+b'BS' : 0.7159794871794871
+
+
+2015-01~2015-05 52/14
+-------------------------
+b'access point' : 1.3899268187688334
+b'base station' : 1.3802971886927222
+b'access terminal' : 1.0692611581995295
+b'transmit power' : 1.0128987112347787
+b'communication system' : 0.8374897133120506
+b'power control' : 0.8218639142470994
+b'communications system' : 0.81919277193027
+b'transmission power' : 0.7861342543245853
+b'base stations' : 0.7676662131015495
+b'class base' : 0.7658582062139041
+b'cell site' : 0.6641717134859748
+b'R-PDCCH' : 0.6060495771936889
+b'control channel' : 0.6036389013434953
+b'transmission mode' : 0.5927047644515451
+b'range expansion' : 0.577035371425286
+b'delta value' : 0.5527487926017907
+b'PUCCH' : 0.5509407857141453
+b'power delta' : 0.5503381167515969
+b'relay device' : 0.5345826281592594
+b'relay station' : 0.5121977809788892
+b'control processor' : 0.5090907114106672
+b'power controller' : 0.5001444017279206
+b'uplink channel' : 0.4994480080098923
+b'access request' : 0.4928186494218596
+b'uplink control' : 0.4928186494218596
+b'request message' : 0.489202635646569
+b'control element' : 0.47887116771716737
+b'terminal communication' : 0.47154541541110634
+b'step base' : 0.4710364712040378
+b'point cause' : 0.4703400774860095
+b'link transmission' : 0.46862579535384413
+b'wireless communications' : 0.46672406371071884
+b'interference power' : 0.4663088442591302
+b'access terminals' : 0.46621511950365035
+b'backhaul link' : 0.4644071126160051
+b'information determine' : 0.4631080499354283
+b'algorithms messages' : 0.461300043047783
+b'resource downlink' : 0.4595857609156177
+b'station wireless' : 0.45949203616013773
+b'communication relay' : 0.45647869134739555
+b'determination pathloss' : 0.45647869134739555
+b'downlink control' : 0.4558836515742487
+b'strength differential' : 0.4552809826117003
+b'channel ePDCCH' : 0.45467831364915184
+b'terminals tradeoff' : 0.45337925096857506
+b'transceiver access' : 0.45096857511838134
+b'channel message' : 0.4486516240236676
+b'interference transmissions' : 0.4485578992681877
+b'station downlink' : 0.44804895506111914
+b'determine therefrom' : 0.4467498923805424
+b'station transmits' : 0.4456382792109254
+
+
+2014-06~2014-12 52/40
+-------------------------
+b'transmit power' : 1.3483796251909659
+b'PHY' : 1.0535112885119122
+b'target IoT' : 1.003118373456405
+b'IoT levels' : 0.8333333333333334
+b'base station' : 0.8178454118331878
+b'Transmit power' : 0.7346264188599226
+b'channel measurement' : 0.7275788948484472
+b'list target' : 0.7015716602220281
+b'outage cell' : 0.6803043532493451
+b'strength receiver' : 0.6693276786827991
+b'ratio time' : 0.6677061244854683
+b'access terminal' : 0.6645877510290633
+b'hardware processing' : 0.6629661968317325
+b'coverage hole' : 0.6503679680678557
+b'communications standards' : 0.6488711488087813
+b'macro cell' : 0.6393912935013096
+b'standards ratio' : 0.6299114381938381
+b'mode Systems' : 0.6284146189347636
+b'quality Transmit' : 0.6251715105401023
+b'CSG' : 0.6233212756226353
+b'measurement coverage' : 0.6204315828863665
+b'mobility mode' : 0.6204315828863665
+b'antennas number' : 0.6204315828863665
+b'downlink transmissions' : 0.6158163901708869
+b'Evaluating reporting' : 0.6158163901708869
+b'hole interference' : 0.6125732817762255
+b'node outage' : 0.6125732817762255
+b'e.g. macro' : 0.6125732817762255
+b'receiver loss' : 0.6125732817762255
+b'network beamforming' : 0.6063365348634152
+b'channel quality' : 0.6015966072096794
+b'resource partitioning' : 0.601367926489543
+b'WTRU' : 0.5978961373747455
+b'hardware wireless' : 0.5968566795559437
+b'allocation system' : 0.5937383060995385
+b'power channel' : 0.5933848904411458
+b'beamforming transmission' : 0.5889983784458026
+b'cell level' : 0.582636896594736
+b'Adaptation transmit' : 0.582636896594736
+b'loss node' : 0.5811400773356616
+b'unit path' : 0.577668288220864
+b'communication interference' : 0.5764001496819259
+b'interference Transmit' : 0.5747785954845953
+b'radio system' : 0.5700386678308594
+b'Resource uplink' : 0.5700386678308594
+b'level coverage' : 0.568541848571785
+b'performance degradation' : 0.5669202943744542
+b'comprises layer' : 0.5654234751153798
+b'characteristics examples' : 0.560683547461644
+b'power characteristics' : 0.5590619932643133
+b'order radio' : 0.5559436198079082
+
+
+2015-01~2015-05 52/24
+-------------------------
+b'access point' : 1.7102004716981134
+b'access terminal' : 1.4959140863654872
+b'base station' : 1.4705179284588517
+b'power control' : 1.361290334119229
+b'transmit power' : 1.328250274033836
+b'UE' : 1.1024065947446577
+b'communication system' : 0.9472872386387587
+b'power parameters' : 0.8365197181810562
+b'BTS' : 0.8285351667818455
+b'base stations' : 0.8129101667818455
+b'radio module' : 0.7708764824820802
+b'class base' : 0.7591071007441097
+b'LTE' : 0.6778404396917488
+b'reception unit' : 0.6510126095030696
+b'power amplification' : 0.6436423264842017
+b'module power' : 0.6321216138825495
+b'power reduction' : 0.6315550623332582
+b'CS' : 0.6261010528992961
+b'embodiment radio' : 0.5682949629391533
+b'resource impact' : 0.5564563679245284
+b'reduction request' : 0.5507536893542477
+b'use system' : 0.5395508591655684
+b'Power control' : 0.53731670316769
+b'communication channel' : 0.5340968497316061
+b'space use' : 0.5321805761467004
+b'RRC' : 0.5277122641509434
+b'modulation class' : 0.5265791610523609
+b'IDC' : 0.526261278639388
+b'capability message' : 0.5259433962264152
+b'scheme interference' : 0.525058962264151
+b'range expansion' : 0.5242437415785414
+b'eNB reporting' : 0.5240271226415095
+b'message Power' : 0.5194575471698114
+b'eNB capability' : 0.5138561320754716
+b'requests base' : 0.5132895805261805
+b'access terminals' : 0.5059192975073125
+b'coexistence applies' : 0.5056014150943396
+b'channel power' : 0.5022341559978785
+b'parameters informs' : 0.5000000000000001
+b'algorithms messages' : 0.49911556603773594
+b'MAC' : 0.495430424528302
+b'cost solution' : 0.49439858490566047
+b'solutions require' : 0.49159787735849064
+b'impact throughput' : 0.48982900943396224
+b'communication device' : 0.4889445754716981
+b'protection scheme' : 0.48702830188679247
+b'point algorithms' : 0.48422759433962265
+b'amplification request/modulation' : 0.4808603352431615
+b'point example' : 0.47774174528301894
+b'require resource' : 0.47774174528301894
+b'setting modulation' : 0.47774174528301894
+
+
+2010-01~2010-05 52/18
+-------------------------
+b'embodiment signal' : 1.3042498984602888
+b'data rate' : 1.273492596831961
+b'use bandwidth' : 1.2047653918336532
+b'grade service' : 1.1842359083938572
+b'bandwidth grade' : 1.105588786583127
+b'irrespective adjustments' : 1.1038903041402661
+b'loop use' : 1.1038903041402661
+b'ratios irrespective' : 1.0936255624203683
+b'change data' : 1.0833977442318363
+b'service GoS' : 1.0782653733718877
+b'rates example' : 1.0748314849547993
+b'rate sources' : 1.0680006316519894
+b'control communication' : 1.0663021492091285
+b'sources variations' : 1.0663021492091285
+b'indicative difference' : 1.0
+b'control loop' : 1.0
+b'communication system' : 0.8815802862670004
+b'difference quality' : 0.7072946537322611
+b'erased/good metrics' : 0.6885005762666924
+b'loop communication' : 0.6731034636868451
+b'metrics confidence' : 0.6697064988011237
+b'power control' : 0.6656824497263356
+b'frame status' : 0.6611402395240862
+b'confidence results' : 0.6509124213355547
+b'system Techniques' : 0.6201181961758605
+b'results power' : 0.6132873428730505
+b'indicative erased/good' : 0.6115888604301897
+
+
+2014-06~2014-12 52/42
+-------------------------
+b'MIMO' : 1.1049014803164818
+b'communication device' : 1.026530092887136
+b'wireless communication' : 1.0
+b'energy consumption' : 0.9030665479068585
+b'communication system' : 0.8766281631005511
+b'operation information' : 0.7490265937142131
+b'condition quality' : 0.7172032065148239
+b'system disclosure' : 0.6892098231327143
+b'system example' : 0.6774398778470544
+b'set information' : 0.6623997964117573
+b'network traffic' : 0.6612164397506044
+b'consumption network' : 0.6568265682656826
+b'traffic condition' : 0.6538999872757348
+b'consumption level' : 0.6462399796411757
+b'embodiments set' : 0.6450566229800231
+b'Approach energy' : 0.643593332485049
+b'information reception' : 0.6302964753785468
+b'multiple-output system' : 0.6182465962590661
+b'example embodiments' : 0.5993765110064896
+b'consumption multiple-output' : 0.5976332866776946
+b'disclosure energy' : 0.5816897824150656
+b'carrier frequency' : 0.43091996437205754
+b'structures requests' : 0.4300165415447259
+b'channel structures' : 0.41086652245832816
+b'antenna receives' : 0.410586588624507
+b'LTE' : 0.3976332866776945
+b'manages resources' : 0.38878992238198257
+b'information station' : 0.3873266318870085
+b'systems Embodiments' : 0.3784832675912966
+b'signal carrier' : 0.3782033337574756
+b'communication systems' : 0.37701997709632273
+b'inclusion standard' : 0.3740933961063749
+b'system methodology' : 0.37110319379055867
+b'Embodiments system' : 0.37110319379055867
+b'types channel' : 0.36671332230563697
+b'communications communication' : 0.3593332485048989
+b'station receiver/UE' : 0.35786995800992505
+b'information types' : 0.35341646519913483
+b'management communications' : 0.3372566484285533
+b'diversity mode' : 0.3284132841328413
+b'command message' : 0.32548670314289346
+b'requests inclusion' : 0.3151800483522077
+b'access terminal' : 0.31190991220257036
+b'Channel rank' : 0.3107265555414175
+b'antenna module' : 0.2942231836111466
+b'switch command' : 0.2754167196844382
+b'CQI' : 0.20438987148492185
+b'Techniques channel' : 0.19436315052805703
+b'channel quality' : 0.16197989566102566
+b'indicator information' : 0.15612673368113
+b'channelization code' : 0.13990329558468007
+
+
+2014-06~2014-12 52/12
+-------------------------
+b'Communications unit' : 2.0
+b'communications network' : 1.8945772987537912
+b'network radio' : 1.4737285281239492
+b'base station' : 1.0
+
+
+2010-01~2010-05 52/28
+-------------------------
+b'wireless network' : 1.133672491336725
+b'location detection' : 1.0
+b'termination condition' : 1.0
+b'loss determines' : 0.9815674998156749
+b'battery energy' : 0.9723512497235125
+b'periods intermittence' : 0.9400575094005755
+b'energy usage' : 0.9078374990783754
+b'Power system' : 0.8847600088476004
+b'criteria conditions' : 0.8847600088476004
+b'date tower' : 0.8801887488018879
+b'determines event' : 0.8756174887561753
+b'day date' : 0.8617562486175628
+b'event records' : 0.8433237484332379
+b'tower number' : 0.8248912482489128
+b'time day' : 0.8203199882032003
+b'events time' : 0.8111037381110378
+b'intermittence reliability' : 0.7834549878345503
+b'enters mode' : 0.7189412371894126
+b'device periods' : 0.6774312467743127
+b'number location' : 0.6543537565435377
+
+
+2015-01~2015-05 52/02
+-------------------------
+b'DRX' : 2.0
+b'EAB' : 1.154728186628612
+b'transmission reception' : 1.091743905626317
+b'UE' : 1.0861524726091445
+b'communication system' : 1.0275115740633352
+b'DTX' : 1.0044173201884408
+b'STA' : 0.9994456492088004
+b'wireless communication' : 0.91165677902288
+b'AP' : 0.9022166239136493
+b'control channel' : 0.864028189024402
+b'time period' : 0.8482552359165397
+b'indication information' : 0.8277936775284912
+b'base station' : 0.7696505558795359
+b'access point' : 0.7472824080064425
+b'PS' : 0.6902559385147374
+b'WTRU' : 0.6872162937361488
+b'access terminal' : 0.6774982764743193
+b'interval control' : 0.6707993803127917
+b'cell site' : 0.6630735867728768
+b'poll frame' : 0.6614065591118525
+b'registration server' : 0.6050291082279301
+b'information paging' : 0.5981419594380989
+b'accordance level' : 0.5971458475771417
+b'anchor carrier' : 0.5880782224370925
+b'paging message' : 0.5627511509845597
+b'carriers transmission' : 0.5464711809937896
+b'processor processor' : 0.5459885178220261
+b'awake state' : 0.5391013690321949
+b'pattern anchor' : 0.5357365281927161
+b'carrier pattern' : 0.534226967642565
+b'signal activation' : 0.5317007715531701
+b'reception cell' : 0.5285241833419948
+b'packet counterparty' : 0.5224962029805343
+b'cell speed' : 0.5198022779411227
+b'fluctuation amount' : 0.510922905429377
+b'power state' : 0.4973368604780184
+b'transceiver device' : 0.49617301966704447
+b'execution operation' : 0.49582729992786745
+b'order supplementary' : 0.49496813149949687
+b'occurrence event' : 0.49364682357764944
+b'access unit' : 0.4906071787990608
+b'network entity' : 0.48861495507714625
+b'description indication' : 0.48675967478781834
+b'layer signal' : 0.4833948339483395
+b'channel order' : 0.4833948339483395
+b'access class' : 0.4802182457371642
+b'barring communication' : 0.4798725259979872
+b'packet access' : 0.4798725259979872
+b'power controller' : 0.4756998259258547
+b'user equipment' : 0.4735193495756366
+b'SIB' : 0.47266018114726605
+
+
+2014-06~2014-12 52/30
+-------------------------
+b'target IoT' : 1.0
+b'UEs transmission' : 1.0
+b'wireless communication' : 0.9828178694158075
+b'IoT levels' : 0.9501718213058419
+b'transmit power' : 0.9450171821305842
+b'Techniques resource' : 0.9450171821305842
+b'base stations' : 0.9295395189003434
+b'nodes base' : 0.9209621993127147
+b'uplink wireless' : 0.9106529209621993
+b'resources transmit' : 0.9054845360824739
+b'uplink nodes' : 0.9037800687285222
+b'communication network' : 0.8831615120274913
+b'network Techniques' : 0.8797250859106528
+b'Resource uplink' : 0.8762886597938143
+b'rates UEs' : 0.8574020618556699
+b'transmission resources' : 0.8453608247422678
+b'neighbor node' : 0.8195876288659791
+b'list target' : 0.814446735395189
+b'resource partitioning' : 0.7989690721649483
+b'levels neighbor' : 0.7663230240549826
+
+
+2014-06~2014-12 52/22
+-------------------------
+b'transmission power' : 1.3403331372621838
+b'power control' : 1.2754490843711888
+b'power level' : 1.1905513973769142
+b'base station' : 0.805251680834049
+b'radio access' : 0.750728146241911
+b'access scheme' : 0.736170706154017
+b'communication device' : 0.6779119906050097
+b'communication devices' : 0.6752997662082478
+b'reception quality' : 0.6675403759727194
+b'symbol sequence' : 0.5851397717016215
+b'Fourier transform' : 0.5662562998894948
+b'quality information' : 0.5586024168688096
+b'section number' : 0.5371782597583241
+b'number section' : 0.5200114672018454
+b'femtocell base' : 0.5199746271572281
+b'device number' : 0.5156854354776128
+b'set radio' : 0.4685110895324092
+b'frequency transmission' : 0.44104422144204314
+b'result transmission' : 0.4291698139119687
+b'wireless communication' : 0.42913297386735133
+b'control data' : 0.4264867813541492
+b'devices wireless' : 0.41715305912243356
+b'radio signal' : 0.41704755190759035
+b'signals femtocell' : 0.40931998879767045
+b'calculates reception' : 0.4025269518643137
+b'section measures' : 0.3939435555860743
+b'transmits quality' : 0.39222687633042636
+b'power value' : 0.3913660302430982
+b'section transmits' : 0.38879351781913063
+b'devices basis' : 0.3879695117764197
+b'comparison result' : 0.38707683856348285
+b'level downlink' : 0.3870031584742481
+b'downlink signals' : 0.3870031584742481
+b'Transmission power' : 0.383643480052187
+b'UE' : 0.3809604474943676
+b'basis comparison' : 0.38027878871111725
+b'measures quality' : 0.3759527569868846
+b'section calculates' : 0.3751287509441736
+b'generation unit' : 0.3638991621527321
+b'transmission signal' : 0.3638991621527321
+b'access schemes' : 0.35535260591911005
+b'transform symbol' : 0.3544230926615559
+b'control table' : 0.35270641340590797
+b'control quality' : 0.35102657419487737
+b'unit Fourier' : 0.35098973415026014
+b'power limit' : 0.3449101831257622
+b'sequence set' : 0.3441230171276686
+b'distance data' : 0.3132227905260069
+b'sequence parallel' : 0.30295955503673694
+b'parallel conversion' : 0.28586142965048406
+b'transmitter antenna' : 0.2832520771818993
+
+
+2009-06~2009-12 52/34
+-------------------------
+b'user traffic' : 1.1197865017791517
+b'control information' : 1.0468704427463105
+b'Channel timeslots' : 1.0
+b'CPCH' : 1.0
+b'reuse timeslot' : 0.96094615878201
+b'Physical Channel' : 0.9400921658986175
+b'channels user' : 0.9166715277372689
+b'system timeslots' : 0.8932217231523072
+b'Common Physical' : 0.8906259114507378
+b'wireless communication' : 0.8802134982208482
+b'system Common' : 0.8593886717610685
+b'communication system' : 0.8437554687044274
+b'timeslots user' : 0.7994808376596862
+b'timeslot reception' : 0.6875109374088549
+
+
+2015-01~2015-05 52/00
+-------------------------
+b'sites reallocation' : 1.0
+b'cell site' : 1.0
+b'circuit management' : 0.9464998948917386
+b'rectifiers runtime' : 0.9464998948917386
+b'indicators devices' : 0.9391948707168384
+b'system use' : 0.9391948707168384
+b'control output' : 0.9294723565272229
+b'sites adjustment' : 0.917279798192138
+b'systems Systems' : 0.9051397939878074
+b'failure conversion' : 0.8783371873029221
+b'circuit voltages' : 0.8783371873029221
+b'adjustment indicators' : 0.8783371873029221
+b'output transmit' : 0.871032163128022
+b'voltages battery' : 0.8564746689089764
+b'reallocation slots' : 0.8540046247635062
+b'bit rate' : 0.8515871347487912
+b'conversion efficiencies' : 0.8466996005886062
+b'rate transfer' : 0.8345595963842759
+b'cell sites' : 0.819371452596174
+b'battery string' : 0.8175320580197603
+b'RF' : 0.8144839184359889
+b'efficiencies example' : 0.8102270338448601
+b'communications bit' : 0.8005045196552448
+b'management system' : 0.7980870296405298
+b'Rectifier circuit' : 0.7664494429262139
+b'power controller' : 0.7457431154088712
+b'slots radios' : 0.7128967836871977
+
+
+2015-01~2015-05 52/10
+-------------------------
+b'access request' : 1.0181710652103382
+b'wireless communications' : 1.0
+b'WTRU' : 1.0
+b'power delta' : 0.986950012089925
+b'relay device' : 0.9741196027525726
+b'base station' : 0.9730012502015718
+b'delta value' : 0.957795718001768
+b'communications system' : 0.9573869114187651
+b'request message' : 0.9042689038596521
+b'control processor' : 0.8927267931430458
+b'channel message' : 0.8113147015929845
+b'transmit power' : 0.8056224960851737
+b'uplink channel' : 0.8023678811849786
+b'power control' : 0.7795534597008926
+b'control element' : 0.7642282028077467
+b'station relay' : 0.7081948836145031
+b'information determine' : 0.6839228063133516
+b'request grant' : 0.683513999730349
+b'grant response' : 0.6745671793223431
+b'level uplink' : 0.6625969800821998
+b'determination pathloss' : 0.6491381855891218
+b'processor transceiver' : 0.6491381855891218
+b'station wireless' : 0.6211408079330347
+b'pathloss relay' : 0.5953415714978798
+b'communication relay' : 0.5919865138448777
+b'determine therefrom' : 0.586356187208805
+b'transceiver access' : 0.5818827770048021
+b'transmitter receiver' : 0.5695423350627249
+b'thereof transmit' : 0.5460183676106405
+b'control information' : 0.5370329833215657
+b'processor transmitter' : 0.5336779256685635
+b'control command' : 0.5209672410245529
+b'part thereof' : 0.5123906633184807
+b'determine part' : 0.5101539582164791
+b'message set' : 0.5056419841314073
+b'TPC' : 0.4989318688254028
+b'power parameters' : 0.47276238968831447
+b'carriers transmit' : 0.43801633284515373
+b'control transmitter/receiver' : 0.27807652194329263
+b'unit carrier' : 0.27695816939229184
+b'transmitter/receiver unit' : 0.27248475918828896
+b'carrier system' : 0.2634993748992141
+b'command one' : 0.2590259646952111
+
+
+2014-06~2014-12 52/04
+-------------------------
+b'base station' : 1.1748358005274695
+b'frequency band' : 1.1079999999999999
+b'communication devices' : 1.1016190476190477
+b'reception quality' : 1.0333333333333332
+b'peer communications' : 0.9413333333333332
+b'device number' : 0.8904761904761904
+b'number section' : 0.8730476190476191
+b'quality information' : 0.8619047619047618
+b'peer-to-peer network' : 0.8587619047619046
+b'section number' : 0.8016190476190476
+b'area peer-to-peer' : 0.7841904761904761
+b'information peer' : 0.7285714285714284
+b'wireless terminals' : 0.6778095238095239
+b'access node' : 0.6682857142857143
+b'wireless communication' : 0.6603809523809523
+b'Wireless communication' : 0.6476190476190474
+b'power value' : 0.6444761904761904
+b'radio signal' : 0.6413333333333333
+b'transmits sequence' : 0.6318095238095237
+b'embodiments signal' : 0.6238095238095238
+b'network attachment' : 0.6190476190476191
+b'addition support' : 0.6063809523809522
+b'bursts burst' : 0.6063809523809522
+b'conveying information' : 0.6032380952380951
+b'calculates reception' : 0.5968571428571429
+b'beacon symbol' : 0.5904761904761904
+b'attachment embodiments' : 0.5889523809523809
+b'traffic state' : 0.5873333333333333
+b'sequence bursts' : 0.5746666666666665
+b'section calculates' : 0.5619047619047618
+b'devices basis' : 0.5619047619047618
+b'devices wireless' : 0.5539999999999999
+b'device data' : 0.5476190476190476
+b'burst power' : 0.546095238095238
+b'point network' : 0.5142857142857142
+b'result transmission' : 0.5127619047619048
+b'basis comparison' : 0.5032380952380953
+b'power control' : 0.49999999999999994
+b'power beacon' : 0.49047619047619045
+b'Systems methodologies' : 0.49047619047619045
+b'transmission power' : 0.48419047619047617
+b'communications system' : 0.4825714285714286
+b'transmits conveying' : 0.4746666666666667
+b'comparison result' : 0.46990476190476177
+b'discovery state' : 0.46352380952380945
+b'measures quality' : 0.4556190476190476
+b'section transmits' : 0.454
+b'interface technology' : 0.4523809523809523
+b'control quality' : 0.4492380952380951
+b'section measures' : 0.4476190476190475
+b'data traffic' : 0.4428571428571428
+
+
+2015-01~2015-05 52/46
+-------------------------
+b'power delta' : 1.093791456619793
+b'delta value' : 1.0318386840010612
+b'wireless communications' : 1.0
+b'uplink channel' : 0.9491416960794713
+b'communications system' : 0.9363226319978776
+b'control element' : 0.8486287395038986
+b'station wireless' : 0.8162103400673177
+b'determine therefrom' : 0.8128495900894279
+b'pathloss relay' : 0.8128495900894279
+b'control processor' : 0.8099259099358035
+b'channel message' : 0.7967139964243902
+b'processor transceiver' : 0.796090060594425
+b'level uplink' : 0.7894127810330913
+b'communication relay' : 0.7826912810773118
+b'information determine' : 0.7709728765491433
+b'transceiver access' : 0.7692925015601983
+b'determination pathloss' : 0.7642955969878097
+b'request grant' : 0.7012421648156524
+b'grant response' : 0.6794415103538146
+b'station relay' : 0.6593654512753676
+b'request message' : 0.6316144447942211
+b'transmit power' : 0.6185451768940623
+b'processor transmitter' : 0.586706492893001
+b'transmitter receiver' : 0.5817095883206121
+b'control information' : 0.5649500588256092
+b'TPC' : 0.5632696838366643
+b'message set' : 0.5532316542974407
+b'determine part' : 0.4962757862510977
+b'relay device' : 0.49513547279847747
+b'thereof transmit' : 0.4828770067339845
+b'part thereof' : 0.47783588176714964
+b'access request' : 0.469251707311976
+b'base station' : 0.4666575387753061
+
+
+2010-06~2010-12 52/04
+-------------------------
+
+
+2011-01~2011-05 52/28
+-------------------------
+b'transceiver units' : 1.0
+b'conflicts regions' : 1.0
+b'base stations' : 0.9558073654390937
+b'controller adapter' : 0.9475920679886686
+b'adapter simulcast' : 0.9409820585457982
+b'heavy conditions' : 0.9279508970727102
+b'RF' : 0.9262511803588294
+b'conditions wishing' : 0.9049102927289898
+b'criterion roaming' : 0.8983947119924459
+b'computers storage' : 0.8852691218130314
+b'storage manipulation' : 0.8689329556185083
+b'communication system' : 0.857412653446648
+b'turn communicate' : 0.849197355996223
+b'collection means' : 0.8426817752596791
+b'communicate host' : 0.8426817752596791
+b'code scanners' : 0.8393767705382438
+b'station reduces' : 0.8360717658168085
+b'reduces conflicts' : 0.8262511803588293
+b'capability Improved' : 0.8131255901794147
+b'mode interface' : 0.8066100094428709
+b'roaming terminals' : 0.8033050047214355
+b'simulcast mode' : 0.8000000000000002
+b'terminal capability' : 0.7868744098205855
+b'protocol heavy' : 0.7705382436260625
+b'scanners collection' : 0.7672332389046271
+b'bar code' : 0.7607176581680832
+b'computer Additionally' : 0.7574126534466479
+b'communication protocol' : 0.7525023607176582
+b'embodiment criterion' : 0.7344664778092541
+b'gap time' : 0.7344664778092541
+b'host computers' : 0.7327667610953733
+b'system multiplicity' : 0.7311614730878188
+b'channel interpoll' : 0.7213408876298395
+b'data bar' : 0.7115203021718604
+b'time embodiment' : 0.691784702549575
+b'interpoll gap' : 0.6393767705382436
+
+
+2013-06~2013-12 52/24
+-------------------------
+b'combination basis' : 1.0
+b'AMC' : 1.0
+b'receivers receiver' : 0.9835011596160056
+b'control combination' : 0.9211167542494788
+b'basis parameter' : 0.9137480550744208
+b'data transmission' : 0.8935795437865132
+b'control data' : 0.8697120042274608
+b'peak power' : 0.8642221765552064
+b'scheme meets' : 0.8091771129965063
+b'signal channel' : 0.7669612189178875
+b'spectrum sensor' : 0.7559815635733788
+b'CINR' : 0.7483241836205461
+b'use user' : 0.7449725508616387
+b'radio spectrum' : 0.7449725508616387
+b'modulation scheme' : 0.7321140240143263
+b'PAPR' : 0.7315073050915459
+b'power control' : 0.7244860014287251
+b'feature space' : 0.7174353403986731
+b'transmit power' : 0.6950992768301871
+b'channel use' : 0.6880779731673663
+
+
+2011-01~2011-05 52/48
+-------------------------
+b'controls transmissions' : 2.0
+b'rates path' : 1.8991630533427446
+b'stack architectures' : 1.8571140465866693
+b'limits loss' : 1.7983261066854894
+b'quality measurements' : 1.7899566401129374
+b'communication networks' : 1.7814863365937277
+b'requirements applications' : 1.7731168700211755
+b'tolerances availability' : 1.6974891600282342
+b'ad hoc' : 1.6722799233639203
+b'path quality' : 1.5966522133709788
+b'application reliability' : 1.5546032066149034
+b'reliability requirements' : 1.5041847332862757
+b'availability rates' : 1.3193506100635268
+b'loss tolerances' : 1.2520923666431374
+b'transmissions account' : 1.0
+
+
+2014-06~2014-12 52/08
+-------------------------
+b'unit base' : 1.0
+b'transmission power' : 1.0
+b'control command' : 0.9961635713662915
+b'command base' : 0.9693957624901909
+b'use timing' : 0.9637283110994856
+b'unit transmit' : 0.9522190251983608
+b'phone wireless' : 0.9388787165402389
+b'node noise' : 0.9292876449559684
+b'CDMA' : 0.9273694306391141
+b'SINR' : 0.9254512163222599
+b'sets UEs' : 0.9196965733716975
+b'device phone' : 0.9121109076641379
+b'station adjustment' : 0.9082744790304298
+b'Wireless communication' : 0.8986834074461593
+b'threshold pilot' : 0.8929287644955969
+b'pilot channel' : 0.8834248844711831
+b'server peer-to-peer' : 0.8719155985700583
+b'wireless communication' : 0.8702008312262038
+b'timing adjustment' : 0.8661609556194959
+b'server neighbor' : 0.8661609556194959
+b'nodes strength' : 0.85090243264452
+b'client design' : 0.8451477896939577
+b'noise threshold' : 0.8432295753771034
+b'design sets' : 0.8393931467433953
+b'manner set' : 0.837474932426541
+b'channel information' : 0.8338419507658323
+b'scheduling node' : 0.8279710524021272
+b'value basis' : 0.8262562850582729
+b'WAN' : 0.8202981951347109
+b'operations system' : 0.8202981951347109
+b'strength set' : 0.8164617665010028
+b'neighbor server' : 0.8012032435260266
+b'base station' : 0.7898974045979017
+b'server node' : 0.7896939576249018
+b'basis variation' : 0.7803063330136308
+b'management manner' : 0.7763536489667799
+b'power level' : 0.7746388816229255
+b'network Techniques' : 0.7725172203330717
+b'adjustment value' : 0.7708024529892173
+b'Techniques interference' : 0.7629261487488012
+b'area network' : 0.7612113814049468
+b'communication area' : 0.7592931670880926
+b'control value' : 0.7575783997442381
+b'rate control' : 0.7499927340366787
+b'reference value' : 0.7446449850321155
+b'server nodes' : 0.7327288051849914
+b'P2P client' : 0.7213067108437238
+b'interference management' : 0.7191850495538696
+b'communication device' : 0.7174702822100154
+b'information power' : 0.7019211207021827
+b'variation transmission' : 0.7002063533583283
+
+
+2009-06~2009-12 52/30
+-------------------------
+b'power duty-cycle' : 1.0
+b'SAR' : 1.0
+b'devices bodies' : 0.9976781308953708
+b'duty cycle' : 0.9697673293668072
+b'transmitter \xe2\x80\x9con-times\xe2\x80\x9d' : 0.9651235911575485
+b'levels products' : 0.9581096115706478
+b'products transmission' : 0.948822135152131
+b'duty-cycle limits' : 0.9465002660475018
+b'\xe2\x80\x9con-times\xe2\x80\x9d transmission' : 0.937212789628985
+b'transmit power' : 0.9185894645189379
+b'time measurements' : 0.9185894645189379
+b'transmissions devices' : 0.8976442703042616
+b'wireless node' : 0.8953224011996324
+b'power levels' : 0.8883567938857448
+b'function combination' : 0.8627678614618101
+b'handheld devices' : 0.8627678614618101
+b'device function' : 0.8558022541479225
+b'cases limits' : 0.8511585159386641
+b'access control' : 0.8139602379915835
+b'measurements transmitter' : 0.8116383688869542
+b'absorption rate' : 0.8092923136458183
+b'bodies cases' : 0.7953369128815363
+b'monitors controls' : 0.7720698495622312
+b'control protocol' : 0.7406883374449766
+b'MAC' : 0.6639215401731727
+b'ATP' : 0.6569559328592851
+
+
+2013-01~2013-05 52/02
+-------------------------
+b'gaps\xe2\x80\x9d pattern' : 1.0
+b'UE' : 1.0
+b'quality cell' : 0.9943094903016585
+b'S_Intrasearch parameter' : 0.9405249954108792
+b'example wireless' : 0.9235146545921801
+b'multi mode' : 0.8923698219421161
+b'cell threshold' : 0.8668543107140674
+b'devices device' : 0.8526586306063758
+b'device modes' : 0.8498439698953681
+b'enter state' : 0.8413387994860186
+b'operation instructions' : 0.8413387994860186
+b'architecture multi' : 0.8385241387750105
+b'battery power' : 0.8243284586673194
+b'device bus' : 0.8101939668359542
+b'measurement report' : 0.8073793061249466
+b'threshold S_Intrasearch' : 0.8045034571376126
+b'functioning master' : 0.798874135715597
+b'behavior mode' : 0.7951212547675865
+b'bus memory' : 0.793183626017255
+b'mode devices' : 0.7761732851985559
+b'application processor' : 0.771482184013543
+b'master processor' : 0.7582859124191805
+b'state measurement' : 0.7563482836688491
+b'modes example' : 0.7450284525484919
+b'memory interface' : 0.7252034510187847
+b'computing application' : 0.7242652307817823
+b'DRX' : 0.6024393726162067
+
+
+2015-01~2015-05 52/58
+-------------------------
+b'transmission mode' : 1.070933199180711
+b'R-PDCCH' : 1.0
+b'control information' : 1.0
+b'communication system' : 0.9810988537137519
+b'signal demodulation' : 0.9456322541233965
+b'modes reference' : 0.9408890006827413
+b'downlink channel' : 0.9077940278127133
+b'demodulation accordance' : 0.9030867081102448
+b'reference signal' : 0.8912645082467932
+b'information step' : 0.8676201085198894
+b'radio communication' : 0.8227029357864101
+b'station transmits' : 0.8156000335381557
+b'backhaul link' : 0.8061494603950317
+b'relay station' : 0.8037898115874327
+b'station downlink' : 0.7943272605315799
+b'base station' : 0.76360391438188
+b'transmits relay' : 0.7375878879346487
+b'step base' : 0.7068645417849486
+b'link transmission' : 0.6974139686418246
+
+
+2014-06~2014-12 52/34
+-------------------------
+b'UE' : 1.4559314061759498
+b'communication devices' : 1.3142260385240196
+b'reception quality' : 1.2696681364585751
+b'power control' : 1.1804443488676672
+b'P2P client' : 1.0878007271602073
+b'quality information' : 1.07503674479771
+b'set server' : 1.064902916376576
+b'server nodes' : 1.0559294499883962
+b'section number' : 1.0394523091204453
+b'device number' : 1.0305562002011293
+b'number section' : 1.0152394213661329
+b'communication area' : 0.8676413707743482
+b'radio signal' : 0.8332946545989014
+b'interference management' : 0.8257136226502668
+b'wireless communication' : 0.820608029705268
+b'Interference management' : 0.7888141100023207
+b'area network' : 0.7722596116655063
+b'power value' : 0.7671540187205074
+b'calculates reception' : 0.7264639900982439
+b'server neighbor' : 0.7175678811789278
+b'section measures' : 0.711224568732111
+b'Techniques interference' : 0.6997756633402956
+b'devices wireless' : 0.6959077898971145
+b'control quality' : 0.6933549934246153
+b'manner set' : 0.6933549934246153
+b'measures quality' : 0.6895644774502979
+b'result transmission' : 0.684458884505299
+b'design sets' : 0.683221165003481
+b'WAN' : 0.6819060880327995
+b'comparison result' : 0.6768778525566643
+b'devices basis' : 0.6743250560841648
+b'transmission power' : 0.6717722596116655
+b'basis comparison' : 0.670457182640984
+b'transmits quality' : 0.670457182640984
+b'sets UEs' : 0.6679043861684845
+b'server node' : 0.6666666666666666
+b'power information' : 0.6666666666666665
+b'nodes strength' : 0.6628761506923493
+b'CQI' : 0.6587455788514223
+b'server peer-to-peer' : 0.6564554807766689
+b'section transmits' : 0.6539800417730331
+b'Transmission power' : 0.6514272453005339
+b'strength set' : 0.6514272453005339
+b'management manner' : 0.6450065753848532
+b'network Techniques' : 0.6272143575462211
+b'neighbor server' : 0.6119749361800882
+b'section calculates' : 0.6081070627369072
+b'client design' : 0.599210953817591
+b'communication system' : 0.5761122249458412
+b'MIMO' : 0.5634256000522078
+b'channelization code' : 0.4718343569176832
+
+
+2014-06~2014-12 52/48
+-------------------------
+b'uplink data' : 1.0
+b'service requirement' : 1.0
+b'Service QoS' : 0.9571626123577849
+b'Quality Service' : 0.9517882959331198
+b'coverage retransmission' : 0.9232195612546358
+b'transmission attempts' : 0.9196366836381922
+b'communication value' : 0.9196366836381922
+b'L2 techniques' : 0.9053680306744609
+b'power gain' : 0.8964359796341694
+b'transmission format' : 0.8803507448613992
+b'format number' : 0.8767992959959771
+b'arrangement transmit' : 0.8696649695141114
+b'session Quality' : 0.8624992142812244
+b'retransmission L2' : 0.8535734489911371
+b'QoS communications' : 0.8535734489911371
+b'data channel' : 0.8500157143755108
+b'number transmission' : 0.8482305613174931
+b'gain factor' : 0.8446413979508455
+b'delivery minimum' : 0.8053617449242567
+b'communications session' : 0.805349173423848
+b'value range' : 0.7803507448613991
+b'transmit power' : 0.7446476837010498
+
+
+2014-01~2014-05 52/28
+-------------------------
+b'transport blocks' : 1.0
+b'uplink aspect' : 1.0
+b'blocks time' : 0.989469757833123
+b'data channels' : 0.989469757833123
+b'order individual' : 0.9725984161597612
+b'hardware software' : 0.9536038103982555
+b'assignments data' : 0.9514805463101111
+b'assignments terminal' : 0.9240502697119246
+b'channels transport' : 0.9156145988752439
+b'procedure parallel' : 0.9135200275450476
+b'scheduling transmission' : 0.9093021921267072
+b'channel procedures' : 0.8987432572018821
+b'time constraint' : 0.8881843222770571
+b'priority order' : 0.875530816022036
+b'terminal priority' : 0.843882704005509
+b'software strategies' : 0.8375702972569724
+b'prioritization assignments' : 0.6677091702054402
+
+
+2014-06~2014-12 52/16
+-------------------------
+b'transmit power' : 1.2065353070886424
+b'uplink data' : 1.174350821409645
+b'gain factor' : 0.9695460166048402
+b'data channel' : 0.9135488429606078
+b'power gain' : 0.8624094682918212
+b'format number' : 0.8176117293764354
+b'communication value' : 0.8160219042571986
+b'RF' : 0.8
+b'number transmission' : 0.7951775304716483
+b'QoS communications' : 0.7919978802331744
+b'retransmission L2' : 0.779190955661544
+b'value range' : 0.7728139904610494
+b'Quality Service' : 0.7679738562091505
+b'L2 techniques' : 0.7616145557322027
+b'coverage retransmission' : 0.7423600070658894
+b'service requirement' : 0.7391803568274159
+b'communications session' : 0.7295884119413532
+b'transmission format' : 0.7168344815403641
+b'session Quality' : 0.694400282635577
+b'arrangement transmit' : 0.69281045751634
+b'Service QoS' : 0.6880409821586294
+b'transmission attempts' : 0.6735559088500267
+b'delivery minimum' : 0.6527998586822118
+b'environment parameter' : 0.619166225048578
+b'base stations' : 0.6127892598480834
+b'P2P device' : 0.5903550609432964
+b'function power' : 0.5839957604663487
+b'peer communications' : 0.5727786610139552
+b'power levels' : 0.5711888358947184
+b'communications devices' : 0.5664193605370077
+b'signal result' : 0.5664193605370077
+b'base station' : 0.5647765412471295
+b'Base station' : 0.5552022610846141
+b'system communications' : 0.5471648118706943
+b'stations groups' : 0.5455749867514574
+b'traffic data' : 0.5375728669846318
+b'communication system' : 0.5343578872990639
+b'occurs embodiments' : 0.532768062179827
+b'pilot signals' : 0.5311782370605901
+b'multipath signals' : 0.5263557675322382
+b'wireless terminals' : 0.5248189365836426
+b'data occurs' : 0.5215509627274334
+b'communication networks' : 0.5215509627274334
+b'communications divides' : 0.5183713124889597
+b'Rate information' : 0.5167814873697227
+b'devices systems' : 0.5120120120120121
+b'Transmission pilot' : 0.5120120120120121
+b'traffic rate' : 0.5055997173644233
+b'radio communication' : 0.5007949125596185
+b'transmit source' : 0.48957781310722503
+b'networks Embodiments' : 0.4879879879879881
+
+
+2014-06~2014-12 52/36
+-------------------------
+b'base station' : 1.3490319965762927
+b'transmit power' : 1.126000387316716
+b'wireless device' : 1.0088525706503235
+b'OSI' : 1.0
+b'TTI' : 0.939450686641698
+b'neighbor sectors' : 0.8908750425604358
+b'uplink data' : 0.8601180342753377
+b'radio access' : 0.7361252979230508
+b'access scheme' : 0.7281806832368631
+b'power level' : 0.6715469299738963
+b'Fourier transform' : 0.6239359891045285
+b'terminals sector' : 0.6130405175348996
+b'power gain' : 0.6111111111111112
+b'IS' : 0.591249574395642
+b'data channel' : 0.5793326523663603
+b'Transmit power' : 0.5763817954829192
+b'communications system' : 0.5714447849279312
+b'symbol sequence' : 0.5703665872205199
+b'gain factor' : 0.5624219725343322
+b'set radio' : 0.5505617977528091
+b'transmission power' : 0.5247985472704575
+b'RNC' : 0.5078878674384293
+b'femtocell base' : 0.5000000000000001
+b'power control' : 0.49597094540914766
+b'OTA' : 0.47815230961298383
+b'frequency transmission' : 0.46521393712404957
+b'value range' : 0.46521393712404957
+b'power consumption' : 0.43354897287481553
+b'Network Controller' : 0.42651231415276364
+b'adjustment determinations' : 0.42651231415276364
+b'UE' : 0.42452616048121666
+b'nodeB device' : 0.41663829304278743
+b'sequence set' : 0.41465213937124046
+b'transmission time' : 0.41363068891158783
+b'channel conditions' : 0.4036999205538532
+b'transform symbol' : 0.39978436045851773
+b'unit Fourier' : 0.3908182953126774
+b'downlink signals' : 0.38985359210078324
+b'Determinations indicia' : 0.38883214164113034
+b'session base' : 0.3829304278742481
+b'generation unit' : 0.38287368062648963
+b'communication device' : 0.37997957099080704
+b'station nodeB' : 0.3789581205311542
+b'information manner' : 0.37600726364771303
+b'data throughput' : 0.37498581318806046
+b'transmission signal' : 0.3749290659403019
+b'resource symbol' : 0.372942912268755
+b'device power' : 0.370956758597208
+b'level downlink' : 0.3699920553853139
+b'communication control' : 0.3680626489615253
+b'Controller equipment' : 0.3649982975825673
+
+
+2015-01~2015-05 52/32
+-------------------------
+b'access point' : 1.2226662860405366
+b'base station' : 1.195399174075407
+b'base stations' : 1.0143713551649607
+b'class base' : 0.9816565392928509
+b'R-PDCCH' : 0.8971412258880145
+b'access terminal' : 0.8886994820765874
+b'transmission power' : 0.8746887550370588
+b'transmission mode' : 0.865339912727866
+b'interval control' : 0.8604461481995024
+b'relay station' : 0.8016149422943599
+b'communication system' : 0.8006727778192362
+b'range expansion' : 0.7552628359365442
+b'station transmits' : 0.7541617389176625
+b'step base' : 0.7473104685779537
+b'control information' : 0.7446188980873538
+b'radio communication' : 0.7359977162432201
+b'modes reference' : 0.7325720810733657
+b'link transmission' : 0.7284123812242567
+b'transmits relay' : 0.7215040169650504
+b'station downlink' : 0.7111700175359896
+b'demodulation accordance' : 0.6999143591207536
+b'reference signal' : 0.6912931772766201
+b'downlink channel' : 0.6895803596916928
+b'signal demodulation' : 0.6783899514701685
+b'information step' : 0.6646303168712533
+b'backhaul link' : 0.661327025814608
+b'transmit power' : 0.653684596876147
+b'power control' : 0.6313608743525957
+b'UE' : 0.5804820358060439
+b'terminals tradeoff' : 0.5631744219240651
+b'transmissions interference' : 0.5623180131316015
+b'control signal' : 0.5556543370988132
+b'access terminals' : 0.5538191754006769
+b'Physical Downlink' : 0.5511276049100771
+b'time domain' : 0.5477019697402228
+b'point cause' : 0.5451327433628319
+b'Downlink Shared' : 0.5451327433628319
+b'interference transmissions' : 0.5407936054810163
+b'terminal communication' : 0.5390807878960892
+b'strength differential' : 0.5357774968394438
+b'network algorithm' : 0.5313731087639167
+b'coordination Transmission' : 0.5244647445047103
+b'Transmission power' : 0.5236083357122466
+b'scheme interference' : 0.5236083357122466
+b'Frequency time' : 0.5210391093348559
+b'Shared Channel' : 0.5201827005423924
+b'differential equipment' : 0.5167570653725378
+b'signal resource' : 0.5159006565800742
+b'signal region' : 0.5133314302026835
+b'interface macrocell' : 0.5116838628114677
+b'equipment communications' : 0.5081358835284042
+
+
+2014-01~2014-05 52/30
+-------------------------
+b'transport blocks' : 1.0
+b'time constraint' : 1.0
+b'priority order' : 0.9646156160673988
+b'blocks time' : 0.9535429517075373
+b'channel procedures' : 0.9491199037159621
+b'assignments data' : 0.9402738077328118
+b'hardware software' : 0.9358507597412365
+b'assignments terminal' : 0.9203550473898
+b'scheduling transmission' : 0.9026628554234992
+b'data channels' : 0.8915901910636377
+b'procedure parallel' : 0.8893937114487739
+b'terminal priority' : 0.8827440950804875
+b'software strategies' : 0.8827440950804875
+b'uplink aspect' : 0.880517526703776
+b'channels transport' : 0.8562058071310366
+b'order individual' : 0.8384835264028886
+b'prioritization assignments' : 0.7610576199789378
+
+
+2012-01~2012-05 52/02
+-------------------------
+b'communication device' : 1.0
+b'Transfer communication' : 1.0
+b'device part' : 0.9717163972483123
+b'call transfer' : 0.9700551615445232
+b'response call' : 0.9434327944966242
+b'device mode' : 0.9334547313270717
+b'transfer call' : 0.9118160713905393
+b'mode response' : 0.8785381125806658
+
+
+2014-06~2014-12 52/32
+-------------------------
+b'power level' : 1.5174211989402275
+b'transmit power' : 1.4428656597774245
+b'base station' : 1.2143914708397556
+b'access points' : 1.0780817344185007
+b'communication device' : 0.9963774890823922
+b'transmission power' : 0.9168974164346629
+b'data transmission' : 0.9150180543768716
+b'transmission rate' : 0.8958407888760767
+b'femtocell base' : 0.7589171004818
+b'power value' : 0.7260275933275869
+b'communication system' : 0.6890714005552258
+b'access point' : 0.6848994236386352
+b'wireless activity' : 0.6848994236386352
+b'duty cycle' : 0.6812229530503998
+b'service area' : 0.6639336048786988
+b'femto cell' : 0.5826623509290154
+b'point transmit' : 0.5780916037112094
+b'scheme access' : 0.5698443859051681
+b'downlink signals' : 0.545193541285694
+b'link traffic' : 0.5397370727096196
+b'rate threshold' : 0.536954878750955
+b'control value' : 0.5278048290440406
+b'power control' : 0.5251219991553283
+b'signals femtocell' : 0.5241283584558052
+b'level downlink' : 0.5232340818262345
+b'telecommunication service' : 0.5223483604679662
+b'reverse link' : 0.5195661665093017
+b'rate control' : 0.4968032392189213
+b'power back-off' : 0.48855602141288
+b'activity monitoring' : 0.4830995528368056
+b'time example' : 0.4812201907790143
+b'example femto' : 0.46939586645469006
+b'duration femto' : 0.4685015898251193
+b'error rate' : 0.46849303455381675
+b'network defines' : 0.4657193958664547
+b'Access point' : 0.46393084260731315
+b'over-the-air network' : 0.46204292527821933
+b'point parameters' : 0.4584658187599364
+b'bursts duration' : 0.4547893481717011
+b'ON' : 0.4502186009538951
+b'control scheme' : 0.44654213036565976
+b'transmission scheme' : 0.44654213036565976
+b'outage radius' : 0.4419713831478538
+b'OFF' : 0.441077106518283
+b'access thereto' : 0.4374006359300477
+b'parameter energy' : 0.4356120826709063
+b'design terminal' : 0.4356120826709063
+b'traffic amount' : 0.4347178060413355
+b'energy signals' : 0.43372416534181246
+b'parameters over-the-air' : 0.4319356120826709
+b'Wireless communication' : 0.42915341812400637
+
+
+2012-01~2012-05 52/16
+-------------------------
+b'transmit power' : 1.0
+b'bit value' : 1.0
+b'value transmission' : 0.9973898148399902
+b'values bit' : 0.9777726419967917
+b'value scheme' : 0.9333315207047499
+b'ratios layers' : 0.9045786998015172
+b'UE' : 0.7581651365060377
+b'MIMO' : 0.7372564657972093
+b'power value' : 0.6941219476089918
+b'power ratio' : 0.6888925141460556
+b'number bits' : 0.686276286890768
+b'bits transmit' : 0.6836661017307583
+b'ratio values' : 0.6732042137572467
+
+
+2015-01~2015-05 52/50
+-------------------------
+b'communications system' : 1.0023340382459436
+b'access point' : 1.0
+b'wireless communications' : 0.9074283984510272
+b'relay device' : 0.6443921519736944
+b'access terminal' : 0.6287537596035467
+b'delta value' : 0.601902787950568
+b'determination pathloss' : 0.5958328788044072
+b'control processor' : 0.5895136280758622
+b'determine therefrom' : 0.5760881422493727
+b'channel message' : 0.5706961305303184
+b'transceiver access' : 0.5671975564524926
+b'power delta' : 0.5584316414468045
+b'pathloss relay' : 0.5473982764263118
+b'request message' : 0.5460424815720986
+b'information determine' : 0.5454347114650375
+b'communication relay' : 0.5424893640231264
+b'processor transceiver' : 0.5296171048325515
+b'station wireless' : 0.5286353223519145
+b'access request' : 0.5272249840265548
+b'level uplink' : 0.5217083015163085
+b'control element' : 0.5163708332684006
+b'base station' : 0.5074802474715205
+b'uplink channel' : 0.49957144415527743
+b'power control' : 0.45665352428742845
+b'access terminals' : 0.45511851517087687
+b'transmit power' : 0.450762829403606
+b'point network' : 0.42391185775062723
+b'protection scheme' : 0.4229300752699902
+b'point example' : 0.42194829278935314
+b'point Transmit' : 0.41698483691502125
+b'transmissions interference' : 0.41103959856005234
+b'algorithm initialization' : 0.4100578160794153
+b'tradeoff coverage' : 0.4071124686375041
+b'algorithms messages' : 0.399203665321261
+b'interference transmissions' : 0.3962583178793498
+b'terminal protection' : 0.39527653539871277
+b'coverage area' : 0.3932584269662921
+b'point algorithms' : 0.3853496236500491
+b'Transmit power' : 0.376459037853169
+b'terminals tradeoff' : 0.3744954728918949
+b'network algorithm' : 0.36855023453692587
+b'scheme interference' : 0.3665866695756518
+b'point cause' : 0.3616777571724665
+b'transmission power' : 0.3598388630023842
+b'power signals' : 0.3415044647727095
+b'terminal communication' : 0.34089669466564854
+b'TPC' : 0.3291854322180491
+b'reuse spectrum' : 0.312261372313734
+b'transmit data' : 0.3118328164690115
+b'throughput reuse' : 0.3033707865168539
+b'power level' : 0.2881064065202824
+
+
+2011-06~2011-12 52/00
+-------------------------
+b'downlink stations' : 1.0
+b'packet transmission' : 1.0
+b'basis radio' : 0.8597859179765528
+b'resource use' : 0.8144465021264538
+b'information downlink' : 0.7800060221639249
+b'use packet' : 0.7664778016346434
+b'quality information' : 0.7480314805667132
+b'transmission control' : 0.7457426646697747
+b'transmission resource' : 0.7357293411240977
+b'control device' : 0.7283453022201316
+b'radio quality' : 0.7197351822294995
+b'storage unit' : 0.7086729000655352
+b'connection identifier' : 0.5928721982669549
+b'identifier power' : 0.5928721982669549
+
+
+2012-06~2012-12 52/16
+-------------------------
+b'channel power' : 1.0
+b'selection subject' : 1.0
+b'subject matter' : 0.9967689822294022
+b'scheme aspect' : 0.9499192245557352
+b'computer program' : 0.9369951534733443
+b'program products' : 0.9111470113085623
+b'power uplink' : 0.8606623586429725
+b'information representative' : 0.8364297253634894
+b'representative channel' : 0.8364297253634894
+b'uplink channel' : 0.8267366720516962
+
+
+2011-01~2011-05 52/04
+-------------------------
+b'Base Station' : 1.0
+b'TDD' : 1.0
+b'Mobile Stations' : 0.997224568601424
+b'Multiple Access' : 0.9720646796186799
+b'Division Duplexing' : 0.958127187160613
+b'Division Multiple' : 0.9189694702546158
+b'Stations MSs' : 0.9161940388560394
+b'MSs groups' : 0.9134186074574636
+b'integer Mobile' : 0.9078074091951248
+b'RL' : 0.9022565463979729
+b'Access system' : 0.8743212260166525
+b'Orthogonal Frequency' : 0.8603233980933994
+b'Station Time' : 0.8519367684324848
+b'group index' : 0.824946703672419
+b'Forward-Link number' : 0.798901894533607
+b'BS' : 0.7960661276698443
+b'ratio value' : 0.7923454406500141
+b'Time Division' : 0.7905152648726924
+b'Duplexing Orthogonal' : 0.7876794980089296
+b'number time' : 0.7774626925706931
+b'OFDMA' : 0.776517436949439
+b'control information' : 0.774687261172117
+b'Frequency Division' : 0.7653553758899483
+b'access system' : 0.7625799444913719
+b'time slots' : 0.7383653111298822
+b'FL' : 0.7374200555086279
+b'index information' : 0.6908813000281566
+
+
+2009-06~2009-12 52/26
+-------------------------
+b'link transmission' : 1.0707393629388513
+b'power level' : 1.0
+b'base station' : 1.0
+b'station QoS' : 0.977040223203906
+b'QoS Quality' : 0.9693966519414088
+b'Quality Service' : 0.929231574052546
+b'layer packets' : 0.9254243199255985
+b'levels payloads' : 0.9254243199255985
+b'payloads service' : 0.8967391304347826
+b'payload size' : 0.8895605673099279
+b'resources station' : 0.8852592420367357
+b'transmission power' : 0.8824110671936758
+b'transmission guideline' : 0.8776156707742385
+b'reverse link' : 0.8570681236921646
+b'station selects' : 0.8565740525459195
+b'information base' : 0.8240816089281562
+b'level payload' : 0.8173971169495466
+b'packets reverse' : 0.770547547082074
+b'power levels' : 0.6821088119042082
+
+
+2015-01~2015-05 52/36
+-------------------------
+b'radio module' : 1.0299593516334622
+b'base station' : 1.0
+b'access request' : 0.9067138139933506
+b'LTE' : 0.8239617690292316
+b'UE' : 0.6570568747373409
+b'information message' : 0.6420663880301728
+b'embodiment radio' : 0.6397938647508903
+b'module power' : 0.6243374488327892
+b'data channel' : 0.622093486941198
+b'station relay' : 0.5928769264985438
+b'request grant' : 0.5819871789198817
+b'request message' : 0.5756139165120933
+b'relay device' : 0.5728538422410039
+b'transmission power' : 0.5243223938822197
+b'grant response' : 0.5201615152474774
+b'Power control' : 0.47288897045899947
+b'IDC' : 0.4683223021195606
+b'part thereof' : 0.46596801755316797
+b'power parameters' : 0.4565292575067237
+b'channel carrier' : 0.45650532252357734
+b'TPC' : 0.4496083046008922
+b'thereof transmit' : 0.44870500756671744
+b'indication power' : 0.44380898087656573
+b'characteristics data' : 0.4365324214346026
+b'wireless communications' : 0.4332485916486164
+b'determine part' : 0.4323452946144416
+b'control processor' : 0.4241654381383037
+b'power data' : 0.4237858966190257
+b'communications system' : 0.4123222103569016
+b'message set' : 0.41051561628855204
+b'message carrier' : 0.40652288663257524
+b'processor transmitter' : 0.3986723885071499
+b'control information' : 0.3977690914729752
+b'transmitter receiver' : 0.3768928933498257
+b'PHR' : 0.375036116112911
+b'transmit power' : 0.36595296260259835
+b'solutions require' : 0.36595296260259835
+b'interface macrocell' : 0.3619841679297678
+b'MAC' : 0.35957970019480995
+b'eNB capability' : 0.35686980909228566
+b'cost solution' : 0.3495932496503225
+b'RRC' : 0.3495932496503225
+b'communication device' : 0.3468833585477984
+b'class eNB' : 0.3396067991058352
+b'message Power' : 0.3378002050374857
+b'eNB reporting' : 0.33233023966387204
+b'PRB' : 0.325601370719952
+b'station wireless' : 0.32007357904237466
+b'coexistence applies' : 0.3195837148482952
+b'capability message' : 0.31687382374577094
+b'telecommunications network' : 0.3164102077371104
+
+
+2013-06~2013-12 52/18
+-------------------------
+b'femtocell device' : 1.153268048280574
+b'control procedure' : 1.0985348819555147
+b'power control' : 1.0
+b'layer femtocell' : 1.0
+b'value characteristic' : 0.9160783420633112
+b'characteristic transmissions' : 0.8978213011462841
+b'target value' : 0.8759204433310557
+b'means power' : 0.8284749108023985
+b'communication network' : 0.7883170120701435
+b'comprising power' : 0.7810293782737414
+b'service criteria' : 0.7226144386244588
+b'quality service' : 0.7189706217262579
+b'criteria transmissions' : 0.7007515372352539
+
+
+2014-06~2014-12 52/56
+-------------------------
+b'Wireless communication' : 1.0
+b'transmission power' : 1.0
+b'device phone' : 0.9893346289098648
+b'phone wireless' : 0.9741116046640756
+b'command base' : 0.9695539515084213
+b'timing adjustment' : 0.9634693688691468
+b'control command' : 0.9588885804182861
+b'unit base' : 0.9345502498611883
+b'station adjustment' : 0.9162733666481585
+b'use timing' : 0.8980196187303351
+b'adjustment value' : 0.8280045036708001
+b'basis variation' : 0.7838623604170523
+b'value basis' : 0.7762508482941577
+b'wireless communication' : 0.7655854772040225
+b'base station' : 0.7610278240483683
+b'reference value' : 0.7579739650811277
+b'variation transmission' : 0.721458757480412
+b'communication device' : 0.7199318279967919
+b'value reference' : 0.6925396384724535
+
+
+2009-06~2009-12 52/24
+-------------------------
+b'control information' : 1.1000029473311916
+b'user traffic' : 1.0210439447080668
+b'Channel timeslots' : 1.0
+b'CPCH' : 1.0
+b'wireless communication' : 0.963158360104925
+b'system Common' : 0.9315629697309086
+b'Physical Channel' : 0.8894750803147748
+b'communication system' : 0.8815762327212706
+b'timeslots user' : 0.8815614960653129
+b'channels user' : 0.8578796899407585
+b'system timeslots' : 0.8499955790032125
+b'timeslot reception' : 0.8236611748062129
+b'Common Physical' : 0.7789501606295498
+b'reuse timeslot' : 0.7710513130360459
+
+
+2015-01~2015-05 52/30
+-------------------------
+b'instance dB' : 1.269512721000431
+b'power control' : 1.2021345407503232
+b'range rule' : 1.085112117291936
+b'MUD-enabled network' : 1.0
+b'SNR' : 1.0
+b'detection networks' : 0.8936502802932297
+b'rates MUD-enabled' : 0.8440060370849504
+b'spread nodes' : 0.8262721000431218
+b'networks system' : 0.8191569642087104
+b'network system' : 0.7304872789995689
+b'receiver instance' : 0.7198684777921518
+b'control techniques' : 0.7021345407503232
+b'Power scheduling' : 0.6985769728331177
+b'dB ratio' : 0.695073307460112
+b'ratio receiver' : 0.6844006037084951
+b'techniques detection' : 0.6560478654592498
+b'error rates' : 0.6383139284174213
+b'transmission node' : 0.6134648555411814
+b'control solution' : 0.5212915049590341
+
+
+2015-01~2015-05 52/34
+-------------------------
+b'base station' : 1.7888870123289986
+b'radio module' : 1.103859143669934
+b'information frequency' : 1.0
+b'resource range' : 0.992729266959919
+b'FDMA' : 0.9689241682148285
+b'radio resource' : 0.9572622850311907
+b'interferences cells' : 0.9109947643979058
+b'LTE' : 0.8934238291255294
+b'belongs interference' : 0.8932612734335416
+b'Suppression interferences' : 0.8733322073973993
+b'PHR' : 0.8599898665765918
+b'MAC' : 0.8599898665765918
+b'frequency communication' : 0.8510386758993415
+b'cells interference' : 0.8466475257557846
+b'interference power' : 0.8430966044308125
+b'value transmitter' : 0.8398919101503126
+b'eNB capability' : 0.8333051849349772
+b'frame length' : 0.829754263610005
+b'interference information' : 0.8265495693295052
+b'capability message' : 0.8199628441141701
+b'embodiment radio' : 0.8186074978609761
+b'error rates' : 0.8177672690423915
+b'UE' : 0.8142163477174192
+b'lengths data' : 0.8088160783651411
+b'cost solution' : 0.8000337780780274
+b'solutions require' : 0.7888870123289986
+b'CE' : 0.7888870123289986
+b'communication system' : 0.7821313967235265
+b'neighboring cell' : 0.7777402465799697
+b'eNB reporting' : 0.7733490964364129
+b'solution solutions' : 0.7665934808309408
+b'require resource' : 0.7643979057591622
+b'cell equipment' : 0.7554467150819119
+b'manner transmitter' : 0.7532511400101334
+b'AGC' : 0.7466644147947983
+b'control solution' : 0.7377132241175476
+b'cell base' : 0.7348399759191724
+b'communication device' : 0.7333220739739907
+b'message Power' : 0.7333220739739907
+b'IDC' : 0.7326444008473942
+b'Power scheduling' : 0.7287620334402973
+b'Power control' : 0.7280843603137004
+b'receiver instance' : 0.7243708832967405
+b'request layer' : 0.7221753082249619
+b'coexistence applies' : 0.7221753082249619
+b'power parameters' : 0.7214976350983653
+b'frames time' : 0.7214976350983653
+b'module power' : 0.7186243868999898
+b'network system' : 0.717784158081405
+b'control techniques' : 0.717784158081405
+b'RRC' : 0.7132241175477115
+
+
+2012-06~2012-12 52/06
+-------------------------
+b'channel power' : 1.0
+b'subject matter' : 1.0
+b'scheme aspect' : 0.9947183098591549
+b'computer program' : 0.9700704225352115
+b'program products' : 0.9595070422535212
+b'selection subject' : 0.9507042253521129
+b'power uplink' : 0.8028169014084506
+b'uplink channel' : 0.7764084507042255
+b'representative channel' : 0.7711267605633804
+b'information representative' : 0.7605633802816902
+
+
+2014-06~2014-12 52/26
+-------------------------
+b'OSI' : 1.2358906073952678
+b'neighbor sectors' : 1.1487077059646966
+b'communication system' : 1.1210323940672857
+b'base station' : 1.0238011492331986
+b'access scheme' : 0.8984601727611048
+b'transmit power' : 0.8916999556147358
+b'radio access' : 0.8849397384683669
+b'CQI/PMI information' : 0.8647615145617809
+b'IS' : 0.8571648058998258
+b'terminals sector' : 0.8449759295298577
+b'inter-sector report' : 0.838266926149749
+b'OTA' : 0.8225272286523952
+b'transmit powers' : 0.8153231588651029
+b'Interference control' : 0.8058998258731946
+b'system interference' : 0.8045682679504251
+b'data transmissions' : 0.8045682679504251
+b'Fourier transform' : 0.8018539383386254
+b'Sector other-sector' : 0.7938133770357472
+b'interference estimate' : 0.7825634197138858
+b'power value' : 0.7816757144320393
+b'manner interference' : 0.7749667110519307
+b'sector manner' : 0.7587831609136535
+b'report inter-sector' : 0.7560176175355935
+b'sector de-assign' : 0.7480282699989758
+b'sector traffic' : 0.7480282699989758
+b'traffic channels' : 0.7452627266209157
+b'other-sector interference' : 0.743931168698146
+b'power control' : 0.7430434634162997
+b'estimate Sector' : 0.7381098705998839
+b'sectors data' : 0.7358393936290075
+b'powers report' : 0.7169927276451911
+b'control communication' : 0.7156611697224213
+b'Sector admission' : 0.7115640684215917
+b'symbol sequence' : 0.6954317320495749
+b'channels interference' : 0.6900542865922359
+b'transmission power' : 0.6877325958550992
+b'frequency transmission' : 0.678309262863191
+b'rate control' : 0.6756461470176518
+b'control value' : 0.6675543719485131
+b'sequence parallel' : 0.6657789613848203
+b'set radio' : 0.6621257127249138
+b'scheduling node' : 0.6563556283929121
+b'sequence set' : 0.6558605619857285
+b'pilot channel' : 0.6509269691693126
+b'Sector report' : 0.6356823380791423
+b'SINR' : 0.6347434190310356
+b'access schemes' : 0.6279832018846666
+b'radio resource' : 0.6279832018846666
+b'CDMA' : 0.6213254122708184
+b'communication control' : 0.6185598688927584
+b'resource symbol' : 0.6185598688927584
+
+
+2015-01~2015-05 52/54
+-------------------------
+b'transmission power' : 1.0438873674601503
+b'TPC' : 1.0
+b'states user' : 1.0
+b'communications system' : 0.9874657678533812
+b'power switching' : 0.9655220841233061
+b'commands channel' : 0.9529878519766868
+b'switching control' : 0.9372937293729374
+b'system network' : 0.9216347166631558
+b'channel configuration' : 0.8887016361210591
+b'configuration commands' : 0.8839969103293308
+b'control states' : 0.8746225686398426
+b'network node' : 0.8448142686609086
+b'uplink transmission' : 0.7507899726142827
+b'user equipment' : 0.666140018257145
+
+
+2010-01~2010-05 52/38
+-------------------------
+b'mode wireless' : 1.0
+b'MS' : 1.0
+b'power mode' : 0.982345378575692
+b'handover condition' : 0.982345378575692
+b'information base' : 0.9602598833738923
+b'station power' : 0.9426052619495844
+b'base station' : 0.9161118508655125
+b'response request' : 0.8940493135589327
+b'communication system' : 0.8233925647030014
+b'actions station' : 0.8233925647030014
+b'wireless communication' : 0.7991260694552857
+b'BS' : 0.7924912377366577
+b'response message' : 0.732892541745106
+
+
+2013-01~2013-05 52/00
+-------------------------
+b'cell site' : 1.0
+b'reallocation slots' : 1.0
+b'communications bit' : 0.9447125327450708
+b'circuit voltages' : 0.9319362103037822
+b'circuit management' : 0.9212739556045775
+b'rectifiers runtime' : 0.9127717266418491
+b'efficiencies example' : 0.9106576588997656
+b'Rectifier circuit' : 0.9042694976791212
+b'management system' : 0.8829909462751045
+b'output transmit' : 0.859598327129004
+b'system use' : 0.8574842593869204
+b'failure conversion' : 0.8553242336504436
+b'adjustment indicators' : 0.840433843467071
+b'conversion efficiencies' : 0.8383197757249874
+b'battery string' : 0.8340456822464266
+b'sites adjustment' : 0.8340456822464266
+b'RF' : 0.8287490233926191
+b'systems Systems' : 0.823429385541615
+b'power controller' : 0.8191782710602509
+b'control output' : 0.8106530631003264
+b'bit rate' : 0.8085389953582425
+b'slots radios' : 0.7978767406590377
+b'rate transfer' : 0.7914885794383933
+b'cell sites' : 0.7904200560687531
+b'indicators devices' : 0.7787582149914978
+b'voltages battery' : 0.7723700537708534
+b'sites reallocation' : 0.7340410864469874
+
+
+2014-06~2014-12 52/28
+-------------------------
+b'transmission power' : 1.7095145631067963
+b'communication device' : 1.4091822949326873
+b'base station' : 1.272005413233511
+b'power control' : 1.245822035697943
+b'wireless communication' : 1.2264045599697877
+b'wireless device' : 1.0365050989786158
+b'uplink data' : 0.9548481002815326
+b'access scheme' : 0.8613076064388183
+b'energy consumption' : 0.8508221695456144
+b'radio access' : 0.8463173151766823
+b'reference value' : 0.7955988685747406
+b'power level' : 0.7828610044970707
+b'Fourier transform' : 0.7826020640524147
+b'gain factor' : 0.7594564329844535
+b'power gain' : 0.7579807048291138
+b'symbol sequence' : 0.7422913844407643
+b'data channel' : 0.7236506077417352
+b'frequency transmission' : 0.7010227352582441
+b'set radio' : 0.6994693371999916
+b'operation information' : 0.6591586575883411
+b'control data' : 0.6569062304038751
+b'transmit power' : 0.6517023469087295
+b'femtocell base' : 0.6459807048291137
+b'value range' : 0.6397411818601859
+b'value reference' : 0.6233528323456228
+b'transmission signal' : 0.6193657365611609
+b'generation unit' : 0.617890008405821
+b'variation transmission' : 0.6165955507922247
+b'sequence parallel' : 0.5944854368932039
+b'transform symbol' : 0.5931909792796075
+b'consumption multiple-output' : 0.5924919501533938
+b'level downlink' : 0.5882460362291179
+b'schemes scheme' : 0.5877281553398058
+b'unit Fourier' : 0.5872103967553357
+b'MIMO' : 0.5850356394737822
+b'resource symbol' : 0.5847766990291262
+b'RF' : 0.5825242718446602
+b'communications session' : 0.5760259307359181
+b'signals femtocell' : 0.5725567158407683
+b'set information' : 0.5722977753961123
+b'multiple-output system' : 0.5693463190854328
+b'distance data' : 0.5663171928718405
+b'parallel conversion' : 0.566135922330097
+b'radio resource' : 0.5645825242718446
+b'control table' : 0.5625890375320346
+b'access schemes' : 0.561631067961165
+b'consumption level' : 0.5551327268524231
+b'communication control' : 0.5541747572815533
+b'information reception' : 0.5541747572815533
+b'consumption network' : 0.5533980582524272
+b'condition quality' : 0.5519223300970874
+
+
+2013-01~2013-05 52/38
+-------------------------
+b'response request' : 1.0
+b'MS' : 1.0
+b'handover condition' : 0.9650437205920958
+b'station power' : 0.9378622346977926
+b'information base' : 0.9300874411841918
+b'power mode' : 0.9203739978594074
+b'base station' : 0.9067832549122558
+b'BS' : 0.8828395834595475
+b'mode wireless' : 0.8757244693955855
+b'actions station' : 0.873126140134763
+b'response message' : 0.8575967473764277
+b'wireless communication' : 0.8517807979428771
+b'communication system' : 0.8362312109156755
+
+
+2015-01~2015-05 52/12
+-------------------------
+b'control downlink' : 2.0
+b'units acquisition' : 1.9542358450404427
+b'acquisition synchronization' : 1.880800340570456
+b'level performance' : 1.7982120051085575
+b'downlink and/or' : 1.7890591741166455
+b'handoff channel' : 1.7707535121328222
+b'channel estimation' : 1.6881651766709236
+b'and/or transmissions' : 1.660493827160494
+b'combination adjustment' : 1.660493827160494
+b'stream code' : 1.660493827160494
+b'transmitter unit' : 1.6238825031928485
+b'synchronization carrier' : 1.587271179225203
+b'control techniques' : 1.559599829714772
+b'Interference control' : 1.495317156236697
+b'code set' : 1.4220945083014045
+b'unit receiver' : 1.4220945083014045
+b'transmissions level' : 1.4129416773094943
+b'OFDM-CDMA' : 1.4129416773094943
+b'frequency domain' : 1.3578118348233295
+b'spreading frequency' : 1.3118348233290764
+b'carrier recovery' : 1.2292464878671778
+b'estimation coherent' : 1.220093656875266
+b'recovery handoff' : 1.1926351638995323
+b'user combination' : 1.1100468284376337
+b'receiver units' : 1.1008939974457221
+b'codes access' : 1.0917411664538104
+b'adjustment transmit' : 1.0734355044699868
+b'pilot transmitter' : 1.0457641549595573
+b'interference pilot' : 1.0
+
+
+2015-01~2015-05 52/26
+-------------------------
+b'reception unit' : 1.1440968455764307
+b'power amplification' : 1.1355924849221157
+b'power setting' : 1.1229940709680009
+b'power reduction' : 1.1135505705731765
+b'request reception' : 1.0910644727035916
+b'station terminal' : 1.0772614376534697
+b'setting modulation' : 1.0552195233045305
+b'modulation class' : 1.047202735766036
+b'channel level' : 1.0433307742265596
+b'system terminal' : 1.0314854147437635
+b'communication system' : 1.0281010263201074
+b'base station' : 1.0
+b'reduction request' : 0.996393519816021
+b'requests base' : 0.9927436500368673
+b'class transmission' : 0.9840171976222294
+b'communication quality' : 0.9704796439276053
+b'amplification request/modulation' : 0.958856376205132
+b'channel power' : 0.9554719877814761
+b'communication channel' : 0.9387721374235187
+b'Radio communication' : 0.921319232594243
+b'quality communication' : 0.9009695124571316
+b'transmission power' : 0.8591063796473964
+b'PRB' : 0.579197418423208
+b'interface macrocell' : 0.4876453726037957
+b'consideration macrocell' : 0.43318628687462657
+b'macrocell base' : 0.40268340146654735
+b'UB' : 0.3975634292358883
+b'combination Hence' : 0.3806414871176083
+b'station interface' : 0.3636761554041531
+b'power restriction' : 0.36029176698049714
+b'interference combination' : 0.32471229893693393
+b'femtocells consideration' : 0.3179001324944468
+
+
+2015-01~2015-05 52/44
+-------------------------
+b'indicators devices' : 1.0
+b'cell site' : 1.0
+b'circuit management' : 0.9930017118114993
+b'rectifiers runtime' : 0.9393817339643539
+b'communications bit' : 0.9346994260396738
+b'efficiencies example' : 0.9253851575873525
+b'conversion efficiencies' : 0.9043902930218505
+b'rate transfer' : 0.9020743127580303
+b'reallocation slots' : 0.8997583324942101
+b'bit rate' : 0.8624509112878865
+b'output transmit' : 0.8624509112878865
+b'circuit voltages' : 0.850820662571745
+b'control output' : 0.8484543349108852
+b'adjustment indicators' : 0.8345081059309232
+b'RF' : 0.8140922364313766
+b'systems Systems' : 0.7948343570637397
+b'failure conversion' : 0.7948343570637397
+b'slots radios' : 0.7878864162722786
+b'sites adjustment' : 0.7832041083475982
+b'system use' : 0.7832041083475982
+b'management system' : 0.7692075319705969
+b'Rectifier circuit' : 0.7622092437820962
+b'voltages battery' : 0.7622092437820962
+b'sites reallocation' : 0.7505789950659552
+b'cell sites' : 0.7255311650387675
+b'battery string' : 0.7202698620481323
+b'power controller' : 0.6888027388983989
+
+
+2013-06~2013-12 52/02
+-------------------------
+b'communications devices' : 1.0
+b'communication device' : 1.0
+b'action message' : 0.962809293904647
+b'terminal request' : 0.9280325890162945
+b'controller refers' : 0.9280325890162945
+b'refers quantity' : 0.9156608328304163
+b'battery electricity' : 0.9057030778515388
+b'identifies communication' : 0.8933313216656606
+b'circuitry portion' : 0.8933313216656606
+b'request terminal' : 0.8908418829209415
+b'memory stores' : 0.8808841279420639
+b'electricity terminal' : 0.8660229330114665
+b'amount varies' : 0.8585546167773083
+b'embodiment server' : 0.8461828605914301
+b'response call' : 0.8362251056125526
+b'network processing' : 0.8352595051297524
+b'stores quantity' : 0.8337356668678334
+b'mode response' : 0.8313216656608327
+b'transfer call' : 0.818874471937236
+b'Transfer communication' : 0.818874471937236
+b'MTC' : 0.8134127942063971
+b'quantity table' : 0.7955793602896801
+b'communication network' : 0.7881110440555221
+b'acquisition module' : 0.7881110440555221
+b'device network' : 0.7781532890766446
+b'instance message' : 0.7731744115872059
+b'device mode' : 0.7717260108630054
+b'call transfer' : 0.7593542546771272
+b'terminal controller' : 0.7583132166566082
+b'device part' : 0.7518859384429692
+b'communication media' : 0.7339770669885336
+b'processing circuitry' : 0.7334942667471333
+b'amount embodiment' : 0.7220881110440556
+b'battery amount' : 0.7211225105612554
+b'table media' : 0.6963035606517802
+b'circuitry action' : 0.6848974049487024
+b'information battery' : 0.6615268557634277
+b'controller communication' : 0.6516445383222691
+
+
+2010-06~2010-12 52/00
+-------------------------
+b'level and/or' : 1.0
+b'base station' : 1.0
+b'period inactivity' : 0.9762537905295077
+b'use wireless' : 0.9589923023093073
+b'rate respect' : 0.9416841614182412
+b'synchronization pilot' : 0.9416841614182412
+b'power level' : 0.9351994401679495
+b'response period' : 0.930907394448332
+b'operation interference' : 0.9222766503382318
+b'state transition' : 0.9135992535572662
+b'communications system' : 0.9135992535572662
+b'signaling power' : 0.9114532306974572
+b'wireless communications' : 0.8984837881968741
+b'transition Mode' : 0.8920457196174479
+b'pilot tone' : 0.8920457196174479
+b'tone signaling' : 0.8877070212269653
+b'and/or rate' : 0.8855609983671564
+b'information access' : 0.8509913692558898
+b'wireless terminals' : 0.8479589456496384
+b'inactivity information' : 0.8337298810356891
+b'interference level' : 0.8056449731747142
+b'state wireless' : 0.7529274550968044
+b'mode change' : 0.7464427338465127
+b'change signals' : 0.7110333566596689
+b'standby response' : 0.7053883834849546
+b'transmit standby' : 0.6859808724049452
+b'Mode transitions' : 0.6859808724049452
+
+
+2014-01~2014-05 52/04
+-------------------------
+b'base station' : 1.0
+b'period data' : 1.0
+b'medium mobile' : 0.9522575741873078
+b'device base' : 0.950737554841607
+b'wherein relay' : 0.9408919749887726
+b'function relaying' : 0.9340864338273396
+b'station wherein' : 0.9318064048087884
+b'mobile telephone' : 0.9250008636473556
+b'communication unit' : 0.9212008152831035
+b'Mobile telephone' : 0.8909040660517498
+b'communication course' : 0.8863440080146474
+b'relaying function' : 0.8545272394375929
+b'voice communication' : 0.8386361280961757
+b'relay period' : 0.8363560990776246
+b'unit communication' : 0.8333160603862231
+b'data device' : 0.8219504611876878
+b'course control' : 0.8181849587176563
+b'transmission power' : 0.8166649393719556
+b'limit power' : 0.774242581269216
+
+
+2012-01~2012-05 52/00
+-------------------------
+b'code part' : 1.0
+b'time intervals' : 1.0
+b'quality measure' : 0.9599521396396395
+b'system codes' : 0.9501689189189193
+b'commands quality' : 0.9384501689189193
+b'interval value' : 0.9267314189189193
+b'reference value' : 0.9032939189189192
+b'measure commands' : 0.873944256756757
+b'communications system' : 0.8494862049549552
+b'Further radio-communication' : 0.8416385135135137
+b'intervals signals' : 0.8318552927927929
+b'dependence performance' : 0.8309403153153152
+b'Radio-communication device' : 0.8299197635135137
+b'measure reference' : 0.8241131756756759
+b'performance level' : 0.8045467342342341
+b'signals scrambling' : 0.7937429617117118
+b'packet format' : 0.7898719031531529
+b'device signal-reception' : 0.7771326013513514
+b'power control' : 0.776217623873874
+b'format-determination unit' : 0.7751970720720722
+b'scrambling code' : 0.7547156531531529
+b'OFDM' : 0.7536951013513514
+b'value dependence' : 0.7526745495495496
+b'Input Multi' : 0.7507390202702704
+b'Frequency Division' : 0.7449324324324326
+b'device performs' : 0.7360641891891893
+b'Multi Input' : 0.7243454391891893
+b'packet field' : 0.7224099099099099
+b'control loop' : 0.7175182995495496
+b'environment Orthogonal' : 0.7155827702702704
+b'communication environment' : 0.7155827702702704
+b'Multi Output' : 0.7126266891891893
+b'phase difference' : 0.7038640202702704
+b'MIMO' : 0.7019284909909911
+b'field packet' : 0.7019284909909911
+b'radio-communication device' : 0.7019284909909911
+b'wireless communications' : 0.6764498873873874
+b'difference packet' : 0.6334459459459459
+b'device control' : 0.6276393581081081
+b'unit operation' : 0.6178561373873874
+b'Multiplexing modulation' : 0.6159206081081081
+b'performs communication' : 0.5982896959459459
+b'Orthogonal Frequency' : 0.5923775337837837
+b'Division Multiplexing' : 0.5865709459459459
+b'signal Further' : 0.5689400337837837
+
+
+2014-06~2014-12 52/20
+-------------------------
+b'communication devices' : 1.010562310030395
+b'reception quality' : 1.0
+b'calculates reception' : 1.0
+b'comparison result' : 0.9604103343465045
+b'devices wireless' : 0.9498480243161094
+b'section number' : 0.9411347517730496
+b'devices basis' : 0.920820668693009
+b'result transmission' : 0.9182370820668693
+b'device number' : 0.9173505572441745
+b'quality information' : 0.9067882472137793
+b'transmission power' : 0.905015197568389
+b'power control' : 0.899772036474164
+b'power value' : 0.8979989868287739
+b'basis comparison' : 0.897112462006079
+b'section transmits' : 0.897112462006079
+b'number section' : 0.8936423505572442
+b'Transmission power' : 0.8892097264437689
+b'section calculates' : 0.8838905775075987
+b'wireless communication' : 0.8637284701114487
+b'measures quality' : 0.8575227963525838
+b'transmits quality' : 0.8469604863221886
+b'section measures' : 0.8363981762917935
+b'radio signal' : 0.8214792299898683
+b'aspects embodiments' : 0.8073708206686931
+b'error rate' : 0.8056737588652484
+b'control quality' : 0.7968844984802433
+b'control use' : 0.7810030395136779
+b'use disclosure' : 0.775759878419453
+b'rate threshold' : 0.7660840932117529
+b'systems implementations' : 0.7388297872340427
+b'disclosure devices' : 0.7388297872340427
+b'GERAN' : 0.7044832826747721
+b'offset neighbor' : 0.6886778115501521
+b'embodiments features' : 0.6464285714285714
+b'cells performance' : 0.6253799392097265
+b'neighbor cells' : 0.5963525835866261
+
+
+2015-01~2015-05 52/16
+-------------------------
+b'data channel' : 1.016142143769597
+b'information message' : 1.0
+b'wireless telecommunications' : 1.0
+b'steps indication' : 0.9569929934579801
+b'characteristics data' : 0.940870204776836
+b'station carriers' : 0.9247474160956916
+b'base station' : 0.8844114117601517
+b'channel carrier' : 0.881721054465219
+b'station wireless' : 0.8655982657840745
+b'message carrier' : 0.862907908489142
+b'equipment station' : 0.8360236906282661
+b'telecommunications network' : 0.8252622614485347
+b'power data' : 0.819900901947122
+b'indication power' : 0.7929973289977936
+b'input multiple' : 0.759258302740301
+b'MIMO' : 0.7484968735605697
+b'apparatuses transmissions' : 0.7350644421743583
+b'communication system' : 0.7108705816084154
+
+
+2015-01~2015-05 52/38
+-------------------------
+b'transmission power' : 1.0732881484765948
+b'TPC' : 1.0
+b'power switching' : 1.0
+b'commands channel' : 0.9442579337429532
+b'system network' : 0.9383670108316968
+b'network node' : 0.9252232849813139
+b'channel configuration' : 0.9046367264204728
+b'configuration commands' : 0.8767973649205041
+b'uplink transmission' : 0.8665674288971938
+b'switching control' : 0.8591879394438461
+b'user equipment' : 0.8547855830746818
+b'power level' : 0.834262367770951
+b'signals system' : 0.8328371444859693
+b'transmit data' : 0.819630075378476
+b'states user' : 0.7888135807943243
+b'CTS' : 0.7858997909672515
+b'communications system' : 0.7800088680559952
+b'request signal' : 0.7448533603597896
+b'throughput reuse' : 0.7389624374485336
+b'power signals' : 0.7375372141635524
+b'control states' : 0.7272439348831319
+b'reuse spectrum' : 0.7213530119718756
+b'system throughput' : 0.7213530119718756
+b'wireless communications' : 0.7184392221448029
+b'channel gain' : 0.6363463609298788
+b'level channel' : 0.6246278583644771
+b'RTS' : 0.580604294672832
+
+
+2014-06~2014-12 52/00
+-------------------------
+b'voice data' : 2.0
+b'power-control set' : 1.8732465776575968
+b'power power-control' : 1.7605205340544194
+b'station voice' : 1.6619908737535913
+b'channel station' : 1.6197397329727903
+b'reverse link' : 1.605543349670441
+b'average pilot' : 1.5774885921919892
+b'transmit power' : 1.507013689369613
+b'pilot reference' : 1.507013689369613
+b'set point' : 1.4929863106303871
+b'value timing' : 1.4787899273280378
+b'pilot transmit' : 1.2535068446848066
+b'reference value' : 1.2252830826432313
+b'link communication' : 1.1127260436031774
+b'communication channel' : 1.0
+
+
+2014-06~2014-12 52/14
+-------------------------
+b'transmit power' : 1.6843100382386829
+b'base station' : 1.3971669740264783
+b'communication device' : 1.3967762443182536
+b'transmission power' : 1.3020727641687202
+b'Wireless communication' : 1.0600913000346033
+b'OSI' : 0.967892093701888
+b'power level' : 0.9257908475585015
+b'Techniques interference' : 0.881949540359288
+b'neighbor sectors' : 0.8707164751472831
+b'uplink data' : 0.8568014149936376
+b'transmission rate' : 0.6789743118168812
+b'Transmit power' : 0.6789743118168812
+b'data transmission' : 0.6681031710718456
+b'reference value' : 0.6535234627674857
+b'UE' : 0.6443316099760347
+b'terminals sector' : 0.6434619187164317
+b'gain factor' : 0.6285322187599163
+b'data channel' : 0.6137474673466681
+b'server nodes' : 0.6025263349494772
+b'IS' : 0.5879466266451171
+b'power gain' : 0.5869319868422471
+b'duty cycle' : 0.5688982729115005
+b'OFF' : 0.558486737208291
+b'P2P client' : 0.5420827924070796
+b'link traffic' : 0.5408631094953212
+b'set server' : 0.5332409312677842
+b'reverse link' : 0.5279626891445457
+b'power design' : 0.5277576460356572
+b'device power' : 0.511958254819539
+b'power value' : 0.5047461628097787
+b'OTA' : 0.49656894982119754
+b'power channel' : 0.49331998730369925
+b'amount time' : 0.49311494419481083
+b'wireless communications' : 0.486157414117988
+b'ON' : 0.486157414117988
+b'communications power' : 0.48514277431511804
+b'value range' : 0.47874027899933935
+b'measurement coverage' : 0.47731555297869255
+b'area network' : 0.476505956284711
+b'interference management' : 0.476505956284711
+b'design terminal' : 0.4752862733729526
+b'Interference management' : 0.4725923456164982
+b'network Techniques' : 0.47137266270473976
+b'slots channel' : 0.4693433830989998
+b'traffic amount' : 0.4693433830989998
+b'channel quality' : 0.4693433830989998
+b'traffic exists' : 0.46731410349325986
+b'cycle period' : 0.464415132627917
+b'interference estimate' : 0.4617212048714626
+b'macro cell' : 0.4603565734164372
+b'level coverage' : 0.45745760255109436
+
+
+2012-06~2012-12 52/24
+-------------------------
+b'receivers receiver' : 1.0
+b'AMC' : 1.0
+b'control combination' : 0.9686262953685968
+b'parameter transmission' : 0.9345218800648297
+b'combination basis' : 0.9331565247286479
+b'basis parameter' : 0.8813123127547762
+b'power control' : 0.7887677422523451
+b'transmit power' : 0.768307057610137
+b'CINR' : 0.7546633269485781
+
+
+2013-06~2013-12 52/26
+-------------------------
+b'AMC' : 1.0
+b'combination basis' : 1.0
+b'basis parameter' : 0.9895052473763118
+b'control data' : 0.9775112443778111
+b'receivers receiver' : 0.9700149925037481
+b'control combination' : 0.9610194902548725
+b'data transmission' : 0.9190404797601198
+b'power control' : 0.8338330834582707
+b'transmit power' : 0.7993503248375812
+b'CINR' : 0.7843578210894553
+
+
+2015-01~2015-05 52/18
+-------------------------
+b'message set' : 1.0
+b'access request' : 1.0
+b'transmitter receiver' : 0.9949334049821518
+b'control processor' : 0.989905193259893
+b'base station' : 0.9697027853478166
+b'wireless communications' : 0.9267646720147392
+b'communications system' : 0.9267646720147392
+b'transmit power' : 0.9166698652746322
+b'TPC' : 0.8762522550186157
+b'control information' : 0.866157448278509
+b'thereof transmit' : 0.8610908532606608
+b'determine part' : 0.8535293440294783
+b'processor transmitter' : 0.8181783287913098
+b'request message' : 0.8105912306964007
+b'request grant' : 0.8004964239562941
+b'part thereof' : 0.7525045100372317
+b'relay device' : 0.7297943934799576
+b'station relay' : 0.6616256605125449
+b'grant response' : 0.6212080502565284
+
+
+2014-06~2014-12 52/38
+-------------------------
+b'WAN' : 1.0
+b'UE' : 1.0
+b'server node' : 0.9653234589414071
+b'management manner' : 0.9628839032890438
+b'network Techniques' : 0.9628839032890438
+b'manner set' : 0.9554345458505774
+b'server nodes' : 0.9439047411602409
+b'Techniques interference' : 0.9331736005227619
+b'server peer-to-peer' : 0.9059464169026356
+b'server neighbor' : 0.9059464169026356
+b'interference management' : 0.8902490379728454
+b'sets UEs' : 0.861380962753213
+b'strength set' : 0.8564147244609017
+b'set server' : 0.8547738328613954
+b'nodes strength' : 0.8490089305162275
+b'neighbor server' : 0.8192986277499456
+b'P2P client' : 0.8151746170042836
+b'design sets' : 0.7970376824221304
+b'communication area' : 0.7863065417846511
+b'Interference management' : 0.78134030349234
+b'area network' : 0.7615624773106804
+b'client design' : 0.7401001960357221
+
+
+2014-01~2014-05 52/02
+-------------------------
+b'power usage' : 1.0243445623165324
+b'access point' : 1.0
+b'wireless network' : 0.8608394485435475
+b'access points' : 0.6921378091872792
+b'coverage buffer' : 0.6062279151943463
+b'techniques power' : 0.5845848056537103
+b'transportation applications' : 0.5791740282685512
+b'connection wireless' : 0.568352473498233
+b'network device' : 0.5647268845700824
+b'portion wireless' : 0.5534452296819787
+b'network usage' : 0.5496171967020023
+b'movements device' : 0.5480344522968197
+b'WLAN' : 0.5467093639575971
+b'periods network' : 0.5426236749116607
+b'devices wireless' : 0.5385931978798586
+b'device vicinity' : 0.5372128975265017
+b'structure portion' : 0.5345075088339222
+b'identifying processor' : 0.5345075088339222
+b'phone battery' : 0.5318021201413426
+b'logistics transportation' : 0.5304218197879857
+b'scans beacons' : 0.5304218197879857
+b'cell phone' : 0.5290967314487631
+b'connecting device' : 0.5263913427561836
+b'network coverage' : 0.5225633097762074
+b'coverage area' : 0.5198579210836278
+b'network transmitting' : 0.5196002650176678
+b'communication determining' : 0.5141894876325087
+b'determining processor' : 0.5128643992932862
+b'scans period' : 0.5114840989399292
+b'disconnect time' : 0.5087787102473497
+b'Additional techniques' : 0.5074536219081272
+b'device connecting' : 0.5033679328621908
+b'services device' : 0.49525176678445226
+b'Techniques rejoining' : 0.49392667844522964
+b'device monitoring' : 0.4885159010600706
+b'frequency rate' : 0.48713560070671363
+b'battery life' : 0.48310512367491154
+b'intervals power' : 0.4817248233215548
+b'network disconnect' : 0.4790194346289753
+b'beacons wireless' : 0.4790194346289753
+b'usage intervals' : 0.47769434628975266
+b'monitoring movements' : 0.47498895759717313
+b'device wireless' : 0.47498895759717313
+b'processor device' : 0.4724860129564193
+b'point periods' : 0.47090326855123665
+b'set access' : 0.4616644581861013
+b'period time' : 0.4600817137809188
+b'applications Techniques' : 0.4573763250883392
+b'communication parameter' : 0.4548733804475854
+b'networking logistics' : 0.4451744699646642
+b'usage structure' : 0.4384386042402827
+
+
+2014-06~2014-12 52/10
+-------------------------
+b'manner set' : 1.0
+b'UE' : 1.0
+b'server neighbor' : 0.9975106996244216
+b'nodes strength' : 0.9627915101755612
+b'P2P client' : 0.9470841703787812
+b'network Techniques' : 0.9181151192243866
+b'strength set' : 0.9082015896584854
+b'sets UEs' : 0.8982443881561709
+b'client design' : 0.8759280286487905
+b'neighbor server' : 0.8734387282732117
+b'management manner' : 0.868503799458468
+b'server node' : 0.8660144990828893
+b'design sets' : 0.8585465979561534
+b'WAN' : 0.8536116691414097
+b'set server' : 0.8503071592861092
+b'server peer-to-peer' : 0.8263167088828718
+b'area network' : 0.8097504876699566
+b'server nodes' : 0.7907386380178764
+b'Techniques interference' : 0.7741724168049613
+b'interference management' : 0.7502256383381374
+b'Interference management' : 0.7477363379625587
+b'communication area' : 0.7229306780795994
+
+
+2014-06~2014-12 52/02
+-------------------------
+b'base station' : 1.5626278433374927
+b'UE' : 1.4314818476804985
+b'communication system' : 1.4244186627866053
+b'control channel' : 1.3155420002541618
+b'power consumption' : 1.2655694506982684
+b'communication device' : 1.195282947701776
+b'wireless network' : 1.0752986011263093
+b'client device' : 1.0332701138359968
+b'access point' : 0.9454013255725695
+b'wireless communication' : 0.8405026505074328
+b'user equipment' : 0.7258920506285201
+b'data transmission' : 0.6936259402425652
+b'mode operation' : 0.6880784741462982
+b'device device' : 0.6774119374814784
+b'component carriers' : 0.6749973994207338
+b'TTI' : 0.6628494234805095
+b'communications system' : 0.6109792266463682
+b'device power' : 0.5728108457480997
+b'downlink control' : 0.5637492087646137
+b'WMAN' : 0.5554660202526533
+b'WLAN' : 0.5522889964885156
+b'services access' : 0.5518324680003179
+b'transmitter macro' : 0.5219784655218958
+b'DRX' : 0.5136352185131873
+b'channel signal' : 0.5121832114238788
+b'Wireless communication' : 0.5054138462197639
+b'coverage area' : 0.4658916705938902
+b'radio access' : 0.4605983663987542
+b'transmission rate' : 0.4587339265498636
+b'access network' : 0.45780258548631303
+b'power wireless' : 0.4478049648012298
+b'sensor network' : 0.4478049648012298
+b'selection policy' : 0.44564458864161605
+b'frequency band' : 0.44424669818539547
+b'destination identifier' : 0.4404342696684302
+b'communication connection' : 0.43649476020089933
+b'computer program' : 0.42700489972084416
+b'network entity' : 0.4223887746881277
+b'location information' : 0.420228398528514
+b'AP' : 0.41425559385193506
+b'WCD' : 0.4104431653349697
+b'mode radio' : 0.39938712263577036
+b'allocation message' : 0.3874827240949705
+b'wireless device' : 0.38667902757921935
+b'PDCCH' : 0.3864248656780883
+b'RNC' : 0.3812663420189669
+b'transmission user' : 0.37515587189011596
+b'peer communications' : 0.3749122944906915
+b'packet payload' : 0.3747334182260614
+b'carrier component' : 0.37295428491814425
+b'Femto base' : 0.37071862312202963
+
+

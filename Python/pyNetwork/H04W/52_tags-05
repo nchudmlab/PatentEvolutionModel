@@ -1,0 +1,2880 @@
+2009-06~2009-12 52/30
+-------------------------
+function combination : 2.0
+time measurements : 1.979011805859204
+devices bodies : 1.948966206508839
+handheld devices : 1.9429695796114688
+transmitter ¡§on-times¡¨ : 1.9369729527140982
+¡§on-times¡¨ transmission : 1.909925666812418
+cycle transceiver : 1.909925666812418
+monitors controls : 1.9009307264663629
+access control : 1.8979324130176773
+controls functions : 1.8948716347054784
+device function : 1.8828783809107374
+power levels : 1.858891873321257
+combination functions : 1.8558310950090575
+duty cycle : 1.849834468111687
+products transmission : 1.8258479605222062
+bodies cases : 1.8258479605222062
+transmit power : 1.816790555312637
+power duty-cycle : 1.8137922418639518
+measurements transmitter : 1.8107939284152665
+wireless node : 1.801798988069211
+levels products : 1.7657567618214753
+transmissions devices : 1.7537635080267349
+MAC protocol : 1.4624273845961644
+rate SAR : 1.3783496783059528
+SAR limits : 1.3393091386095322
+absorption rate : 1.0
+
+
+2015-01~2015-05 52/28
+-------------------------
+point Transmit : 2.0
+network algorithm : 1.897608370702541
+point algorithms : 1.8739056160580823
+terminals tradeoff : 1.8720905402519752
+algorithms messages : 1.8684603886397608
+protection scheme : 1.8665385436685884
+terminal communication : 1.8665385436685884
+transmissions interference : 1.8647234678624813
+point example : 1.837283792440743
+tradeoff coverage : 1.8245782617979924
+interference transmissions : 1.8117659619901771
+terminal protection : 1.80995088618407
+algorithm initialization : 1.8080290412128976
+Transmit power : 1.8007687379884687
+scheme interference : 1.7934016655989748
+point cause : 1.7787742899850523
+point network : 1.776959214178945
+devices channel : 1.7550715353405937
+frequency band : 1.751441383728379
+coverage area : 1.7294469357249627
+broadcasting system : 1.7184497117232542
+band broadcasting : 1.7093743326927182
+signal Provided : 1.7038223361093316
+signal technology : 1.691116805466581
+control techniques : 1.6599402092675635
+unit receiver : 1.647234678624813
+combination adjustment : 1.6326073030108903
+devices frequency : 1.630685458039718
+transmitter unit : 1.6216100790091823
+pilot transmitter : 1.6216100790091823
+aspect OFDM-CDMA : 1.619795003203075
+access terminals : 1.6161648515908604
+channel estimation : 1.6161648515908604
+downlink and/or : 1.6087977792013666
+stream code : 1.6051676275891524
+adjustment transmit : 1.6015374759769379
+and/or transmissions : 1.5996156310057656
+code set : 1.5905402519752296
+units acquisition : 1.5795430279735212
+spreading frequency : 1.5722827247490923
+recovery handoff : 1.57036087977792
+acquisition synchronization : 1.5576553491351697
+user combination : 1.5576553491351697
+estimation coherent : 1.5539184283578902
+carrier recovery : 1.552103352551783
+receiver units : 1.5502882767456758
+frequency domain : 1.5448430493273542
+synchronization carrier : 1.533845825325646
+transmissions level : 1.5320307495195387
+Interference control : 1.5320307495195387
+handoff channel : 1.5284005979073243
+
+
+2014-06~2014-12 52/38
+-------------------------
+peer-to-peer UE : 2.0
+server neighbor : 1.9464419827262485
+strength UE : 1.9439072474652646
+sets UEs : 1.9362561021404432
+client design : 1.9234885467517837
+nodes strength : 1.875
+network WAN : 1.8699305294780322
+server node : 1.8673488546751784
+neighbor server : 1.8392790086368755
+WAN interference : 1.8239767179872324
+management manner : 1.8137908374014269
+design sets : 1.8036049568156214
+manner set : 1.7933721366879458
+Techniques interference : 1.7857209913631245
+UE peer-to-peer : 1.7831862561021405
+network Techniques : 1.747465264739016
+interference management : 1.479581299286519
+communication area : 1.479581299286519
+area network : 1.456627863312054
+Interference management : 1.4336744273375892
+P2P client : 1.2168606834397298
+server nodes : 1.0918606834397298
+set server : 1.0
+
+
+2014-06~2014-12 52/28
+-------------------------
+communication control : 1.6221931713318978
+scheme RF : 1.5886650261458013
+parallel conversion : 1.5834358658874192
+resource symbol : 1.582743771147339
+RF unit : 1.580436788680406
+access schemes : 1.5789756997846816
+radio resource : 1.5618271301138111
+sequence parallel : 1.5499077207013228
+transmission signal : 1.505921254998462
+sequence set : 1.5036911719470933
+retransmission L2 : 1.5029990772070132
+delivery minimum : 1.5007689941556444
+arrangement transmit : 1.4955398338972623
+disclosure energy : 1.4910796677945246
+L2 techniques : 1.487311596431867
+QoS communications : 1.4850815133804982
+example embodiments : 1.483620424484774
+system disclosure : 1.482082436173485
+condition quality : 1.481390341433405
+coverage retransmission : 1.4806213472777607
+data signal : 1.4798523531221162
+Service QoS : 1.4798523531221162
+format number : 1.4783912642263919
+number transmission : 1.4769301753306674
+transform symbol : 1.4746231928637341
+consumption network : 1.4746231928637341
+error rate : 1.4746231928637341
+data Absorption : 1.4723931098123653
+system example : 1.4723931098123653
+Rate SAR : 1.4717010150722853
+unit Fourier : 1.4717010150722853
+rate proximity : 1.470932020916641
+transmitter antenna : 1.4694709320209167
+terminal controller : 1.4664718548139035
+generation unit : 1.4649338665026146
+Quality Service : 1.4642417717625344
+traffic condition : 1.46347277760689
+secure provisioning : 1.459781605659797
+session Quality : 1.458243617348508
+network traffic : 1.4567825284527838
+Absorption Rate : 1.4567825284527838
+credentials network : 1.4560135342971394
+service requirement : 1.4560135342971394
+efficiency antenna : 1.454552445401415
+SAR standard : 1.4537834512457706
+communication value : 1.452322362350046
+transmission format : 1.4515533681944017
+state efficiency : 1.4500922792986775
+proximity connection : 1.4500922792986775
+transmission attempts : 1.4493232851430329
+and/or password : 1.447093202091664
+
+
+2012-01~2012-05 52/00
+-------------------------
+Multi Output : 2.0
+interval value : 1.9649886449659348
+measure reference : 1.9274224072672217
+code part : 1.8978046934140802
+commands quality : 1.8843679031037093
+system codes : 1.8574943224829674
+measure commands : 1.8521006813020437
+reference value : 1.8494511733535197
+Frequency Division : 1.7849167297501891
+communication environment : 1.7634367903103707
+phase difference : 1.7472558667676
+signal Further : 1.7446063588190763
+Further radio-communication : 1.736563209689629
+Orthogonal Frequency : 1.7311695685087054
+Multiplexing modulation : 1.7284254352763058
+OFDM Orthogonal : 1.7284254352763058
+Input Multi : 1.7149886449659348
+Division Multiplexing : 1.701551854655564
+environment OFDM : 1.688115064345193
+Radio-communication device : 1.6692846328538984
+Multi Input : 1.623580620741862
+device signal-reception : 1.5994511733535202
+device control : 1.59670704012112
+performs communication : 1.588663890991673
+control loop : 1.5644398183194548
+power control : 1.5510030280090839
+intervals signals : 1.5403103709311128
+device performs : 1.532267221801665
+signals scrambling : 1.5295230885692657
+wireless communications : 1.4918622255866765
+MIMO signal : 1.4811695685087054
+value dependence : 1.4757759273277817
+communications system : 1.4461582134746405
+unit operation : 1.3198334595003787
+dependence performance : 1.3171839515518546
+quality measure : 1.2392127176381529
+performance level : 1.2338190764572294
+packet field : 1.1558478425435275
+scrambling code : 1.1531983345950036
+packet format : 1.1504542013626042
+field packet : 1.1317183951551855
+radio-communication device : 1.09945117335352
+format-determination unit : 1.077876608629826
+time intervals : 1.0
+
+
+2014-06~2014-12 52/20
+-------------------------
+section measures : 2.0
+comparison result : 1.9865338211255548
+calculates reception : 1.932435588075037
+basis comparison : 1.918891570016346
+measures quality : 1.9107962948548298
+devices wireless : 1.8946057445317972
+power control : 1.8729664513115902
+result transmission : 1.8486806258270412
+control quality : 1.845956254378454
+section calculates : 1.8378609792169378
+section transmits : 1.8324122363197635
+devices basis : 1.8324122363197635
+transmission power : 1.8081264108352144
+Transmission power : 1.80267766793804
+disclosure devices : 1.7837627461664203
+GERAN performance : 1.7702965672919748
+systems implementations : 1.7405619989102514
+embodiments features : 1.7378376274616643
+transmits quality : 1.735113256013077
+neighbor cells : 1.735113256013077
+offset neighbor : 1.7027321553670118
+control use : 1.6756441192496303
+use disclosure : 1.6621779403751848
+aspects embodiments : 1.6135284502218417
+cells GERAN : 1.5946135284502216
+wireless communication : 1.4810461586362575
+radio signal : 1.4486650579901923
+rate threshold : 1.418930489608469
+power value : 1.2972678446329882
+section number : 1.2270569004436833
+number section : 1.19732233206196
+error rate : 1.1837783140032694
+quality information : 1.1756830388417532
+device number : 1.1648633922316496
+communication devices : 1.040554214991827
+reception quality : 1.0
+
+
+2015-01~2015-05 52/30
+-------------------------
+networks system : 2.0
+receiver SNR : 1.9316616863713132
+Power scheduling : 1.9316616863713132
+nodes range : 1.9230869169806415
+rates MUD-enabled : 1.9060023385734701
+dB ratio : 1.876055606080291
+network system : 1.858971027673119
+transmission node : 1.8461738339612834
+ratio receiver : 1.8461738339612834
+spread nodes : 1.8461738339612834
+error rates : 1.8205144861634404
+MUD-enabled network : 1.7991425230609326
+techniques detection : 1.7863453293490972
+detection networks : 1.7777705599584253
+control techniques : 1.7393140184487463
+control solution : 1.7051448616344032
+instance dB : 1.1922827075483957
+range rule : 1.0042224243211642
+power control : 1.0
+
+
+2015-01~2015-05 52/32
+-------------------------
+downlink channel : 1.6747007182761373
+reference signal : 1.665070497472732
+control information : 1.6602819898909282
+modes reference : 1.659483905293961
+R-PDCCH accordance : 1.657089651503059
+radio communication : 1.650651769087523
+information step : 1.6394253790901834
+system relay : 1.6234104815110402
+transmits relay : 1.5440808725724926
+link transmission : 1.5376961957967543
+station transmits : 1.5232242617717477
+mode backhaul : 1.5072093641926043
+Transmit power : 1.5024208566108008
+step base : 1.5016227720138333
+backhaul link : 1.5016227720138333
+station downlink : 1.4951848895982973
+differential equipment : 1.4927906358073955
+point Transmit : 1.4872040436286245
+coordination Transmission : 1.4848097898377228
+Transmission power : 1.4799680766161212
+point cause : 1.4799680766161212
+Downlink Shared : 1.4775738228252193
+signal region : 1.4759776536312847
+coverage area : 1.4751795690343177
+terminal protection : 1.4743814844373504
+point algorithms : 1.470337855812716
+terminal communication : 1.4695397712157487
+UE interference : 1.4679436020218142
+equipment UE : 1.4655493482309123
+region Physical : 1.4655493482309123
+Shared Channel : 1.4655493482309123
+transmissions interference : 1.464751263633945
+tradeoff coverage : 1.4575685022612397
+terminals tradeoff : 1.45512104283054
+point network : 1.4535248736366055
+protection scheme : 1.452726789039638
+Frequency time : 1.452726789039638
+scheme interference : 1.4479382814578345
+signal resource : 1.4471401968608673
+Physical Downlink : 1.4463421122639
+algorithm initialization : 1.4447459430699654
+relay station : 1.443096568236233
+time domain : 1.4391061452513965
+point example : 1.4327214684756584
+UE communications : 1.4294759244479913
+algorithms messages : 1.4262835860601224
+network algorithm : 1.4254855014631551
+interference transmissions : 1.4070763500931098
+access terminals : 1.386219739292365
+combination Hence : 1.3757914338919925
+transmission mode : 1.3757914338919925
+
+
+2014-06~2014-12 52/26
+-------------------------
+parallel conversion : 1.6517694272163443
+CDMA system : 1.6431047063115651
+other-sector interference : 1.634439985406786
+traffic channels : 1.634439985406786
+sequence parallel : 1.631977380518059
+radio resource : 1.63070047427946
+channels interference : 1.6270521707406056
+Interference control : 1.6233126596132799
+resource symbol : 1.6195731484859541
+sector traffic : 1.6171105435972273
+OTA other-sector : 1.6171105435972273
+sector manner : 1.6158336373586282
+RF unit : 1.6121853338197738
+report inter-sector : 1.6047063115651223
+manner interference : 1.5997811017876686
+access schemes : 1.597318496898942
+data transmissions : 1.594764684421744
+communication control : 1.5935789857716163
+inter-sector IS : 1.5923020795330172
+sector de-assign : 1.5911163808828896
+transmit powers : 1.5860999635169646
+Sector admission : 1.5836373586282377
+scheme RF : 1.5762495439620579
+rate UL-SCH : 1.5725100328347317
+control communication : 1.568770521707406
+powers OTA : 1.568770521707406
+unit transmit : 1.567493615468807
+noise SINR : 1.5650310105800802
+operations CDMA : 1.5625684056913536
+node noise : 1.5514410798978475
+communications system : 1.5377599416271432
+SINR threshold : 1.5290952207223643
+scheduling node : 1.521707406056184
+threshold pilot : 1.5204304998175848
+generation unit : 1.5204304998175848
+CSI payload : 1.5130426851514045
+node resources : 1.5117657789128054
+pilot channel : 1.505563662896753
+channel status : 1.5018241517694273
+difference code : 1.4993615468807007
+network node : 1.4968989419919736
+wherein turbo : 1.4968989419919736
+bits transmission : 1.4968989419919736
+use communications : 1.4956220357533747
+resources number : 1.4894199197373221
+OSI reports : 1.480755198832543
+nodes channel : 1.4771068952936883
+sequence set : 1.4771068952936883
+indicative difference : 1.4622400583728565
+UL-SCH data : 1.4622400583728565
+Sector OTA : 1.456037942356804
+
+
+2012-01~2012-05 52/02
+-------------------------
+Transfer communication : 2.0
+call transfer : 1.9362043095264831
+response call : 1.9314170809133504
+device mode : 1.8628341618267004
+device part : 1.8564648000898245
+mode response : 1.8532699119109106
+transfer call : 1.8373158856372935
+communication device : 1.0
+
+
+2014-06~2014-12 52/30
+-------------------------
+transmission resources : 2.0
+wireless communication : 1.9870992501623665
+resources transmit : 1.953887937651296
+base stations : 1.9520576253173525
+communication network : 1.9409871878136624
+rates UEs : 1.9391273543130425
+uplink nodes : 1.937297041979099
+UEs transmission : 1.924366770974789
+transmit power : 1.8856350002952116
+Resource uplink : 1.8819153332939718
+network Techniques : 1.8782251874594083
+uplink wireless : 1.8727047292909016
+nodes base : 1.8081419377693804
+Techniques resource : 1.798901812599634
+neighbor node : 1.6125346873708448
+resource partitioning : 1.5738029166912675
+levels neighbor : 1.4077463541359154
+list target : 1.232479187577493
+IoT levels : 1.0811536871937177
+target IoT : 1.0
+
+
+2015-01~2015-05 52/26
+-------------------------
+station terminal : 1.8051430781129159
+channel level : 1.7764114462490332
+class transmission : 1.7568058778035578
+setting modulation : 1.7568058778035578
+power setting : 1.7447022428460945
+communication system : 1.7401778808971384
+communication quality : 1.7265661252900233
+Radio communication : 1.7250580046403714
+quality communication : 1.7220417633410672
+system terminal : 1.7084686774941997
+amplification request/modulation : 1.468290796597061
+requests base : 1.45769528228925
+channel power : 1.425986078886311
+request reception : 1.4063418406805879
+modulation class : 1.3413766434648104
+communication channel : 1.2885150812064965
+reduction request : 1.2673627223511215
+combination Hence : 1.2416860015467903
+power restriction : 1.2386697602474865
+UB rotation : 1.2220804331013149
+consideration macrocell : 1.1858081979891726
+femtocells consideration : 1.1843000773395205
+power reduction : 1.1737432327919568
+power amplification : 1.1691802010827532
+macrocell base : 1.1631477184841454
+PRB rotation : 1.1601314771848414
+interference combination : 1.1525908739365818
+station interface : 1.1480278422273782
+reception unit : 1.1480278422273782
+interface macrocell : 1.0
+base station : 1.0
+transmission power : 0.7008894044856923
+
+
+2015-01~2015-05 52/24
+-------------------------
+solution solutions : 1.5722560092673037
+rates signal : 1.5676223573704027
+interference transmissions : 1.5667535476397336
+adjustments power : 1.5567622357370403
+level frequency : 1.5557486243845933
+control channel : 1.5548798146539242
+techniques bit : 1.5493773530263537
+PHR reporting : 1.5493773530263537
+frequency offset : 1.5474949319432376
+transmission parameter : 1.5438748913987836
+communication device : 1.5383724297712136
+offset communication : 1.5383724297712136
+algorithms messages : 1.5375036200405443
+impact throughput : 1.5347523892267594
+probability success : 1.5347523892267594
+CE Power : 1.5301187373298581
+capability RRC : 1.5301187373298581
+point Transmit : 1.5301187373298581
+algorithm initialization : 1.5283811178685203
+UE applies : 1.5256298870547351
+UE capability : 1.524761077324066
+transmissions interference : 1.524761077324066
+communication techniques : 1.522009846510281
+power time : 1.5209962351578339
+resource impact : 1.5182450043440485
+message MAC : 1.5173761946133797
+point example : 1.5154937735302636
+ratio system : 1.5137561540689255
+point algorithms : 1.5118737329858094
+RRC message : 1.5118737329858094
+terminals tradeoff : 1.5110049232551406
+solutions require : 1.5110049232551406
+scheme interference : 1.5110049232551406
+channel base : 1.5055024616275703
+bit rates : 1.5036200405444542
+Signal transmission : 1.5036200405444542
+Thus sounding : 1.5027512308137851
+network algorithm : 1.5027512308137851
+terminal protection : 1.5
+signal ratio : 1.4963799594555458
+require resource : 1.495511149724877
+cost solution : 1.4927599189110918
+protection scheme : 1.4917463075586446
+system terminal : 1.4908774978279755
+terminal communication : 1.4862438459310745
+Radio communication : 1.4853750362004055
+client station : 1.4845062264697364
+point network : 1.4845062264697364
+parameters informs : 1.4834926151172894
+tradeoff coverage : 1.4834926151172894
+power setting : 1.4834926151172894
+
+
+2013-06~2013-12 52/18
+-------------------------
+characteristic transmissions : 2.0
+comprising power : 1.9257799805004878
+communication network : 1.8984400389990248
+service criteria : 1.882799805004875
+means power : 1.8711000974975627
+layer femtocell : 1.8515599610009748
+value characteristic : 1.8476600584985374
+criteria transmissions : 1.8085797855053625
+quality service : 1.7461000974975622
+target value : 1.617200194995125
+femtocell device : 1.07811992200195
+power control : 1.0312398440039
+control procedure : 1.0
+
+
+2011-01~2011-05 52/44
+-------------------------
+protocol heavy : 2.0
+reduces conflicts : 1.9390803475544272
+controller adapter : 1.9186761690910865
+turn communicate : 1.915259201405838
+mode interface : 1.9085228936834913
+scanners collection : 1.9017865859611442
+code scanners : 1.8983696182758956
+criterion roaming : 1.894952650590647
+data bar : 1.8882163428683003
+capability Improved : 1.871229132090208
+RF regions : 1.8678121644049595
+interpoll gap : 1.8542419213121155
+terminal capability : 1.84408864590452
+gap time : 1.830518402811676
+system multiplicity : 1.8034755442741384
+conflicts RF : 1.7899053011812944
+heavy conditions : 1.786488333496046
+channel interpoll : 1.7830713658107975
+bar code : 1.7763350580884505
+collection means : 1.7695011227179536
+computer Additionally : 1.7457776042175142
+embodiment criterion : 1.7424582641804158
+storage manipulation : 1.7322073611246704
+adapter simulcast : 1.728888021087572
+time embodiment : 1.7051645025871327
+computers storage : 1.7051645025871327
+conditions wishing : 1.6847603241237916
+station reduces : 1.650883530215757
+roaming terminals : 1.64414722249341
+communicate host : 1.6068534609001266
+simulcast mode : 1.579712974714439
+communication system : 1.3966611344332716
+base stations : 1.386507859025676
+host computers : 1.3593673728399882
+communication protocol : 1.2983500927462657
+transceiver units : 1.0
+
+
+2014-06~2014-12 52/22
+-------------------------
+devices wireless : 1.3975322922691342
+section calculates : 1.3860934387250177
+radio resource : 1.3828160143949617
+section measures : 1.3803097487308014
+sequence parallel : 1.377867746288799
+Transmission power : 1.3737549000706895
+basis comparison : 1.372983741404794
+resource symbol : 1.3672000514105778
+communication control : 1.3664288927446822
+measures quality : 1.3582032003084634
+RF unit : 1.355761197866461
+access schemes : 1.3549257759784075
+transmits quality : 1.3532549322023006
+result transmission : 1.3499775078722447
+parallel conversion : 1.3393740762161814
+section transmits : 1.3319838056680162
+scheme RF : 1.3295418032260138
+control quality : 1.3287063813379603
+state efficiency : 1.3278709594499067
+devices basis : 1.3172032645716856
+calculates reception : 1.3163678426836323
+comparison result : 1.3155966840177367
+signal antenna : 1.304093567251462
+amplifier transmitter : 1.2926547137073454
+terminal controller : 1.2860998650472335
+state memory : 1.28526444315918
+SAR standard : 1.2811515969410707
+sequence set : 1.2794807531649637
+efficiency antenna : 1.2787095944990683
+controller distance : 1.2787095944990683
+transmitter antenna : 1.2778741726110145
+data Absorption : 1.2713193239509029
+standard state : 1.2688773215089004
+Rate SAR : 1.268041899620847
+Absorption Rate : 1.2647644752907912
+characteristic signals : 1.2639290534027374
+communication characteristic : 1.2598162071846282
+control module : 1.2532613585245165
+data signal : 1.2524901998586209
+range interference : 1.2499839341944605
+downlink range : 1.2459353511985092
+avoidance femtocell : 1.2434290855343486
+device exceeds : 1.2401516612042929
+power value : 1.2401516612042929
+wireless communication : 1.2377096587622904
+radio signal : 1.230319388214125
+transmission signal : 1.2254353833301201
+interference avoidance : 1.2139322665638455
+device number : 1.2098194203457362
+Femtocell base : 1.2073774179037338
+distance data : 1.2032645716856243
+
+
+2013-06~2013-12 52/38
+-------------------------
+action handover : 2.0
+base station : 1.9830572825210004
+actions station : 1.97460965307769
+information BS : 1.95766693559869
+BS response : 1.9491718475630013
+handover condition : 1.9152864126050022
+response request : 1.8983436951260022
+BS information : 1.894072421811969
+information base : 1.8856247923686587
+request message : 1.847468084096626
+condition action : 1.7118788856722513
+wireless communication : 1.0338854349579991
+communication system : 1.0211665322006551
+response message : 1.0
+
+
+2014-06~2014-12 52/14
+-------------------------
+network Techniques : 1.4990776216829858
+strength UE : 1.4912728820774797
+UE peer-to-peer : 1.479636724847453
+sets UEs : 1.472825315737193
+peer-to-peer UE : 1.4718319852419468
+neighbor server : 1.4620405846459485
+nodes strength : 1.4522491840499503
+WAN interference : 1.4406130268199233
+management manner : 1.4376330353341849
+network WAN : 1.4357882787001561
+client design : 1.4250035476089116
+server node : 1.4240102171136653
+communications power : 1.4240102171136653
+server neighbor : 1.4240102171136653
+OTA other-sector : 1.418192138498652
+time reverse : 1.4055626507733787
+manner set : 1.4045693202781324
+device power : 1.401589328792394
+sector de-assign : 1.3996026678019016
+amount time : 1.3977579111678728
+design sets : 1.3977579111678728
+channels interference : 1.3947779196821342
+traffic exists : 1.3927912586916418
+receiver loss : 1.3899531715623668
+control communication : 1.3831417624521074
+macro cell : 1.3831417624521074
+traffic amount : 1.3791684404711224
+slots channel : 1.3753370228466013
+OFF design : 1.374343692351355
+report inter-sector : 1.374343692351355
+quality Transmit : 1.373350361856109
+e.g. macro : 1.373350361856109
+wireless communications : 1.3703703703703705
+strength receiver : 1.3695189442315878
+cycle period : 1.3665389527458494
+powers OTA : 1.365545622250603
+ON slots : 1.3635589612601107
+inter-sector IS : 1.361714204626082
+level coverage : 1.3597275436355896
+coverage retransmission : 1.3597275436355896
+QoS communications : 1.3587342131403433
+transmission attempts : 1.3577408826450972
+coverage hole : 1.3577408826450972
+outage cell : 1.3577408826450972
+cell level : 1.3567475521498509
+exists link : 1.3567475521498509
+hole interference : 1.3557542216546048
+other-sector interference : 1.3547608911593585
+area network : 1.35291613452533
+interference management : 1.3519228040300837
+margin error : 1.3489428125443452
+
+
+2014-06~2014-12 52/04
+-------------------------
+basis comparison : 1.6002001858868948
+Transmission power : 1.5929791949667549
+control quality : 1.5881175377135912
+calculates reception : 1.5845427897333237
+devices wireless : 1.5712447272467291
+transmits quality : 1.5700293129334382
+comparison result : 1.564023736326589
+power control : 1.553156502466576
+section calculates : 1.5482948452134124
+devices basis : 1.542217773646958
+section measures : 1.5398584399799815
+measures quality : 1.5362121970401086
+result transmission : 1.4999642525201973
+section transmits : 1.4987488382069065
+transmits sequence : 1.4806606134267535
+methodologies facilitate : 1.4722242081933223
+burst power : 1.4710087938800314
+embodiments signal : 1.4710087938800314
+beacon symbol : 1.4625723886466004
+e.g discovery : 1.4613569743333095
+transmits conveying : 1.4613569743333095
+point network : 1.4613569743333095
+Wireless communication : 1.4577107313934368
+addition support : 1.456495317080146
+communications system : 1.455279902766855
+power beacon : 1.4431972545935512
+system Systems : 1.4396225066132837
+bursts burst : 1.4396225066132837
+sequence bursts : 1.4347608493601203
+conveying information : 1.4299706870665618
+attachment embodiments : 1.4287552727532709
+time Further : 1.4275398584399799
+function state : 1.4214627868735255
+air interface : 1.4214627868735255
+data traffic : 1.419103453206549
+discovery state : 1.415457210266676
+state data : 1.4142417959533853
+control traffic : 1.4130263816400943
+state control : 1.4118109673268036
+device data : 1.4009437334667907
+interface technology : 1.3961535711732322
+peer-to-peer communications : 1.3912919139200686
+radio signal : 1.386430256666905
+power value : 1.3828555086866376
+network attachment : 1.3744191034532065
+Systems methodologies : 1.3744191034532065
+symbol time : 1.3732036891399155
+wireless communication : 1.349038392793308
+section number : 1.340601987559877
+quality information : 1.3212268535068277
+device number : 1.3152212768999787
+
+
+2015-01~2015-05 52/58
+-------------------------
+communication system : 2.0
+downlink channel : 1.948577680525164
+system relay : 1.9254454517036574
+information step : 1.9254454517036574
+R-PDCCH accordance : 1.907471084713973
+reference signal : 1.9023132228821504
+modes reference : 1.8868787120975306
+radio communication : 1.8354563926226946
+control information : 1.7737574241950609
+base station : 1.4910128165051577
+station transmits : 1.4241559862457018
+link transmission : 1.4138793372929042
+step base : 1.3778915286026883
+station downlink : 1.331627070959675
+mode backhaul : 1.3187714910909658
+transmits relay : 1.2776258205689277
+backhaul link : 1.2750468896530167
+relay station : 1.1568068146295718
+transmission mode : 1.0
+
+
+2014-01~2014-05 52/28
+-------------------------
+data channels : 2.0
+time constraint : 1.9733571149880165
+channels transport : 1.9467142299760325
+blocks time : 1.944679783735578
+procedure parallel : 1.928292737305613
+software strategies : 1.9241959756981215
+uplink aspect : 1.9159745833565576
+assignments terminal : 1.9139401371161031
+priority order : 1.9016498522936292
+hardware software : 1.8934563290786466
+order individual : 1.8832004904966277
+assignments data : 1.8832004904966277
+channel procedures : 1.8627166824591717
+scheduling transmission : 1.8504263976366981
+terminal priority : 1.807368597068168
+prioritization assignments : 1.5532857700239675
+transport blocks : 1.0
+
+
+2012-06~2012-12 52/26
+-------------------------
+transmission CINR : 2.0
+parameter CINR : 1.959866220735786
+receiver transmit : 1.903010033444816
+transmission systems : 1.8628762541806019
+control transmission : 1.8494983277591972
+control combination : 1.7926421404682271
+power receivers : 1.762541806020067
+transmit power : 1.2441471571906355
+CINR AMC : 1.1036789297658864
+power control : 1.0
+
+
+2010-06~2010-12 52/00
+-------------------------
+synchronization pilot : 2.0
+tone signaling : 2.0
+response period : 1.9793890865954924
+transition Mode : 1.972518782127323
+pilot tone : 1.972518782127323
+period inactivity : 1.972518782127323
+communications system : 1.9565045472518778
+inactivity information : 1.9519572953736655
+power level : 1.9450869909054962
+rate respect : 1.9404903123764332
+use wireless : 1.9359430604982204
+wireless communications : 1.9359430604982204
+and/or rate : 1.9222024515618819
+operation interference : 1.8969948596283115
+interference level : 1.8947212336892052
+state transition : 1.8787069988137601
+level and/or : 1.8787069988137601
+information access : 1.8626927639383153
+signaling power : 1.8512752075919332
+transmit standby : 1.6796164491894028
+wireless terminals : 1.6613285883748516
+mode change : 1.6590549624357454
+Mode transitions : 1.636170423092131
+standby response : 1.5583728746540135
+state wireless : 1.505733491498616
+change signals : 1.3638295769078685
+base station : 1.0
+
+
+2015-01~2015-05 52/54
+-------------------------
+system network : 2.0
+power switching : 1.8985059553865802
+states user : 1.888614964208275
+communications system : 1.861377610122672
+switching control : 1.7995069355748952
+control states : 1.7895862417203792
+commands channel : 1.7673092345620343
+TPC commands : 1.7598835655092526
+equipment nodes : 1.6707755368758725
+user equipment : 1.420797813883031
+channel configuration : 1.4009861288502095
+network node : 1.3465411233552143
+equipment node : 1.2920664151840082
+channel channel : 1.2896010930584847
+transmission power : 1.0
+
+
+2014-06~2014-12 52/40
+-------------------------
+strength receiver : 1.6882052373855654
+outage cell : 1.6599957419629552
+receiver loss : 1.6425377900787737
+terminal transmit : 1.6425377900787737
+measurement coverage : 1.635724930806898
+cell level : 1.6330636576538216
+coverage hole : 1.6304023845007451
+node outage : 1.6236959761549925
+level coverage : 1.6196508409623163
+access terminal : 1.6196508409623163
+standards ratio : 1.6196508409623163
+channel measurement : 1.6182669789227169
+channel quality : 1.6156057057696402
+e.g. macro : 1.6115605705769642
+interference Transmit : 1.6102831594634874
+comprises layer : 1.6088992974238876
+communications standards : 1.6008090270385353
+ratio time : 1.5995316159250585
+loss node : 1.596763891845859
+hardware wireless : 1.5927187566531829
+processing hardware : 1.5900574835001064
+Evaluating reporting : 1.5860123483074302
+Adaptation transmit : 1.5847349371939536
+hole interference : 1.5752608047690018
+devices base : 1.5752608047690018
+characteristics examples : 1.5739833936555248
+power characteristics : 1.5699382584628485
+macro cell : 1.568554396423249
+quality Transmit : 1.567276985309772
+Examples subframes : 1.567276985309772
+network characteristics : 1.567276985309772
+network beamforming : 1.5658931232701723
+link failure : 1.55918671492442
+Techniques interference : 1.5578028528848202
+WTRU adjustments : 1.5578028528848202
+allocation system : 1.5578028528848202
+Switching antennas : 1.5551415797317438
+backhaul communication : 1.5510964445390676
+mode Systems : 1.5510964445390676
+rates UEs : 1.5497125824994678
+beamforming transmission : 1.5497125824994678
+response traffic : 1.5484351713859912
+hardware processing : 1.5470513093463913
+presence CSG : 1.544390036193315
+order radio : 1.543006174153715
+radio system : 1.5417287630402385
+device compensation : 1.5403449010006387
+example thresholds : 1.5376836278475623
+holes radio : 1.535022354694486
+number antennas : 1.535022354694486
+radio link : 1.533638492654886
+
+
+2014-01~2014-05 52/04
+-------------------------
+relaying function : 2.0
+wherein relay : 1.968379008099412
+station wherein : 1.9610932356965862
+Mobile telephone : 1.9586523170235586
+relay period : 1.9586523170235586
+course control : 1.9586523170235586
+voice communication : 1.9464847072746772
+mobile telephone : 1.9367580161988238
+function relaying : 1.9245904064499428
+medium mobile : 1.9221494877769147
+communication course : 1.8175228373830392
+period data : 1.8029143089611304
+limit power : 1.5206923332963498
+data device : 1.5036428862014128
+unit communication : 1.4914752764525314
+communication unit : 1.272495284588927
+device base : 1.1995266097118975
+transmission power : 1.1338067236214355
+base station : 1.0
+
+
+2015-01~2015-05 52/44
+-------------------------
+management system : 2.0
+rate transfer : 1.976325707309305
+output transmit : 1.96209989914539
+Rectifier circuit : 1.9597112373268217
+voltages battery : 1.9573756568819998
+communications bit : 1.9289240405541697
+bit rate : 1.9099739901268644
+RF coverage : 1.9028610860449064
+systems Systems : 1.8933595201443811
+sites reallocation : 1.8886352778809914
+circuit management : 1.8862466160624236
+reallocation slots : 1.8649079038165506
+conversion efficiencies : 1.8459578533892458
+slots radios : 1.8436222729444236
+communications service : 1.8270078029619405
+sites adjustment : 1.8151706566165933
+circuit voltages : 1.8127819947980253
+system use : 1.8127819947980253
+failure conversion : 1.8056690907160675
+battery string : 1.79383194437072
+RF output : 1.7914963639258983
+efficiencies example : 1.7891077021073303
+adjustment indicators : 1.7772705557619828
+rectifiers runtime : 1.7701576516800255
+indicators devices : 1.6777429799883221
+cell sites : 1.6042783587239238
+power controller : 1.2085036360741017
+cell site : 1.0
+
+
+2015-01~2015-05 52/36
+-------------------------
+thereof transmit : 1.4953896923226244
+part thereof : 1.4797631757740464
+message set : 1.4678249053673686
+transmit power : 1.4669028438318936
+wireless communications : 1.4521983888187906
+control TPC : 1.4503542657478405
+control processor : 1.4485101426768903
+processor transmitter : 1.4485101426768903
+determine part : 1.447588081141415
+TPC information : 1.445743958070465
+communications system : 1.4264291953799864
+transmitter receiver : 1.4191012326506844
+communication device : 1.3712996214694748
+cost solution : 1.3703775599339998
+RRC message : 1.3694554983985245
+CE Power : 1.3510627972435214
+parameters informs : 1.342812772978744
+require resource : 1.3327186256430166
+MAC CE : 1.3327186256430166
+resource impact : 1.3327186256430166
+station relay : 1.3271862564301662
+request message : 1.3244200718237407
+capability RRC : 1.3244200718237407
+solution solutions : 1.3180141706299136
+solutions require : 1.3152479860234882
+UE capability : 1.3143259244880132
+impact throughput : 1.3033097156168107
+message MAC : 1.3023876540813355
+request grant : 1.2996214694749102
+PHR reporting : 1.2922449771911093
+grant response : 1.288556731049209
+relay device : 1.2858390759972824
+UE applies : 1.2839949529263321
+coexistence IDC : 1.2472095506163252
+power parameters : 1.237115403280598
+Power control : 1.2306609725322721
+access request : 1.2196447636610697
+module power : 1.2159565175191691
+macrocell base : 1.2095506163253422
+interference combination : 1.2030961855770164
+femtocells consideration : 1.2030961855770164
+PRB rotation : 1.201252062506066
+UB rotation : 1.1975638163641658
+combination Hence : 1.193002038241289
+consideration macrocell : 1.1828593613510627
+power restriction : 1.1746093370862856
+station interface : 1.1589828205377075
+embodiment LTE : 1.1405901193827042
+interface macrocell : 1.1121032708919731
+transmission power : 1.0973988158788703
+LTE radio : 1.0909929146850432
+
+
+2015-01~2015-05 52/16
+-------------------------
+apparatuses MIMO : 1.5548861257103788
+input multiple : 1.5548861257103788
+communication system : 1.5400589667991282
+MIMO transmissions : 1.522240738366876
+telecommunications network : 1.0
+equipment station : 0.9198820664017433
+steps indication : 0.9169337264453274
+station carriers : 0.9050549074904926
+base station : 0.869418450625988
+wireless telecommunications : 0.8575823612357389
+station wireless : 0.7507584497713966
+power data : 0.359056531213947
+characteristics data : 0.35311712173652954
+indication power : 0.3085929154381917
+message carrier : 0.26411143870443954
+channel carrier : 0.2225783019271033
+data channel : 0.029697047387087176
+information message : 0.0
+
+
+2015-01~2015-05 52/12
+-------------------------
+aspect OFDM-CDMA : 2.0
+transmitter unit : 1.9826221278239042
+pilot transmitter : 1.6464568449507626
+estimation coherent : 1.6379609963313388
+carrier recovery : 1.612087275535818
+control downlink : 1.534466113149257
+codes access : 1.534466113149257
+adjustment transmit : 1.5172813284417845
+and/or transmissions : 1.499903456265689
+receiver units : 1.4827186715582168
+channel estimation : 1.456844950762696
+user combination : 1.4396601660552235
+spreading frequency : 1.430971229967175
+transmissions level : 1.42247538134775
+code set : 1.4050975091716542
+control techniques : 1.3792237883761347
+recovery handoff : 1.3707279397567098
+synchronization carrier : 1.3361652828731416
+Interference control : 1.3274763467850932
+handoff channel : 1.3189804981656694
+combination adjustment : 1.2931067773701486
+units acquisition : 1.2500482718671555
+downlink and/or : 1.1983008302761153
+stream code : 1.120679667889554
+acquisition synchronization : 1.120679667889554
+interference pilot : 1.120679667889554
+unit receiver : 1.0948059470940334
+frequency domain : 1.0
+
+
+2012-06~2012-12 52/06
+-------------------------
+program products : 2.0
+computer program : 1.9387755102040818
+scheme aspect : 1.925170068027211
+subject matter : 1.8860544217687076
+selection subject : 1.8401360544217686
+representative channel : 1.6020408163265305
+information representative : 1.5255102040816326
+uplink channel : 1.489795918367347
+power uplink : 1.435374149659864
+channel power : 1.0
+
+
+2010-06~2010-12 52/04
+-------------------------
+
+
+2013-01~2013-05 52/38
+-------------------------
+power mode : 2.0
+condition action : 1.9552232122867506
+BS information : 1.947790265526351
+mode wireless : 1.9440290153584388
+handover condition : 1.9104464245735016
+information base : 1.8731473604083648
+response request : 1.8432812430036274
+station power : 1.835848296243228
+action handover : 1.7947879819101782
+request message : 1.7537276675771283
+base station : 1.7164286034119915
+communication system : 1.2201674651860475
+response message : 1.1418080866878608
+actions station : 1.1418080866878608
+wireless communication : 1.0
+
+
+2011-06~2011-12 52/00
+-------------------------
+downlink stations : 2.0
+basis radio : 1.992074074074074
+use packet : 1.7037037037037037
+storage unit : 1.6613777777777776
+resource use : 1.6547703703703704
+quality information : 1.630962962962963
+control device : 1.6296296296296295
+connection identifier : 1.628311111111111
+transmission resource : 1.628311111111111
+identifier power : 1.6243407407407409
+radio quality : 1.6137629629629628
+information downlink : 1.5952444444444442
+transmission control : 1.3955111111111111
+packet transmission : 1.0
+
+
+2015-01~2015-05 52/00
+-------------------------
+adjustment indicators : 2.0
+communications service : 1.9630081499194767
+bit rate : 1.9542726074862133
+rate transfer : 1.94553706505295
+indicators devices : 1.9215753257527697
+Rectifier circuit : 1.9172319554926553
+failure conversion : 1.8779952174125225
+reallocation slots : 1.8693084768922943
+sites adjustment : 1.86711239080572
+system use : 1.8627690205456053
+circuit voltages : 1.8366111951588504
+management system : 1.8344639109853107
+efficiencies example : 1.8344639109853107
+sites reallocation : 1.8235322824654725
+systems Systems : 1.8235322824654725
+communications bit : 1.816992826118784
+conversion efficiencies : 1.8148455419452443
+RF coverage : 1.8083060855985553
+battery string : 1.8039627153384412
+RF output : 1.7908838026450637
+rectifiers runtime : 1.7843443462983748
+voltages battery : 1.777804889951686
+circuit management : 1.7516470645649311
+slots radios : 1.7385681518715534
+output transmit : 1.7211458689180619
+cell sites : 1.4139866282758284
+power controller : 1.339905324288712
+cell site : 1.0
+
+
+2011-01~2011-05 52/04
+-------------------------
+Mobile Stations : 2.0
+BS Time : 1.9906542056074767
+Frequency Division : 1.97196261682243
+Division Multiple : 1.97196261682243
+Access OFDMA : 1.9688473520249226
+MSs groups : 1.9626168224299068
+Orthogonal Frequency : 1.9532710280373835
+Stations MSs : 1.9532710280373835
+Time Division : 1.9532710280373835
+Reverse-Link RL : 1.94392523364486
+OFDMA system : 1.940809968847352
+integer Mobile : 1.9345794392523366
+Multiple Access : 1.8909657320872277
+Division Duplexing : 1.8785046728971966
+FL number : 1.869158878504673
+Base Station : 1.8442367601246108
+Forward-Link FL : 1.8348909657320873
+Station BS : 1.791277258566978
+index information : 1.4080996884735204
+group index : 1.4049844236760125
+time slots : 1.3644859813084114
+control information : 1.3146417445482865
+number time : 1.2710280373831777
+ratio value : 1.024922118380062
+TDD ratio : 1.0
+
+
+2011-06~2011-12 52/02
+-------------------------
+power modes : 2.0
+product embodiments : 1.9661607788122264
+inserts message : 1.9613144581898567
+infrastructure BSS : 1.9565106491518942
+mechanism communication : 1.9444373591803767
+embodiments power : 1.939591038558007
+trigger indicating : 1.9371678782468222
+embodiment inserts : 1.9347447179356374
+power mode : 1.9178676189261576
+program product : 1.9178676189261576
+modes operation : 1.9033711686434556
+confirms transmitting : 1.8985248480210857
+Power mechanism : 1.8961016877099013
+example embodiment : 1.8574586574841647
+computer program : 1.8574586574841647
+BSS example : 1.8526548484462018
+operation wireless : 1.8453853675126473
+message wireless : 1.8188156272584282
+transfer period : 1.5821111252816393
+transfer link : 1.512052034179314
+receiving device : 1.3139905624282617
+data transfer : 1.0
+
+
+2011-06~2011-12 52/34
+-------------------------
+downlink stations : 2.0
+basis radio : 1.9959304524762935
+storage unit : 1.751366298407398
+resource use : 1.7391315689931783
+use packet : 1.7106056060625825
+control device : 1.707879530958561
+information downlink : 1.6712014295590019
+quality information : 1.6630492910900387
+transmission resource : 1.6521710775170542
+radio quality : 1.633153768896657
+transmission control : 1.4701109995173933
+packet transmission : 1.0
+
+
+2010-01~2010-05 52/28
+-------------------------
+energy usage : 2.0
+criteria conditions : 1.8915389840742698
+events time : 1.8867839082194888
+location detection : 1.849045210959318
+loss determines : 1.8349309381840144
+periods intermittence : 1.816061589553929
+number location : 1.8066269152388863
+time day : 1.8066269152388863
+event records : 1.787757566608801
+determines event : 1.7359045965733266
+Power system : 1.7122801720884597
+tower number : 1.702845497773417
+intermittence reliability : 1.669861876368028
+date tower : 1.6415578534229
+battery energy : 1.5896294059929053
+enters mode : 1.5801947316778626
+day date : 1.5755151332176016
+device periods : 1.452864367122047
+termination condition : 1.028304022945128
+wireless network : 1.0
+
+
+2009-06~2009-12 52/26
+-------------------------
+packets reverse : 2.0
+levels payloads : 1.939326485833307
+station selects : 1.9225999300410215
+station QoS : 1.916335421502846
+resources station : 1.889115018920724
+transmission guideline : 1.8828505103825486
+information base : 1.8765860018443732
+Quality Service : 1.859827646516361
+base station : 1.830540274111998
+QoS Quality : 1.8263745349317904
+payloads service : 1.7907908544535251
+layer packets : 1.7615034820491622
+power levels : 1.4560689413934558
+transmission power : 1.3556460075682895
+level payload : 1.2656851209972335
+reverse link : 1.102489903647407
+payload size : 1.0878621172130887
+link transmission : 1.0062645085381754
+power level : 1.0
+
+
+2011-06~2011-12 52/22
+-------------------------
+Uplink system : 2.0
+use wireless : 1.9710420881431232
+cell system : 1.9545400452219441
+command group : 1.9379983339283586
+access system : 1.9379983339283586
+channel transmission : 1.921456622634773
+wireless access : 1.6404855408782577
+transmission power : 1.6322345194176684
+group users : 1.223134594787576
+power control : 1.1528819072553458
+identifier user : 1.0785037089928204
+control identifier : 1.0
+
+
+2015-01~2015-05 52/40
+-------------------------
+monitoring time : 2.0
+transmit power : 1.9641454545454544
+handover command : 1.921090909090909
+communications network : 1.9067636363636362
+restriction transmission : 1.8995636363636363
+cell neighbor : 1.8947636363636362
+transmissions Transmissions : 1.8947636363636362
+cell communications : 1.8804363636363635
+macro cell : 1.8636363636363635
+e.g. femto : 1.8636363636363635
+example transmit : 1.8541090909090907
+terminal vicinity : 1.8493090909090908
+communication parameter : 1.8445090909090909
+neighbor cells : 1.8445090909090909
+probability handover : 1.839709090909091
+beacon transmission : 1.839709090909091
+measurement data : 1.818181818181818
+parameter measurements : 1.8110545454545453
+downlink carrier : 1.8086545454545453
+periodicity transmission : 1.8062545454545451
+monitors communication : 1.8014545454545452
+intervals reception : 1.7990545454545455
+measurements serving : 1.7990545454545455
+femto cell : 1.7966545454545453
+e.g. macro : 1.7966545454545453
+terminal information : 1.7919272727272726
+carrier frequency : 1.7847272727272727
+cell detection : 1.7249454545454546
+power periodicity : 1.7105454545454544
+time intervals : 1.5765818181818183
+event DRX : 1.5454545454545454
+cycle adjustment : 1.5168
+point e.g. : 1.4808727272727271
+DRX cycle : 1.413890909090909
+occurrence event : 1.3947636363636362
+user equipment : 1.2990545454545455
+access terminal : 1.162690909090909
+access point : 1.0
+
+
+2014-01~2014-05 52/02
+-------------------------
+applications Techniques : 1.5984848484848486
+scans period : 1.595959595959596
+structure portion : 1.595959595959596
+transportation applications : 1.5896464646464645
+Additional techniques : 1.585858585858586
+logistics transportation : 1.5656565656565657
+battery life : 1.5467171717171717
+usage structure : 1.5416666666666667
+networking logistics : 1.5416666666666667
+connecting device : 1.5404040404040404
+devices wireless : 1.5366161616161618
+communication determining : 1.5277777777777777
+cell phone : 1.5252525252525255
+Techniques rejoining : 1.5214646464646466
+connection wireless : 1.5202020202020203
+beacons wireless : 1.5176767676767677
+usage intervals : 1.5176767676767677
+period time : 1.5164141414141414
+device connecting : 1.5151515151515151
+device vicinity : 1.5138888888888888
+frequency rate : 1.5126262626262628
+portion wireless : 1.5088383838383839
+network transmitting : 1.5088383838383839
+points WLAN : 1.5075757575757578
+device monitoring : 1.5075757575757578
+determining processor : 1.5075757575757578
+device wireless : 1.503787878787879
+movements device : 1.5012626262626263
+identifying processor : 1.5012626262626263
+scans beacons : 1.5
+services device : 1.494949494949495
+periods network : 1.4886363636363638
+network disconnect : 1.4861111111111112
+techniques power : 1.4848484848484849
+disconnect time : 1.4785353535353536
+coverage buffer : 1.470959595959596
+monitoring movements : 1.4595959595959596
+phone battery : 1.4330808080808082
+intervals power : 1.4217171717171717
+communication parameter : 1.380050505050505
+processor device : 1.3585858585858586
+network usage : 1.3472222222222223
+network coverage : 1.3207070707070707
+set access : 1.3156565656565657
+network device : 1.3055555555555556
+coverage area : 1.2878787878787878
+access points : 1.1830808080808082
+access point : 1.0
+power usage : 1.0
+wireless network : 0.648989898989899
+
+
+2012-06~2012-12 52/24
+-------------------------
+receiver transmit : 2.0
+control transmission : 1.9672727272727273
+power receivers : 1.9527272727272726
+control combination : 1.88
+transmission systems : 1.7927272727272725
+parameter CINR : 1.7854545454545456
+transmission CINR : 1.7854545454545456
+CINR AMC : 1.1636363636363638
+power control : 1.1381818181818182
+transmit power : 1.0
+
+
+2015-01~2015-05 52/50
+-------------------------
+information determine : 1.5488529235464008
+station wireless : 1.5212250013623236
+pathloss relay : 1.5152852705574626
+determination pathloss : 1.513323524603564
+transceiver access : 1.5084191597188163
+processor transceiver : 1.5034603018909052
+communication relay : 1.494577952155196
+level uplink : 1.4768132526837774
+determine therefrom : 1.4659691569941693
+point algorithms : 1.3859735164296223
+Transmit power : 1.3770911666939132
+protection scheme : 1.3691896899351534
+point example : 1.3633044520734565
+algorithms messages : 1.3612882131763937
+access request : 1.349463244509836
+terminal communication : 1.349463244509836
+coverage area : 1.3484823715328864
+point network : 1.347501498555937
+transmissions interference : 1.3465206255789877
+terminals tradeoff : 1.3435235137049752
+point Transmit : 1.3415617677510763
+scheme interference : 1.3386191488202277
+algorithm initialization : 1.3375837829001145
+interference transmissions : 1.3366029099231649
+uplink channel : 1.332679418015367
+point cause : 1.3267396872105062
+network algorithm : 1.3247779412566074
+control element : 1.3208544493488092
+request message : 1.317857337474797
+terminal protection : 1.3149147185439485
+channel message : 1.3000926380033786
+tradeoff coverage : 1.2951882731186313
+control processor : 1.2931720342215682
+base station : 1.2823279385319601
+control states : 1.2784044466241622
+commands channel : 1.2773690807040488
+power switching : 1.2773690807040488
+relay device : 1.2744264617732004
+power delta : 1.2744264617732004
+TPC commands : 1.269467603945289
+system network : 1.2684867309683396
+switching control : 1.2517029044738706
+states user : 1.2448367936352243
+equipment nodes : 1.2418396817612118
+delta value : 1.2398779358073129
+access terminals : 1.2240749822897934
+reuse spectrum : 1.1935044411748679
+request RTS : 1.187564710370007
+power control : 1.1826058525420957
+CTS signal : 1.1767206146803988
+system throughput : 1.161898534139829
+
+
+2011-06~2011-12 52/30
+-------------------------
+downlink stations : 2.0
+basis radio : 1.9835461958172826
+information downlink : 1.694936262774787
+quality information : 1.6822738817124594
+storage unit : 1.656961271584985
+use packet : 1.6481024656402279
+resource use : 1.6481024656402279
+radio quality : 1.6455748502266347
+control device : 1.630384853750714
+transmission resource : 1.5949374779745051
+transmission control : 1.4632948925155849
+packet transmission : 1.0
+
+
+2013-01~2013-05 52/02
+-------------------------
+device modes : 2.0
+devices device : 1.9602317430798941
+functioning master : 1.9271868965023957
+modes example : 1.923825191331092
+memory interface : 1.9138831271010655
+battery power : 1.9105929475717045
+enter state : 1.9073027680423427
+architecture multi : 1.9039410628710391
+multi mode : 1.8741863958229024
+gaps¡¨ DRX : 1.8543022673628493
+example wireless : 1.8476503826621844
+bus memory : 1.8178957156140476
+threshold S_Intrasearch : 1.7880695229239683
+mode devices : 1.7648952149345538
+DRX pattern : 1.7417209069451398
+measurements gaps¡¨ : 1.7350690222444745
+cell threshold : 1.731778842715113
+device bus : 1.7218367784850868
+measurement report : 1.7218367784850868
+mode operation : 1.708604534725699
+instructions network : 1.6887204062656462
+state measurement : 1.6887204062656462
+S_Intrasearch parameter : 1.6622559187468706
+quality cell : 1.6589657392175094
+computing application : 1.2648594521135827
+master processor : 1.2119304770760317
+application processor : 1.0
+
+
+2014-06~2014-12 52/32
+-------------------------
+duration femto : 1.4780506671823632
+exists link : 1.4476890350029008
+points type : 1.4422742216205764
+outage radius : 1.44140398375556
+Wireless communication : 1.4359891703732353
+locating sources : 1.4342486946432025
+bursts duration : 1.4297041191258943
+coverage parameter : 1.4279636433958616
+parameter energy : 1.427093405530845
+radius parameter : 1.4261264745697155
+point parameters : 1.424385998839683
+femtocell access : 1.4235157609746665
+thereto monitoring : 1.4235157609746665
+periods time : 1.422548830013537
+channel aspects : 1.422548830013537
+Access point : 1.4189711854573583
+communications power : 1.4181009475923418
+energy signals : 1.4172307097273253
+device power : 1.416263778766196
+level periods : 1.4126861342100172
+time example : 1.411815896345001
+time reverse : 1.4109456584799847
+Access Monitoring : 1.4109456584799847
+ON slots : 1.4109456584799847
+traffic exists : 1.4100754206149682
+wireless communications : 1.4100754206149682
+OFF design : 1.4091084896538386
+source wireless : 1.4073680139238058
+Monitoring wireless : 1.40553084509766
+parameters over-the-air : 1.4046606072326435
+cycle period : 1.4019532005414812
+slots channel : 1.401082962676465
+tracking recordation : 1.4002127248114484
+systems Control : 1.3939276735641075
+control scheme : 1.3939276735641075
+traffic amount : 1.3920905047379617
+over-the-air network : 1.3920905047379617
+jamming performance : 1.3920905047379617
+network defines : 1.3894797911429124
+disclosure devices : 1.3876426223167666
+Control resources : 1.38677238445175
+margin error : 1.3859021465867336
+design terminal : 1.3859021465867336
+Regulation femtocell : 1.3813575710694255
+example femto : 1.379617095339393
+traffic identification : 1.3787468574743762
+resources Access : 1.3777799265132469
+identification user : 1.3777799265132469
+lists device : 1.3697543995358732
+location source : 1.3697543995358732
+access points : 1.3690702464285427
+
+
+2014-06~2014-12 52/02
+-------------------------
+broadband wireless : 1.2510729613733906
+area cell : 1.2506706008583692
+system computer : 1.2495976394849786
+program Femto : 1.2474517167381973
+communication service : 1.247049356223176
+station coordination : 1.246244635193133
+nodeB device : 1.2369903433476395
+node wireless : 1.2355150214592274
+information support : 1.2355150214592274
+Radio Network : 1.2348444206008584
+communication network : 1.2322961373390557
+units links : 1.2322961373390557
+channel conditions : 1.2310890557939913
+conditions Determinations : 1.230016094420601
+macro base : 1.2281384120171674
+networks embodiment : 1.2278701716738198
+modulation AMC : 1.2274678111587982
+beacon symbol : 1.2270654506437768
+point network : 1.2263948497854078
+network cell : 1.2259924892703862
+link connections : 1.2259924892703862
+subchannel allocation : 1.2251877682403434
+Controller RNC : 1.2251877682403434
+coordination node : 1.2241148068669527
+session base : 1.2234442060085837
+bursts burst : 1.2230418454935623
+adjustment determinations : 1.2230418454935623
+receiver data : 1.2226394849785407
+throughput power : 1.2226394849785407
+allocation broadband : 1.2219688841201717
+station nodeB : 1.2204935622317596
+message base : 1.2200912017167382
+burst power : 1.2192864806866952
+determinations Radio : 1.2190182403433476
+information band : 1.2190182403433476
+station sleep : 1.2190182403433476
+OFF design : 1.2186158798283262
+service user : 1.2186158798283262
+band modulation : 1.2186158798283262
+request MOB_SLP-REQ : 1.2182135193133048
+information manner : 1.2178111587982832
+traffic amount : 1.2178111587982832
+addition support : 1.2175429184549356
+margin error : 1.2171405579399142
+networks system : 1.2167381974248928
+time Systems : 1.2160675965665235
+design terminal : 1.2156652360515021
+ON slots : 1.2156652360515021
+MOB_SLP-REQ message : 1.2156652360515021
+data throughput : 1.2152628755364807
+sleep mode : 1.2152628755364807
+
+
+2015-01~2015-05 52/10
+-------------------------
+communication relay : 1.556081951543864
+transceiver access : 1.5395420354901717
+determine therefrom : 1.5336408594107134
+information determine : 1.5159373311723392
+level uplink : 1.5053401487761293
+determination pathloss : 1.4958650209865767
+pathloss relay : 1.4852678385903668
+processor transceiver : 1.4639903586418983
+station wireless : 1.4557204006150521
+TPC information : 1.4061422100319994
+thereof transmit : 1.396708639820471
+transmitter receiver : 1.3931762456884014
+message set : 1.390807463741013
+part thereof : 1.384906287661555
+determine part : 1.3624651955284046
+processor transmitter : 1.3624651955284046
+control TPC : 1.3565640194489466
+control element : 1.3353280970785022
+channel message : 1.3317541453684079
+uplink channel : 1.2810123426006732
+grant response : 1.2751111665212151
+control transmitter/receiver : 1.2550388563354526
+system WTRU : 1.2526700743880645
+power delta : 1.2526700743880645
+carrier system : 1.2444001163612186
+command one : 1.2432365041765365
+WTRU carrier : 1.2349665461496904
+delta value : 1.2231641939907743
+command pathloss : 1.21252545401654
+transmitter/receiver unit : 1.2089930598844698
+request grant : 1.1983543199102356
+station relay : 1.1877571375140257
+carriers transmit : 1.1334413830361967
+power parameters : 1.108631508955658
+control command : 1.09566554461206
+wireless communications : 1.0
+power control : 1.0
+communications system : 0.8677637867265094
+control processor : 0.7851473216140963
+request message : 0.6434359805510534
+relay device : 0.6092340938370111
+base station : 0.556081951543864
+transmit power : 0.5135685492249512
+access request : 0.5065037609608112
+
+
+2013-06~2013-12 52/30
+-------------------------
+controls view : 2.0
+wireless communications : 1.9300037200148799
+control uplink : 1.9183276733106935
+power controls : 1.48999795999184
+power levels : 1.4816579266317065
+levels set : 1.4583298333193333
+speed packet : 1.21499285997144
+set speed : 1.2033288133152533
+packet access : 1.0
+
+
+2014-06~2014-12 52/10
+-------------------------
+design sets : 2.0
+management manner : 1.9883397518185708
+server neighbor : 1.8807766367137355
+client design : 1.8720581942661534
+peer-to-peer UE : 1.8662815575524174
+network WAN : 1.8575631151048353
+neighbor server : 1.8575631151048353
+nodes strength : 1.845902866923406
+strength UE : 1.8284659820282414
+sets UEs : 1.8110290971330765
+manner set : 1.8023106546854943
+network Techniques : 1.7877620881471974
+UE peer-to-peer : 1.7877620881471974
+WAN interference : 1.776155327342747
+Techniques interference : 1.7732670089858793
+server node : 1.7005776636713736
+interference management : 1.4418592212237913
+area network : 1.3430145485665381
+Interference management : 1.334296106118956
+communication area : 1.2558301240907146
+server nodes : 1.002888318356868
+P2P client : 1.0
+set server : 1.0
+
+
+2014-01~2014-05 52/30
+-------------------------
+channel procedures : 2.0
+hardware software : 1.9710263269041248
+assignments terminal : 1.9606645079543852
+procedure parallel : 1.9420244966915385
+software strategies : 1.9275235815852456
+time constraint : 1.9275235815852456
+data channels : 1.915106293115585
+scheduling transmission : 1.8840489933830775
+order individual : 1.867492608756863
+blocks time : 1.859214416443756
+assignments data : 1.8571307898071236
+channels transport : 1.850936224130649
+uplink aspect : 1.850936224130649
+priority order : 1.8426580318175416
+terminal priority : 1.8053780092918483
+prioritization assignments : 1.4658313388708994
+transport blocks : 1.0
+
+
+2015-01~2015-05 52/08
+-------------------------
+WTRU carrier : 2.0
+control transmitter/receiver : 1.9416533333333335
+command pathloss : 1.927786666666667
+command one : 1.8833333333333335
+transmitter/receiver unit : 1.8472266666666668
+system WTRU : 1.8444533333333335
+carrier system : 1.80832
+power parameters : 1.3944533333333333
+control command : 1.3555466666666667
+carriers transmit : 1.2249866666666667
+power control : 1.0055466666666666
+transmit power : 1.0
+
+
+2010-01~2010-05 52/18
+-------------------------
+ratios irrespective : 1.5103365384615384
+change data : 1.5023695054945057
+service GoS : 1.4960164835164838
+irrespective adjustments : 1.494436813186813
+grade service : 1.4880837912087912
+rates example : 1.4880837912087912
+rate sources : 1.4864697802197804
+bandwidth grade : 1.4769574175824176
+use bandwidth : 1.4721840659340661
+loop use : 1.4483173076923077
+control communication : 1.4133585164835165
+sources variations : 1.3593063186813186
+indicative erased/good : 1.1685096153846153
+embodiment signal : 1.1637362637362636
+data rate : 1.1430631868131869
+frame status : 1.1351304945054945
+confidence results : 1.1255837912087912
+difference quality : 1.124004120879121
+loop communication : 1.1224244505494505
+erased/good metrics : 1.0985576923076923
+results power : 1.0953983516483516
+system Techniques : 1.0715315934065934
+metrics confidence : 1.049278846153846
+control loop : 1.0
+indicative difference : 1.0
+communication system : 0.6995192307692307
+power control : 0.49443681318681315
+
+
+2011-01~2011-05 52/26
+-------------------------
+rates path : 2.0
+requirements applications : 1.7940709370037067
+communication networks : 1.7646903123345696
+loss tolerances : 1.5514381506970185
+path quality : 1.5220575260278815
+controls transmissions : 1.4338274219163583
+ad hoc : 1.426504323275102
+application reliability : 1.4190929945297341
+transmissions account : 1.3749779424739725
+stack architectures : 1.367654843832716
+quality measurements : 1.3308628904182112
+limits loss : 1.3088053643903304
+availability rates : 1.2426327863066882
+reliability requirements : 1.1176989588847717
+tolerances availability : 1.0
+
+
+2014-06~2014-12 52/16
+-------------------------
+retransmission L2 : 2.0
+arrangement transmit : 1.9396000000000002
+communication value : 1.9130666666666667
+number transmission : 1.9033333333333333
+nodes location : 1.8961333333333337
+transmission format : 1.8961333333333337
+apparatuses power : 1.8816
+devices network : 1.8792
+coverage retransmission : 1.8694666666666668
+format number : 1.8694666666666668
+delivery minimum : 1.8670666666666669
+area devices : 1.8622666666666667
+Service QoS : 1.859866666666667
+Quality Service : 1.852666666666667
+QoS communications : 1.8502666666666667
+network module : 1.8429333333333335
+control cells : 1.8381333333333334
+deployment control : 1.8309333333333335
+pilot signals : 1.8164000000000002
+Base station : 1.8164000000000002
+base stations : 1.804266666666667
+wireless terminals : 1.801866666666667
+control wireless : 1.7946666666666669
+P2P device : 1.7825333333333333
+session Quality : 1.7729333333333335
+transmission attempts : 1.7632000000000003
+networks Embodiments : 1.7632000000000003
+communications devices : 1.7584000000000004
+levels wireless : 1.7438666666666667
+module transmission : 1.729466666666667
+Rate information : 1.7270666666666667
+communication networks : 1.7246666666666668
+service requirement : 1.7246666666666668
+signal result : 1.7173333333333334
+radio communication : 1.7125333333333335
+transmit source : 1.7053333333333334
+occurs embodiments : 1.7053333333333334
+devices systems : 1.7004000000000001
+i.e. transmit : 1.7004000000000001
+function power : 1.6956000000000002
+system communications : 1.6860000000000002
+communications divides : 1.6714666666666667
+power levels : 1.6714666666666667
+communication system : 1.6690666666666667
+L2 techniques : 1.6666666666666667
+peer P2P : 1.6545333333333336
+embodiments Rate : 1.6376000000000002
+peer communications : 1.6352000000000002
+data occurs : 1.6208
+Transmission pilot : 1.6208
+decisions function : 1.6134666666666666
+
+
+2015-01~2015-05 52/34
+-------------------------
+PHR reporting : 2.0
+capability RRC : 1.9683046160391406
+receiver SNR : 1.959583067432461
+communication device : 1.953839608593916
+neighboring cell : 1.9508615188257816
+MAC CE : 1.9478834290576472
+CE Power : 1.9334184216124228
+response load : 1.9249095937034673
+FDMA communication : 1.9219315039353329
+value transmitter : 1.9132099553286535
+cell equipment : 1.910444586258243
+transmitter side : 1.9074664964901085
+MUD-enabled network : 1.9047011274196979
+cost solution : 1.9047011274196979
+UE capability : 1.8785364815996597
+solution solutions : 1.8757711125292493
+request layer : 1.8727930227611147
+solutions require : 1.8700276536907041
+UE applies : 1.864071474154435
+belongs interference : 1.8555626462454795
+RRC message : 1.8555626462454795
+frequency FDMA : 1.852584556477345
+message MAC : 1.849606466709211
+networks system : 1.8438630078706657
+parameters informs : 1.8410976388002553
+computer program : 1.8410976388002553
+Suppression interferences : 1.838119549032121
+impact throughput : 1.838119549032121
+station edge : 1.8323760901935757
+spread nodes : 1.8293980004254413
+cells interference : 1.8293980004254413
+length Aggregation : 1.826632631355031
+transmission request : 1.8179110827483513
+control solution : 1.8179110827483513
+resource impact : 1.814932992980217
+interferences cells : 1.809189534141672
+quality threshold : 1.809189534141672
+interference information : 1.8064241650712616
+require resource : 1.8034460753031272
+AGC operation : 1.8034460753031272
+data items : 1.7862156987874918
+Communication appartus : 1.7862156987874918
+rates MUD-enabled : 1.7745160604126782
+network system : 1.7717506913422678
+communication system : 1.7687726015741334
+appartus communication : 1.765794511805999
+nodes range : 1.7630291427355882
+channel quality : 1.7630291427355882
+information frequency : 1.7630291427355882
+edge communication : 1.7630291427355882
+ratio receiver : 1.7600510529674538
+
+
+2012-06~2012-12 52/16
+-------------------------
+program products : 2.0
+computer program : 1.998236331569665
+scheme aspect : 1.9576719576719577
+selection subject : 1.9523809523809526
+subject matter : 1.920634920634921
+representative channel : 1.6472663139329806
+power uplink : 1.566137566137566
+information representative : 1.5590828924162257
+uplink channel : 1.4656084656084656
+channel power : 1.0
+
+
+2014-06~2014-12 52/08
+-------------------------
+device phone : 2.0
+timing adjustment : 1.9881028644641712
+command base : 1.9447240779719959
+unit base : 1.9447240779719959
+CDMA system : 1.9387755102040813
+pilot channel : 1.9112290656172781
+noise SINR : 1.8993319300814497
+Wireless communication : 1.8934748787407338
+control command : 1.8914615173423628
+station adjustment : 1.883591104603276
+phone wireless : 1.8796558982337328
+threshold pilot : 1.8776425368353618
+network Techniques : 1.8697721240962752
+UE peer-to-peer : 1.8678502791251028
+use timing : 1.8598883499588175
+Techniques interference : 1.8540312986181018
+node noise : 1.852017937219731
+SINR threshold : 1.8460693694518162
+peer-to-peer UE : 1.8342637503431867
+client design : 1.8323419053720142
+strength UE : 1.8263933376040997
+unit transmit : 1.8066257893291846
+operations CDMA : 1.786949757481468
+neighbor server : 1.7849363960830968
+design sets : 1.7830145511119244
+server neighbor : 1.7731307769744666
+WAN interference : 1.763247002837009
+nodes strength : 1.7514413837283793
+network WAN : 1.7475061773588358
+manner set : 1.7396357646197491
+scheduling node : 1.7297519904822916
+server node : 1.711997803605747
+sets UEs : 1.700192184497117
+management manner : 1.6843598425917452
+adjustment value : 1.6370458497300264
+base station : 1.621305024251853
+wireless communication : 1.6192916628534821
+power level : 1.6114212501143956
+value basis : 1.5778347213324793
+information power : 1.5641072572526769
+channel information : 1.554223483115219
+interference management : 1.5482749153473048
+basis variation : 1.5482749153473048
+communication area : 1.4950123547176717
+communication device : 1.4811933742106707
+control value : 1.4772581678411274
+variation transmission : 1.4733229614715841
+area network : 1.461517342362954
+Interference management : 1.4555687745950396
+rate control : 1.4437631554864097
+P2P client : 1.4142033495012354
+
+
+2013-01~2013-05 52/00
+-------------------------
+RF coverage : 2.0
+management system : 1.9458909090909091
+adjustment indicators : 1.9242181818181816
+RF output : 1.917721212121212
+slots radios : 1.9155878787878788
+indicators devices : 1.902593939393939
+sites adjustment : 1.8896
+rectifiers runtime : 1.8787878787878787
+Rectifier circuit : 1.8787878787878787
+reallocation slots : 1.8787878787878787
+conversion efficiencies : 1.8766060606060608
+systems Systems : 1.8744727272727273
+communications bit : 1.8722909090909088
+sites reallocation : 1.8679757575757574
+circuit voltages : 1.8419878787878785
+bit rate : 1.8311757575757577
+circuit management : 1.8289939393939392
+voltages battery : 1.8224969696969695
+output transmit : 1.8203636363636364
+communications service : 1.7965575757575754
+failure conversion : 1.7835636363636362
+efficiencies example : 1.7835636363636362
+rate transfer : 1.7727030303030302
+battery string : 1.7597575757575759
+system use : 1.7402666666666666
+cell sites : 1.4545454545454544
+power controller : 1.303030303030303
+cell site : 1.0
+
+
+2013-06~2013-12 52/26
+-------------------------
+power receivers : 2.0
+transmission system : 1.7916666666666665
+control combination : 1.7765151515151514
+parameter CINR : 1.7537878787878785
+control data : 1.7537878787878785
+data transmission : 1.727272727272727
+receiver transmit : 1.6553030303030303
+CINR AMC : 1.0227272727272727
+transmit power : 1.0
+power control : 1.0
+
+
+2014-01~2014-05 52/00
+-------------------------
+wireless network : 2.0
+usage intervals : 1.961594555177443
+movements device : 1.9530384054448224
+monitoring movements : 1.923189110354886
+coverage buffer : 1.9168692270296548
+device monitoring : 1.893339815264949
+intervals power : 1.891200777831794
+device Physical : 1.8891589693728732
+network disconnect : 1.887019931939718
+points WLAN : 1.8806028196402527
+services device : 1.8634905201750123
+device wireless : 1.846475449684006
+NACK information : 1.844336412250851
+periods network : 1.8421973748176956
+evolution LTE : 1.8357802625182305
+acknowledge ACK : 1.8294603791929998
+utilization ratio : 1.8166261545940692
+device vicinity : 1.8059309674282935
+ACK /negative : 1.8037919299951386
+number bits : 1.7974720466699075
+application acknowledge : 1.7910549343704423
+phone battery : 1.7867768595041322
+communication determining : 1.7846378220709773
+field communications : 1.7846378220709773
+network transmitting : 1.7803597472046668
+Uplink Control : 1.7782207097715121
+ACK/NACK information : 1.776081672338357
+channel application : 1.776081672338357
+identifying processor : 1.7739426349052017
+Physical Uplink : 1.7739426349052017
+battery life : 1.767622751579971
+device connecting : 1.7633446767136607
+/negative NACK : 1.7612056392805058
+cell phone : 1.7526494895478852
+determining processor : 1.748371414681575
+disconnect time : 1.735634419056879
+term evolution : 1.7270782693242586
+value number : 1.7249392318911037
+device uplink : 1.7121050072921733
+scheme determines : 1.7079241614000973
+ratio user : 1.7057851239669422
+LTE system : 1.6908118619348569
+connecting device : 1.680116674769081
+power usage : 1.6780748663101603
+user equipment : 1.671657754010695
+Control Channel : 1.658823529411765
+system field : 1.633252309188138
+coverage area : 1.5969859017987362
+network coverage : 1.5884297520661157
+bundling scheme : 1.5692756441419542
+set access : 1.552260573650948
+
+
+2012-06~2012-12 52/38
+-------------------------
+BS information : 2.0
+action handover : 1.978647990775932
+information base : 1.8505359354315245
+base station : 1.8469915019003293
+power mode : 1.8113763505145837
+response request : 1.8113763505145837
+request message : 1.7971559123713545
+mode wireless : 1.7864799077593205
+handover condition : 1.7686723320664477
+station power : 1.7366443182303457
+condition action : 1.7117478754750826
+response message : 1.3487637186659267
+actions station : 1.1672716402613486
+communication system : 1.0462911559977792
+wireless communication : 1.0
+
+
+2015-01~2015-05 52/18
+-------------------------
+TPC information : 2.0
+transmit power : 1.9742888402625822
+processor transmitter : 1.9691309784307598
+communications system : 1.9614332603938731
+part thereof : 1.9511566114410752
+wireless communications : 1.9511566114410752
+message set : 1.948577680525164
+determine part : 1.907432010003126
+control processor : 1.8894576430134418
+control TPC : 1.868904345107846
+thereof transmit : 1.8611675523601126
+transmitter receiver : 1.8508909034073149
+relay device : 1.5809628008752734
+station relay : 1.516684901531729
+grant response : 1.4627227258518287
+request message : 1.4395904970303222
+request grant : 1.4215770553297906
+base station : 1.2185057830572052
+access request : 1.0
+
+
+2015-01~2015-05 52/14
+-------------------------
+point network : 1.488253684680661
+station wireless : 1.4739615899955338
+communication relay : 1.4739615899955338
+determine therefrom : 1.4677087985707906
+terminal communication : 1.464671728450201
+level uplink : 1.4621706118803037
+algorithm initialization : 1.459044216167932
+determination pathloss : 1.4577936578829835
+terminals tradeoff : 1.4553818669048684
+terminal protection : 1.4516301920500223
+transceiver access : 1.4497543546225993
+reference signal : 1.4491290754801252
+interference transmissions : 1.4478785171951765
+Transmit power : 1.4478785171951765
+pathloss relay : 1.4460026797677534
+point Transmit : 1.4417150513622152
+wireless communications : 1.4404644930772665
+protection scheme : 1.4360875390799464
+network algorithm : 1.4360875390799464
+point cause : 1.4311746315319338
+system relay : 1.4305493523894597
+information determine : 1.4305493523894597
+scheme interference : 1.4286735149620367
+point algorithms : 1.4280482358195623
+differential equipment : 1.427422956677088
+point example : 1.4267976775346136
+Transmission power : 1.4261723983921393
+processor transceiver : 1.4249218401071908
+modes reference : 1.4230460026797678
+tradeoff coverage : 1.421884769986601
+control information : 1.4212594908441267
+transmissions interference : 1.4212594908441267
+algorithms messages : 1.4206342117016526
+R-PDCCH accordance : 1.4206342117016526
+coverage area : 1.4206342117016526
+downlink channel : 1.413756141134435
+radio communication : 1.4100937918713712
+Downlink Shared : 1.4088432335864225
+information step : 1.4075926753014738
+rectifiers runtime : 1.4032157213041536
+UE communications : 1.4025904421616793
+equipment UE : 1.4013398838767306
+signal resource : 1.4008039303260384
+RF output : 1.3989280928986154
+resource downlink : 1.3989280928986154
+region Physical : 1.3970522554711926
+management system : 1.3951764180437696
+Physical Downlink : 1.3939258597588209
+channel ePDCCH : 1.3933005806163465
+request message : 1.3926753014738722
+battery string : 1.3920500223313979
+
+
+2014-06~2014-12 52/12
+-------------------------
+network radio : 2.0
+communications network : 1.2340686274509804
+base station : 1.1702069716775603
+Communications unit : 1.0
+
+
+2014-06~2014-12 52/24
+-------------------------
+energy signals : 1.3554852320675104
+Interference control : 1.350606540084388
+report inter-sector : 1.3492879746835444
+outage radius : 1.3487605485232068
+access points : 1.3481012658227849
+data transmissions : 1.3462552742616034
+OTA other-sector : 1.3455959915611815
+powers OTA : 1.3455959915611815
+manner interference : 1.3432225738396624
+inter-sector IS : 1.3388713080168777
+sector traffic : 1.3382120253164558
+sector de-assign : 1.3370253164556962
+coverage parameter : 1.3357067510548521
+other-sector interference : 1.3296413502109705
+devices wireless : 1.3276635021097047
+example femto : 1.3258175105485233
+Sector admission : 1.3252900843881856
+channels interference : 1.3252900843881856
+parameters over-the-air : 1.3246308016877637
+transmits quality : 1.3202795358649788
+basis comparison : 1.3197521097046414
+sector manner : 1.3190928270042195
+WAN interference : 1.3190928270042195
+transmission scheme : 1.317246835443038
+Access point : 1.317246835443038
+calculates reception : 1.317246835443038
+section transmits : 1.3160601265822784
+duration femto : 1.3160601265822784
+points type : 1.3154008438818565
+Transmission power : 1.3092035864978904
+time example : 1.3092035864978904
+traffic channels : 1.3085443037974684
+bursts duration : 1.3080168776371308
+over-the-air network : 1.3080168776371308
+control communication : 1.3080168776371308
+network defines : 1.3073575949367089
+transmit powers : 1.3061708860759493
+client design : 1.3055116033755274
+result transmission : 1.3055116033755274
+measures quality : 1.3048523206751055
+devices basis : 1.3048523206751055
+control scheme : 1.3043248945147679
+parameter energy : 1.303006329113924
+point parameters : 1.2974683544303798
+management manner : 1.2962816455696202
+radius parameter : 1.2944356540084387
+periods time : 1.2944356540084387
+channel aspects : 1.2944356540084387
+estimate Sector : 1.2925896624472573
+comparison result : 1.2919303797468353
+section calculates : 1.2919303797468353
+
+
+2014-06~2014-12 52/00
+-------------------------
+pilot reference : 2.0
+average pilot : 1.7980846890504212
+station voice : 1.6731279566170532
+reference value : 1.653859466943579
+power-control set : 1.6442829121956848
+pilot transmit : 1.5961693781008424
+channel station : 1.5769008884273683
+communication channel : 1.567324333679474
+link communication : 1.5289027345102113
+value timing : 1.5289027345102113
+voice data : 1.5192107995846313
+transmit power : 1.2692973347178955
+set point : 1.076958578516211
+reverse link : 1.0673820237683167
+power power-control : 1.0
+
+
+2015-01~2015-05 52/04
+-------------------------
+sum number : 2.0
+measures reception : 1.9657197965982816
+group values : 1.929773803261441
+specifies correction : 1.892074346834999
+distribution differences : 1.873312291776258
+value sum : 1.851043310538313
+communication control : 1.8476240575135894
+station specifies : 1.8356128353498158
+Radio communication : 1.8236016131860424
+value distribution : 1.8201823601613185
+differences reception : 1.8099246010871473
+correction value : 1.7979133789233734
+protection scheme : 1.7603015956514114
+coverage area : 1.7603015956514114
+network algorithm : 1.7396984043485881
+request RTS : 1.7362791513238647
+tradeoff coverage : 1.7346133613887427
+terminal protection : 1.7226021392249693
+channel gain : 1.7140101700859196
+point algorithms : 1.70550587410135
+terminal communication : 1.7037524110117483
+transmissions interference : 1.7003331579870244
+point cause : 1.6883219358232506
+algorithm initialization : 1.686656145888129
+terminals tradeoff : 1.6832368928634052
+scheme interference : 1.6798176398386813
+point network : 1.6780641767490794
+algorithms messages : 1.6763983868139576
+reuse spectrum : 1.6746449237243555
+wireless communications : 1.667806417674908
+communication system : 1.6523759424864108
+point Transmit : 1.6507101525512886
+throughput reuse : 1.6472908995265647
+CTS signal : 1.6421181834122391
+number stations : 1.6421181834122391
+RTS signal : 1.6352796773627913
+Transmit power : 1.6130106961248465
+point example : 1.6044187269857968
+system throughput : 1.599333684025951
+interference transmissions : 1.597580220936349
+adjustment request : 1.5736454497632826
+stations mobile-station : 1.5684727336489566
+power signals : 1.5530422584604593
+request information : 1.5136770120988952
+transmit data : 1.5102577590741715
+signals base : 1.496580746975276
+access terminals : 1.4725583026477291
+data power : 1.4520427844993862
+power control : 1.4452042784499386
+signal message : 1.4452042784499386
+power level : 1.433193056286165
+
+
+2011-01~2011-05 52/48
+-------------------------
+communication networks : 2.0
+reliability requirements : 1.829973602111831
+loss tolerances : 1.6299496040316774
+stack architectures : 1.6199904007679384
+requirements applications : 1.580033597312215
+rates path : 1.5299976001919846
+application reliability : 1.4300455963522918
+controls transmissions : 1.410007199424046
+ad hoc : 1.3899688024958003
+path quality : 1.329973602111831
+availability rates : 1.2500599952003841
+tolerances availability : 1.170026397888169
+quality measurements : 1.1400287976961843
+transmissions account : 1.0899928005759538
+limits loss : 1.0
+
+
+2013-06~2013-12 52/24
+-------------------------
+data transmission : 2.0
+feature space : 1.9805116758241754
+channel use : 1.9805116758241754
+transmission system : 1.9707245879120878
+control combination : 1.9268543956043958
+control data : 1.8926854395604393
+parameter CINR : 1.8683035714285714
+receiver transmit : 1.8195398351648353
+power receivers : 1.804859203296703
+scheme meets : 1.790264423076923
+signal channel : 1.7804773351648349
+peak power : 1.7804773351648349
+modulation scheme : 1.697544642857143
+spectrum sensor : 1.6682692307692308
+PAPR modulation : 1.6389938186813187
+use user : 1.6195054945054945
+radio spectrum : 1.5902300824175826
+PAPR signal : 1.5658482142857144
+transmit power : 1.3950892857142854
+CINR AMC : 1.117101648351648
+ratio PAPR : 1.0292754120879115
+power control : 1.0
+
+
+2014-06~2014-12 52/42
+-------------------------
+Approach energy : 1.6022645145748013
+system example : 1.59798843652132
+example embodiments : 1.5908817152493375
+command message : 1.5809443507588532
+manages resources : 1.5639002649963865
+embodiments set : 1.5639002649963865
+network traffic : 1.5610696217778848
+switch command : 1.5596241869429053
+communications communication : 1.5369188147434354
+system disclosure : 1.5340881715249337
+management communications : 1.5326427366899542
+traffic condition : 1.5326427366899542
+consumption network : 1.5326427366899542
+information reception : 1.5284268850879306
+configuration wireless : 1.5170440857624667
+diversity mode : 1.504276078053481
+condition quality : 1.4772344013490724
+disclosure energy : 1.4659118284750663
+Embodiments system : 1.4545290291496025
+requests inclusion : 1.4389303782221152
+information station : 1.4218862924596483
+Channel rank : 1.4189954227896893
+systems Embodiments : 1.4147795711876656
+station receiver/UE : 1.4133341363526861
+types channel : 1.4105034931341844
+channel structures : 1.4048422066971815
+structures requests : 1.3962900505902192
+system methodology : 1.3920139725367382
+access terminal : 1.3664779571187664
+LTE standard : 1.363647313900265
+inclusion LTE : 1.3608166706817635
+MIMO system : 1.3550951577933028
+consumption level : 1.3394965068658156
+consumption multiple-output : 1.3238376294868708
+antenna receives : 1.3139002649963865
+communication systems : 1.3096241869429055
+antenna module : 1.308238978559383
+information equipment : 1.3039629005059021
+channel quality : 1.3039629005059021
+signal carrier : 1.2968561792339197
+power channelization : 1.2883642495784149
+MIMO transmission : 1.2855336063599132
+equipment UE : 1.276981450252951
+Techniques channel : 1.271320163815948
+channelization code : 1.2627680077089858
+carrier frequency : 1.2571067212719826
+set information : 1.25
+UE transmit : 1.2471693567814985
+operation information : 1.22729462780053
+communication device : 1.0255360154179716
+energy consumption : 1.0099373644904843
+
+
+2012-01~2012-05 52/16
+-------------------------
+value transmission : 2.0
+bit value : 1.9853116468643055
+symbols UE : 1.9746222170953973
+MIMO scheme : 1.9706232937286114
+ratios layers : 1.967957344817421
+bits transmit : 1.7209597416080284
+value MIMO : 1.70092667358788
+number bits : 1.6528626908140116
+power value : 1.440586508760462
+power ratio : 1.222965611822458
+ratio values : 1.2216198203047897
+transmit power : 1.0
+
+
+2014-06~2014-12 52/36
+-------------------------
+Radio Network : 1.4359550561797754
+power consumption : 1.4293204922418405
+data transmissions : 1.4050294275013377
+access schemes : 1.4012841091492776
+conditions Determinations : 1.398501872659176
+Network Controller : 1.3919743178170143
+radio resource : 1.3891920813269127
+scheme RF : 1.3882289994649546
+information manner : 1.3872659176029962
+determinations Radio : 1.3872659176029962
+nodeB device : 1.3863028357410379
+adjustment determinations : 1.385446762974853
+data throughput : 1.3825575173889781
+device equipment : 1.3788121990369182
+UE information : 1.377956126270733
+sequence parallel : 1.377956126270733
+throughput power : 1.3750668806848583
+RF unit : 1.3732477260567149
+traffic channels : 1.3722846441947565
+format number : 1.3713215623327983
+Controller RNC : 1.369502407704655
+other-sector interference : 1.3676832530765115
+quality Transmit : 1.3667201712145531
+session base : 1.365757089352595
+station nodeB : 1.3639379347244516
+resource symbol : 1.362011771000535
+manner interference : 1.3601926163723916
+communication system : 1.3592295345104333
+channels interference : 1.3582664526484751
+channel conditions : 1.3582664526484751
+Determinations indicia : 1.357303370786517
+sector traffic : 1.3564472980203317
+parallel conversion : 1.3564472980203317
+Sector admission : 1.3554842161583736
+process secure : 1.3554842161583736
+sector de-assign : 1.3517388978063136
+time Systems : 1.3507758159443553
+communication control : 1.3507758159443553
+report inter-sector : 1.349812734082397
+inter-sector IS : 1.3470304975922953
+credentials network : 1.3470304975922953
+sector manner : 1.3460674157303372
+error rate : 1.3424291064740503
+receiver loss : 1.3405029427501338
+powers OTA : 1.3405029427501338
+hole interference : 1.3395398608881754
+terminal transmit : 1.3395398608881754
+delivery minimum : 1.3386837881219904
+channel quality : 1.3377207062600323
+loss node : 1.3367576243980739
+service requirement : 1.3349384697699305
+
+
+2009-06~2009-12 52/34
+-------------------------
+communication system : 2.0
+Channel CPCH : 1.9792290909090906
+Common Physical : 1.9740218181818179
+Physical Channel : 1.91168
+channels user : 1.9065018181818179
+system Common : 1.9038836363636364
+reuse timeslot : 1.8311563636363637
+timeslot reception : 1.8285672727272728
+wireless communication : 1.75584
+timeslots user : 1.4493381818181819
+system timeslots : 1.3714327272727274
+CPCH timeslots : 1.353250909090909
+user traffic : 1.1194763636363636
+control information : 1.0
+
+
+2014-06~2014-12 52/48
+-------------------------
+Service QoS : 2.0
+arrangement transmit : 1.9959245500775418
+session Quality : 1.991813034226566
+coverage retransmission : 1.963140621055289
+L2 techniques : 1.9549175893533377
+communication value : 1.9344321419554946
+format number : 1.899592455007754
+delivery minimum : 1.8934612471598082
+transmission attempts : 1.862733076063043
+retransmission L2 : 1.8422115627366824
+number transmission : 1.840191870739712
+Quality Service : 1.8278933891153029
+service requirement : 1.8155949074908935
+transmission format : 1.7909979442420745
+QoS communications : 1.7684567389187436
+communications session : 1.5389331698344573
+transmit power : 1.3811447325711401
+value range : 1.3791250405741695
+data channel : 1.2008150899844916
+power gain : 1.1516572294153713
+gain factor : 1.108630576694197
+uplink data : 1.0
+
+
+2014-06~2014-12 52/34
+-------------------------
+comparison result : 1.8057333704425274
+devices wireless : 1.784673902959458
+section transmits : 1.754522682994712
+devices basis : 1.7499768067538732
+basis comparison : 1.7455237034975415
+transmits quality : 1.7439465627609243
+section calculates : 1.7424621950088133
+calculates reception : 1.7424621950088133
+Transmission power : 1.7364319510158643
+measures quality : 1.7243714630299656
+result transmission : 1.722887095277855
+control quality : 1.7183412190370164
+transmission power : 1.7062807310511179
+section measures : 1.6957973838018368
+neighbor server : 1.5692550329344095
+peer-to-peer UE : 1.5496799332034512
+radio signal : 1.5436496892105018
+Techniques interference : 1.5346507097133315
+UE peer-to-peer : 1.5255589572316541
+network Techniques : 1.5165599777344836
+WAN interference : 1.5105297337415347
+network WAN : 1.509045365989424
+server node : 1.5075609982373133
+sets UEs : 1.5059838575006959
+server neighbor : 1.5044994897485853
+client design : 1.501530754244364
+design sets : 1.4955005102514147
+power value : 1.4803785137767882
+management manner : 1.4788941460246776
+base station : 1.4684107987753965
+strength UE : 1.4653492902866685
+wireless communication : 1.4638649225345581
+Communications unit : 1.4442898228035996
+nodes strength : 1.4351980703219223
+communications network : 1.4337137025698117
+manner set : 1.4337137025698117
+device number : 1.415622970590964
+network radio : 1.4111698673346322
+Techniques channel : 1.4095927265980146
+information equipment : 1.3855645236107246
+number section : 1.3568976713980887
+channel quality : 1.3539289358938678
+UE transmit : 1.3493830596530292
+channel indicator : 1.3464143241488078
+system Techniques : 1.3433528156600798
+section number : 1.3358382039150198
+Interference management : 1.325262083681232
+equipment UE : 1.3208089804249004
+power channelization : 1.311717227943223
+indicator CQI : 1.3042026161981632
+P2P client : 1.3042026161981632
+
+
+2013-01~2013-05 52/04
+-------------------------
+system Provided : 2.0
+data transmission : 1.9804978916639637
+routing table : 1.9493188452805708
+antenna embodiment : 1.9473726889393448
+level manner : 1.8908530651962374
+information device : 1.8771894258838793
+link transmission : 1.8615796302302952
+controllers ad : 1.8479565358417125
+networks system : 1.7953292247810573
+setting transmit : 1.793383068439831
+ad hoc : 1.7621634771326629
+network setting : 1.7543788517677585
+control networks : 1.6237836522867335
+communication system : 1.5692101848848523
+sector response : 1.5594388582549463
+response message : 1.5360849821602336
+communications network : 1.5321521245540057
+sector recovery : 1.518529030165423
+transmit power : 1.510744404800519
+subset communications : 1.4873499837820305
+power control : 1.4834171261758027
+communications controllers : 1.3781625040544925
+power sector : 1.37427019137204
+transmission power : 1.3703778786895882
+power level : 1.333360363282517
+wireless communication : 1.0
+
+
+2011-01~2011-05 52/28
+-------------------------
+bar code : 2.0
+system multiplicity : 1.985905495842628
+embodiment criterion : 1.9647130399513286
+conflicts RF : 1.954167511660921
+criterion roaming : 1.9436219833705133
+terminal capability : 1.9436219833705133
+RF regions : 1.9366254309470698
+communicate host : 1.91543297505577
+scanners collection : 1.8732508618941393
+code scanners : 1.8732508618941393
+turn communicate : 1.8626039342932468
+channel interpoll : 1.8626039342932468
+reduces conflicts : 1.8626039342932468
+interpoll gap : 1.8591563577367676
+collection means : 1.8520584060028393
+protocol heavy : 1.8415128777124317
+time embodiment : 1.8379639018454674
+gap time : 1.823869397688096
+conditions wishing : 1.813323869397688
+heavy conditions : 1.8098762928412089
+controller adapter : 1.7992293652403164
+capability Improved : 1.7992293652403164
+mode interface : 1.792232812816873
+roaming terminals : 1.7886838369499087
+computer Additionally : 1.7851348610829447
+station reduces : 1.753498276211722
+storage manipulation : 1.7465017237882785
+simulcast mode : 1.7465017237882785
+data bar : 1.7006692354491988
+computers storage : 1.6901237071587913
+adapter simulcast : 1.683127154735348
+base stations : 1.369701886027175
+communication protocol : 1.3662543094706958
+host computers : 1.3028797404177652
+communication system : 1.2395051713648346
+transceiver units : 1.0
+
+
+2009-06~2009-12 52/24
+-------------------------
+timeslot reception : 2.0
+communication system : 1.9555424198114675
+Channel CPCH : 1.9416669259247736
+reuse timeslot : 1.9333291852036212
+Common Physical : 1.9055470864573936
+system Common : 1.8610895062688613
+Physical Channel : 1.8277696543570916
+wireless communication : 1.8027564321936347
+channels user : 1.747223345674019
+timeslots user : 1.3416607037302057
+system timeslots : 1.3055408642628255
+CPCH timeslots : 1.24997666677037
+user traffic : 1.1083284074293003
+control information : 1.0
+
+
+2015-01~2015-05 52/46
+-------------------------
+information determine : 1.4629436325678495
+determination pathloss : 1.4481123869171886
+pathloss relay : 1.4448068893528185
+station wireless : 1.4299756437021571
+level uplink : 1.4299756437021571
+transmit power : 1.4069241475295755
+processor transceiver : 1.4019659011830201
+determine therefrom : 1.397007654836465
+transceiver access : 1.3838291579679889
+communication relay : 1.3657359081419624
+part thereof : 1.3442936673625607
+transmitter receiver : 1.331115170494085
+TPC information : 1.321242171189979
+control TPC : 1.316283924843424
+determine part : 1.3097164231036882
+processor transmitter : 1.2965379262352124
+thereof transmit : 1.291579679888657
+message set : 1.2718336812804454
+control element : 1.240518441196938
+channel message : 1.174625956854558
+uplink channel : 1.172973208072373
+grant response : 1.1284794711203898
+station relay : 1.1268267223382045
+request grant : 1.064239735560195
+delta value : 1.0461029923451635
+power delta : 1.0
+wireless communications : 1.0
+communications system : 0.9324547668754349
+control processor : 0.6326113430758523
+request message : 0.5798973556019485
+base station : 0.5320981210855948
+relay device : 0.41018615170494077
+access request : 0.38713465553235904
+
+
+2010-01~2010-05 52/38
+-------------------------
+power mode : 2.0
+response request : 1.9806046511627906
+mode wireless : 1.9302325581395348
+information base : 1.8681860465116285
+request message : 1.8565581395348842
+handover condition : 1.8488372093023262
+action handover : 1.8294418604651166
+BS information : 1.8178139534883724
+station power : 1.6433953488372097
+base station : 1.6201395348837213
+condition action : 1.5193488372093025
+wireless communication : 1.1472558139534885
+communication system : 1.0852558139534885
+response message : 1.065860465116279
+actions station : 1.0
+
+
+2014-06~2014-12 52/56
+-------------------------
+timing adjustment : 2.0
+unit base : 1.992388487877105
+command base : 1.9649962983527667
+phone wireless : 1.955857856746252
+control command : 1.9543309272626317
+use timing : 1.9467194151397371
+device phone : 1.942161761984083
+station adjustment : 1.90868498982047
+Wireless communication : 1.9026004071811955
+value basis : 1.6712474551175271
+basis variation : 1.61188228761799
+wireless communication : 1.6088284286507495
+base station : 1.6073014991671295
+adjustment value : 1.602743846011475
+communication device : 1.5372940958726633
+variation transmission : 1.5083749768647048
+value reference : 1.5053211178974644
+reference value : 1.2952989080140662
+transmission power : 1.0
+
+
+2015-01~2015-05 52/02
+-------------------------
+detail description : 1.6078052550231838
+system detail : 1.597952086553323
+operation network : 1.5857805255023183
+barring communication : 1.580177743431221
+signals access : 1.5705177743431222
+class AC : 1.5687789799072642
+bit embodiments : 1.5428902627511591
+timer expires : 1.5396058732612055
+block SIB : 1.5388330757341577
+layer signal : 1.5380602782071098
+class barring : 1.537287480680062
+packet access : 1.537287480680062
+timer equipment : 1.534775888717156
+period DRX : 1.5314914992272026
+request HARQ : 1.5307187017001547
+SIB description : 1.5307187017001547
+speed packet : 1.5251159196290571
+DTX reception : 1.5233771251931993
+zone enters : 1.5202859350850078
+information on-duration : 1.51854714064915
+channel HS-SCCH : 1.517001545595054
+application response : 1.517001545595054
+station wireless : 1.5162287480680061
+HS-SCCH order : 1.5152627511591963
+transmission DTX : 1.5152627511591963
+duration frames : 1.5144899536321486
+wake-up period : 1.5129443585780527
+traffic indication : 1.5129443585780527
+wireless network : 1.5096599690880987
+NULL ¡§more : 1.5063755795981453
+network access : 1.5056027820710973
+UE timer : 1.500772797527048
+signal activation : 1.5
+AP sequence : 1.499227202472952
+expires DRX : 1.4974884080370943
+Transmission control : 1.4942040185471408
+repeat request : 1.4934312210200926
+DRX period : 1.492658423493045
+speed control : 1.4860896445131375
+station on-duration : 1.4860896445131375
+access class : 1.4853168469860898
+indication bit : 1.4853168469860898
+AP transmits : 1.4837712519319939
+HARQ buffer : 1.4789412673879445
+probability handover : 1.4779752704791345
+WTRU repeat : 1.4748840803709429
+DC-HSDPA unit : 1.4748840803709429
+embodiments AP : 1.4715996908809892
+access DC-HSDPA : 1.4708268933539412
+data¡¨ bit : 1.4708268933539412
+transmits beacon : 1.4690880989180837
+
+
+2015-01~2015-05 52/38
+-------------------------
+control states : 2.0
+switching control : 1.9433364533083735
+TPC commands : 1.9399524803801569
+wireless communications : 1.9266325869393046
+commands channel : 1.9200086399308804
+channel gain : 1.863345093239254
+states user : 1.8566491468068256
+equipment nodes : 1.840017279861761
+CTS signal : 1.7833537331701343
+system throughput : 1.7766577867377062
+request RTS : 1.7699618403052773
+reuse spectrum : 1.7699618403052773
+communications system : 1.7633378932968533
+RTS signal : 1.7533299733602128
+throughput reuse : 1.7400100799193603
+system network : 1.7199942400460793
+power switching : 1.7199942400460793
+power level : 1.3199654402764778
+equipment node : 1.3099575203398373
+channel configuration : 1.283317733458132
+user equipment : 1.243358053135575
+network node : 1.2366621067031462
+power signals : 1.206638346893225
+channel channel : 1.1933184534523724
+transmit data : 1.1666786665706674
+data power : 1.1000071999424006
+transmission power : 1.0
+
+
+2013-06~2013-12 52/02
+-------------------------
+request terminal : 2.0
+amount embodiment : 1.9974334295797243
+Transfer communication : 1.9742540904716075
+terminal request : 1.9485883862688484
+embodiment server : 1.9331889637471926
+stores quantity : 1.9202759063201797
+amount varies : 1.9125761950593523
+circuitry action : 1.8816971446904074
+refers quantity : 1.8791305742701319
+battery electricity : 1.8791305742701319
+controller refers : 1.8791305742701319
+electricity terminal : 1.8714308630093037
+transfer call : 1.8508982996470966
+communications MTC : 1.840632017965993
+call transfer : 1.8329323067051653
+action message : 1.8302855309592556
+message identifies : 1.8200192492781522
+identifies communication : 1.817452678857876
+circuitry portion : 1.8097529675970485
+memory stores : 1.802053256336221
+mode response : 1.778873917228104
+MTC devices : 1.7711742059672764
+device part : 1.7660410651267244
+response call : 1.7274623034969523
+device mode : 1.619505935194097
+device network : 1.5578280397818416
+communication network : 1.5578280397818416
+controller communication : 1.5398620468399102
+MTC gateway : 1.5192492781520692
+quantity table : 1.4910170035290347
+terminal controller : 1.4729708052614694
+table media : 1.457571382739814
+information battery : 1.4396053897978827
+instance message : 1.437038819377607
+acquisition module : 1.4215591915303176
+processing circuitry : 1.4061597690086625
+battery amount : 1.3650144369586141
+communication media : 1.0822906641000964
+communication device : 1.0
+
+

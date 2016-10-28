@@ -1,0 +1,328 @@
+{
+	"4/00":[
+		"Services or facilities specially adapted for wireless communication networks ",
+		{
+			"4/02":"Services making use of the location of users or terminals ",
+			"4/04":"in a dedicated environment, e.g. buildings or vehicles ",
+			"4/06":"Selective distribution of broadcast; Services to user groups; One-way selective calling services ",
+			"4/08":"User group management ",
+			"4/10":"Push-to-Talk or Push-on-Call services ",
+			"4/12":"Messaging, e.g. SMS [Short Messaging Service]; Mailboxes; Announcements, e.g. informing users on the status or progress of a communication request ",
+			"4/14":"Short messaging services, e.g. SMS or USSD [Unstructured Supplementary Service Data] ",
+			"4/16":"Communication-related supplementary services, e.g. call-transfer or call-hold ",
+			"4/18":"Information format or content conversion, e.g. adaptation by the network of the transmitted or received information for the purpose of wireless delivery to users or terminals ",
+			"4/20":"Auxiliary data signalling, i.e. transmitting data via a non-traffic channel ",
+			"4/22":"Emergency connection handling ",
+			"4/24":"Accounting or billing ",
+			"4/26":"Usage measurement "
+		}
+	],
+	"8/00":[
+		"Network data management ",
+		{
+			"8/02":"Processing of mobility data, e.g. registration information at HLR [Home Location Register] or VLR [Visitor Location Register]; Transfer of mobility data, e.g. between HLR, VLR or external networks ",
+			"8/04":"Registration at HLR or HSS [Home Subscriber Server] ",
+			"8/06":"Registration at serving network Location Register, VLR or user mobility server ",
+			"8/08":"Mobility data transfer ",
+			"8/10":"between location register and external networks ",
+			"8/12":"between location registers or mobility servers ",
+			"8/14":"between corresponding nodes ",
+			"8/16":"selectively restricting mobility tracking ",
+			"8/18":"Processing of user or subscriber data, e.g. subscribed services, user preferences or user profiles; Transfer of user or subscriber data ",
+			"8/20":"Transfer of user or subscriber data ",
+			"8/22":"Processing or transfer of terminal data, e.g. status or physical capabilities ",
+			"8/24":"Transfer of terminal data ",
+			"8/26":"Network addressing or numbering for mobility support ",
+			"8/28":"Number portability ",
+			"8/30":"Network data restoration "
+		}
+	],
+	"12/00":[
+		"Security arrangements, e.g. access security or fraud detection; Authentication, e.g. verifying user identity or authorisation; Protecting privacy or anonymity ",
+		{
+			"12/02":"Protecting privacy or anonymity ",
+			"12/04":"Key management ",
+			"12/06":"Authentication ",
+			"12/08":"Access security ",
+			"12/10":"Integrity ",
+			"12/12":"Fraud detection "
+		}
+	],
+	"16/00":[
+		"Network planning, e.g. coverage or traffic planning tools; Network deployment, e.g. resource partitioning or cell structures ",
+		{
+			"16/02":"Resource partitioning among network components, e.g. reuse partitioning ",
+			"16/04":"Traffic adaptive resource partitioning ",
+			"16/06":"Hybrid resource partitioning, e.g. channel borrowing ",
+			"16/08":"Load shedding arrangements ",
+			"16/10":"Dynamic resource partitioning ",
+			"16/12":"Fixed resource partitioning ",
+			"16/14":"Spectrum sharing arrangements ",
+			"16/16":"for PBS [Private Base Station] arrangements ",
+			"16/18":"Network planning tools ",
+			"16/20":"for indoor coverage or short range network deployment ",
+			"16/22":"Traffic simulation tools or models ",
+			"16/24":"Cell structures ",
+			"16/26":"Cell enhancers, e.g. for tunnels or building shadow ",
+			"16/28":"using beam steering ",
+			"16/30":"Special cell shapes, e.g. doughnuts or ring cells ",
+			"16/32":"Hierarchical cell structures "
+		}
+	],
+	"24/00":[
+		"Supervisory, monitoring or testing arrangements ",
+		{
+			"24/02":"Arrangements for optimising operational condition ",
+			"24/04":"Arrangements for maintaining operational condition ",
+			"24/06":"Testing using simulated traffic ",
+			"24/08":"Testing using real traffic ",
+			"24/10":"Scheduling measurement reports "
+		}
+	],
+	"28/00":[
+		"Network traffic or resource management ",
+		{
+			"28/02":"Traffic management, e.g. flow control or congestion control ",
+			"28/04":"Error control ",
+			"28/06":"Optimising, e.g. header compression, information sizing ",
+			"28/08":"Load balancing or load distribution ",
+			"28/10":"Flow control ",
+			"28/12":"using signalling between network elements ",
+			"28/14":"using intermediate storage ",
+			"28/16":"Central resource management; Negotiation of resources, e.g. negotiating bandwidth or QoS [Quality of Service] ",
+			"28/18":"Negotiating wireless communication parameters ",
+			"28/20":"Negotiating bandwidth ",
+			"28/22":"Negotiating communication rate ",
+			"28/24":"Negotiating SLA [Service Level Agreement]; Negotiating QoS [Quality of Service] ",
+			"28/26":"Resource reservation "
+		}
+	],
+	"36/00":[
+		"Handoff or reselecting arrangements ",
+		{
+			"36/02":"Buffering or recovering information during reselection ",
+			"36/04":"Reselecting a cell layer in multi-layered cells ",
+			"36/06":"Reselecting a communication resource in the serving access point ",
+			"36/08":"Reselecting an access point ",
+			"36/10":"Reselecting an access point controller ",
+			"36/12":"Reselecting a serving backbone network switching or routing node ",
+			"36/14":"Reselecting a network or an air interface ",
+			"36/16":"Performing reselection for specific purposes ",
+			"36/18":"for allowing seamless reselection, e.g. soft reselection ",
+			"36/20":"for optimising the interference level ",
+			"36/22":"for handling the traffic ",
+			"36/24":"Reselection being triggered by specific parameters ",
+			"36/26":"by agreed or negotiated communication parameters ",
+			"36/28":"involving a plurality of connections, e.g. multi-call or multi-bearer connections ",
+			"36/30":"by measured or perceived connection quality data ",
+			"36/32":"by location or mobility data, e.g. speed data ",
+			"36/34":"Reselection control ",
+			"36/36":"by user or terminal equipment ",
+			"36/38":"by fixed network equipment "
+		}
+	],
+	"40/00":[
+		"Communication routing or communication path finding ",
+		{
+			"40/02":"Communication route or path selection, e.g. power-based or shortest path routing ",
+			"40/04":"based on wireless node resources ",
+			"40/06":"based on characteristics of available antennas ",
+			"40/08":"based on transmission power ",
+			"40/10":"based on available power or energy ",
+			"40/12":"based on transmission quality or channel quality ",
+			"40/14":"based on stability ",
+			"40/16":"based on interference ",
+			"40/18":"based on predicted events ",
+			"40/20":"based on geographic position or location ",
+			"40/22":"using selective relaying for reaching a BTS [Base Transceiver Station] or an access point ",
+			"40/24":"Connectivity information management, e.g. connectivity discovery or connectivity update ",
+			"40/26":"for hybrid routing by combining proactive and reactive routing ",
+			"40/28":"for reactive routing ",
+			"40/30":"for proactive routing ",
+			"40/32":"for defining a routing cluster membership ",
+			"40/34":"Modification of an existing route ",
+			"40/36":"due to handover ",
+			"40/38":"adapting due to varying relative distances between nodes "
+		}
+	],
+	"48/00":[
+		"Access restriction; Network selection; Access point selection ",
+		{
+			"48/02":"Access restriction performed under specific conditions ",
+			"48/04":"based on user or terminal location or mobility data, e.g. moving direction or speed ",
+			"48/06":"based on traffic conditions ",
+			"48/08":"Access restriction or access information delivery, e.g. discovery data delivery ",
+			"48/10":"using broadcasted information ",
+			"48/12":"using downlink control channel ",
+			"48/14":"using user query ",
+			"48/16":"Discovering; Processing access restriction or access information ",
+			"48/18":"Selecting a network or a communication service ",
+			"48/20":"Selecting an access point "
+		}
+	],
+	"52/00":[
+		"Power management, e.g. TPC [Transmission Power Control], power saving or power classes ",
+		{
+			"52/02":"Power saving arrangements ",
+			"52/04":"TPC [Transmission power control] ",
+			"52/06":"TPC algorithms ",
+			"52/08":"Closed loop power control ",
+			"52/10":"Open loop power control ",
+			"52/12":"Outer and inner loops ",
+			"52/14":"Separate analysis of uplink or downlink ",
+			"52/16":"Deriving transmission power values from another channel ",
+			"52/18":"TPC being performed according to specific parameters ",
+			"52/20":"using error rate ",
+			"52/22":"taking into account previous information or commands ",
+			"52/24":"using SIR [Signal to Interference Ratio] or other wireless path parameters ",
+			"52/26":"using transmission rate or quality of service QoS [Quality of Service] ",
+			"52/28":"using user profile, e.g. mobile speed, priority or network state, e.g. standby, idle or non-transmission ",
+			"52/30":"using constraints in the total amount of available transmission power ",
+			"52/32":"TPC of broadcast or control channels ",
+			"52/34":"TPC management, i.e. sharing limited amount of power among users or channels or data types, e.g. cell loading ",
+			"52/36":"with a discrete range or set of values, e.g. step size, ramping or offsets ",
+			"52/38":"TPC being performed in particular situations ",
+			"52/40":"during macro-diversity or soft handoff ",
+			"52/42":"in systems with time, space, frequency or polarisation diversity ",
+			"52/44":"in connection with interruption of transmission ",
+			"52/46":"in multi-hop networks, e.g. wireless relay networks ",
+			"52/48":"during retransmission after error or non-acknowledgment ",
+			"52/50":"at the moment of starting communication in a multiple access environment ",
+			"52/52":"using AGC [Automatic Gain Control] circuits or amplifiers ",
+			"52/54":"Signalisation aspects of the TPC commands, e.g. frame structure ",
+			"52/56":"Detection of errors of TPC bits ",
+			"52/58":"Format of the TPC bits ",
+			"52/60":"using different transmission rates for TPC commands "
+		}
+	],
+	"56/00":[
+		"Synchronisation arrangements ",
+		{
+		}
+	],
+	"60/00":[
+		"Registration, e.g. affiliation to network; De-registration, e.g. terminating affiliation ",
+		{
+			"60/02":"by periodical registration ",
+			"60/04":"using triggered events ",
+			"60/06":"De-registration or detaching "
+		}
+	],
+	"64/00":[
+		"Locating users or terminals for network management purposes, e.g. mobility management ",
+		{
+		}
+	],
+	"68/00":[
+		"Notification of users, e.g. alerting for incoming communication or change of service ",
+		{
+			"68/02":"Arrangements for increasing efficiency of notification or paging channel ",
+			"68/04":"multi-step notification using statistical or historical mobility data ",
+			"68/06":"using multi-step notification by changing the notification area ",
+			"68/08":"using multi-step notification by increasing the notification area ",
+			"68/10":"using simulcast notification ",
+			"68/12":"Inter-network notification "
+		}
+	],
+	"72/00":[
+		"Local resource management, e.g. selection or allocation of wireless resources or wireless traffic scheduling ",
+		{
+			"72/02":"Selection of wireless resources by user or terminal ",
+			"72/04":"Wireless resource allocation ",
+			"72/06":"based on ranking criteria of the wireless resources ",
+			"72/08":"based on quality criteria ",
+			"72/10":"based on priority criteria ",
+			"72/12":"Wireless traffic scheduling ",
+			"72/14":"using a grant channel "
+		}
+	],
+	"74/00":[
+		"Wireless channel access, e.g. scheduled or random access ",
+		{
+			"74/02":"Hybrid access techniques ",
+			"74/04":"Scheduled access ",
+			"74/06":"using polling ",
+			"74/08":"Non-scheduled access, e.g. random access, ALOHA or CSMA [Carrier Sense Multiple Access] "
+		}
+	],
+	"76/00":[
+		"Connection management, e.g. connection set-up, manipulation or release ",
+		{
+			"76/02":"Connection set-up ",
+			"76/04":"Connection manipulation ",
+			"76/06":"Connection release "
+		}
+	],
+	"80/00":[
+		"Wireless network protocols or protocol adaptations to wireless operation, e.g. WAP [Wireless Application Protocol] ",
+		{
+			"80/02":"Data link layer protocols ",
+			"80/04":"Network layer protocols, e.g. mobile IP [Internet Protocol] ",
+			"80/06":"Transport layer protocols, e.g. TCP [Transport Control Protocol] over wireless ",
+			"80/08":"Upper layer protocols ",
+			"80/10":"adapted for session management, e.g. SIP [Session Initiation Protocol] ",
+			"80/12":"Application layer protocols, e.g. WAP "
+		}
+	],
+	"84/00":[
+		"Network topologies ",
+		{
+			"84/02":"Hierarchically pre-organised networks, e.g. paging networks, cellular networks, WLAN [Wireless Local Area Network] or WLL [Wireless Local Loop] ",
+			"84/04":"Large scale networks; Deep hierarchical networks ",
+			"84/06":"Airborne or Satellite Networks ",
+			"84/08":"Trunked mobile radio systems ",
+			"84/10":"Small scale networks; Flat hierarchical networks ",
+			"84/12":"WLAN [Wireless Local Area Networks] ",
+			"84/14":"WLL [Wireless Local Loop]; RLL [Radio Local Loop] ",
+			"84/16":"WPBX [Wireless Private Branch Exchange] ",
+			"84/18":"Self-organising networks, e.g. ad hoc networks or sensor networks ",
+			"84/20":"Master-slave arrangements ",
+			"84/22":"with access to wired networks "
+		}
+	],
+	"88/00":[
+		"Devices specially adapted for wireless communication networks, e.g. terminals, base stations or access point devices ",
+		{
+			"88/02":"Terminal devices ",
+			"88/04":"adapted for relaying to or from another terminal or user ",
+			"88/06":"adapted for operation in multiple networks, e.g. multi-mode terminals ",
+			"88/08":"Access point devices ",
+			"88/10":"adapted for operation in multiple networks, e.g. multi-mode access points ",
+			"88/12":"Access point controller devices ",
+			"88/14":"Backbone network devices ",
+			"88/16":"Gateway arrangements ",
+			"88/18":"Service support; Network management devices "
+		}
+	],
+	"92/00":[
+		"Interfaces specially adapted for wireless communication networks ",
+		{
+			"92/02":"Inter-networking arrangements ",
+			"92/04":"Interfaces between hierarchically different network devices ",
+			"92/06":"between gateways and public network devices ",
+			"92/08":"between user and terminal device ",
+			"92/10":"between terminal device and access point, i.e. wireless air interface ",
+			"92/12":"between access points and access point controllers ",
+			"92/14":"between access point controllers and backbone network device ",
+			"92/16":"Interfaces between hierarchically similar devices ",
+			"92/18":"between terminal devices ",
+			"92/20":"between access points ",
+			"92/22":"between access point controllers ",
+			"92/24":"between backbone network devices "
+		}
+	],
+	"99/00":[
+		"Subject matter not provided for in other groups of this subclass",
+		{
+		}
+	]
+}
+
+
+
+
+
+
+
+
+
