@@ -1,0 +1,98 @@
+{
+ "name": "G06T",
+ "children": [
+  {
+   "name": "1/* General purpose image data processing",
+   "children": [
+      {"name": "1/20 Processor architectures; Processor configuration", "size": 3938},
+      {"name": "1/40 Neural networks", "size": 3812},
+      {"name": "1/60 Memory management", "size": 6714}
+     ]
+  },
+  {
+   "name": "3/* Geometric image transformation in the plane of the image",
+   "children": [
+      {"name": "3/20 Linear translation of a whole image or part thereof", "size": 3938},
+      {"name": "3/40 Scaling of a whole image or part thereof", "size": 3812},
+      {"name": "3/60 Rotation of a whole image or part thereof", "size": 6714}
+     ]
+  },
+  {
+   "name": "5/* Image enhancement or restoration",
+   "children": [
+      {"name": "5/10 by non-spatial domain filtering", "size": 3938},
+      {"name": "5/20 by the use of local operators", "size": 3812},
+      {"name": "5/30 Erosion or dilatation", "size": 6714},
+      {"name": "5/40 by the use of histogram techniques", "size": 6714},
+      {"name": "5/50 by the use of more than one image", "size": 6714}   
+    ]
+  },
+  {
+   "name": "7/* Image analysis",
+   "children": [
+    {"name": "7/20 Analysis of motion", "size": 8833},
+    {"name": "7/40 Analysis of texture", "size": 1732},
+    {"name": "7/60 Analysis of geometric attributes", "size": 10066}
+   ]
+  },
+  {
+   "name": "9/* Image coding",
+   "children": [
+    {"name": "9/20 Contour coding", "size": 4116},
+    {"name": "9/40 Tree coding", "size": 4116}
+   ]
+  },
+  {
+   "name": "11/* 2D [Two Dimensional] image generation",
+   "children": [
+    {"name": "11/20 Drawing from basic elements", "size": 1082},
+    {"name": "11/40 Filling a planar surface by adding surface attributes", "size": 1336},
+    {"name": "11/60 Editing figures and text; Combining figures or text", "size": 319},
+    {"name": "11/80 Creating or modifying a manually drawn or painted image using a manual input device", "size": 10498}
+   ]
+  },
+  {
+   "name": "13/* Animation",
+   "children": [
+    {"name": "13/20 3D [Three Dimensional] animation", "size": 1616},
+    {"name": "13/40 3D of characters", "size": 1027},
+    {"name": "13/60 3D of natural phenomena", "size": 3891},
+    {"name": "13/80 2D animation", "size": 891}
+   ]
+  },
+  {
+   "name": "15/* 3D [Three Dimensional] image rendering",
+   "children": [
+    {"name": "15/02 Non-photorealistic rendering", "size": 2105},
+    {"name": "15/04 Texture mapping", "size": 1316},
+    {"name": "15/06 Ray-tracing", "size": 3151},
+    {"name": "15/08 Volume rendering", "size": 3770},
+    {"name": "15/10 Geometric effects", "size": 2435},
+    {"name": "15/20 Perspective computation", "size": 4839},
+    {"name": "15/30 Clipping", "size": 1756},
+    {"name": "15/40 Hidden part removal", "size": 4268},
+    {"name": "15/50 Lighting effects", "size": 1821},
+    {"name": "15/55 Radiosity", "size": 5833},
+    {"name": "15/60 Shadow generation", "size": 5833},
+    {"name": "15/80 Shading", "size": 5833},
+    {"name": "15/83 Phong shading", "size": 5833},
+    {"name": "15/87 Gouraud shading", "size": 5833}
+   ]
+  },
+  {
+   "name": "17/* 3D modelling for computer graphics",
+   "children": [
+    {"name": "17/05 Geographic models", "size": 8258},
+    {"name": "17/10 Volume description", "size": 10001},
+    {"name": "17/20 Wire-frame description", "size": 8217},
+    {"name": "17/30 Surface description", "size": 12555}
+   ]
+  },
+  {
+   "name": "19/* Manipulating 3D models or images for computer graphics",
+   "children": [
+    {"name": "19/20 Editing of 3D images", "size": 12555}
+   ]
+  }
+ ]
+}
