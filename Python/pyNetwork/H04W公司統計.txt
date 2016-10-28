@@ -1,0 +1,2037 @@
+Node number : 12477
+Edge number : 16700
+Dominating size : 8132
+STree Node number : 6244
+STree Edge number : 5018
+2009
+------------
+Nokia Corporation 23
+Motorola, Inc. 16
+Cisco Technology, Inc. 14
+ 12
+NEC Corporation 12
+LG Electronics Inc. 11
+Samsung Electronics Co., Ltd 11
+Alcatel-Lucent USA Inc. 11
+InterDigital Technology Corporation 10
+Intel Corporation 8
+Sprint Spectrum L.P. 8
+Samsung Electronics Co., Ltd. 8
+Qualcomm Incorporated 7
+NTT DoCoMo, Inc. 6
+QUALCOMM Incorporated 6
+Research In Motion Limited 6
+Telefonaktiebolaget LM Ericsson (publ) 6
+Kabushiki Kaisha Toshiba 5
+ATC Technologies, LLC 5
+Nortel Networks Limited 5
+AT&T Intellectual Property I, L.P. 5
+Fujitsu Limited 4
+LG Electronics, Inc. 4
+Microsoft Corporation 4
+AT&T Corp. 3
+Avaya Inc. 3
+Palm, Inc. 3
+Autocell Laboratories, Inc. 3
+ADC Telecommunications, Inc. 3
+Sony Corporation 3
+Tropos Networks, Inc. 2
+Siemens Communications, Inc. 2
+AT&T Mobility II LLC 2
+Designart Networks Ltd 2
+Symbol Technologies, Inc. 2
+Cisco Systems, Inc. 2
+QUALCOMM, Incorporated 2
+Sony Deutschland GmbH 2
+M-Stack Limited 2
+Panasonic Corporation 2
+IPWireless, Inc. 2
+Mitsubishi Electric Research Laboratories, In 2
+Broadcom Corporation 2
+Sharp Kabushiki Kaisha 2
+International Business Machines Corporation 2
+Koninklijke Philips Electronics N.V. 2
+Canon Kabushiki Kaisha 2
+Andrew LLC 2
+Roamware, Inc. 2
+The Boeing Company 2
+Freescale Semiconductor, Inc. 2
+MeshNetworks, Inc. 2
+Sony Corporation;Sony Electronics Inc. 2
+Cellco Partnership 2
+Sharp Laboratories of America, Inc. 2
+Rockwell Collins, Inc. 2
+Adaptix, Inc. 2
+VIA Telecom Co., Ltd. 2
+Sun Microsystems, Inc. 2
+Good Technology, Inc. 1
+Nattel Group, Inc. 1
+Sybase 365, Inc. 1
+Siemens Canada Limited 1
+The DIRECTV Group, Inc. 1
+Adapt4, LLC 1
+Hewlett-Packard Development Company, L.P. 1
+Thomson Licensing 1
+Advanced Ground Information Systems, Inc. 1
+Tekelec 1
+Bridgeport Networks, Inc. 1
+Alcatel Lucent 1
+AT&T Mobility II, LLC 1
+Sanyo Electric Co., Ltd. 1
+Nextel Communications, Inc. 1
+Oki Semiconductor Co., Ltd. 1
+Cambridge Positioning Systems Ltd. 1
+DiVitas Networks, Inc. 1
+Kabsuhiki Kaisha Toshiba 1
+BAE Systems Information and Electronic System 1
+Ramot at Tel-Aviv University Ltd. 1
+CVON Innovations Limited 1
+SiRF Technology Holdings, Inc. 1
+Harris Corporation 1
+Kapsch Trafficcom Inc. 1
+Infineon Technologies Taiwan Co., Ltd. 1
+Wi-Lan Inc. 1
+AirSage, Inc. 1
+France Telecom 1
+Shared Spectrum Company 1
+QUALCOMM INCORPORATED 1
+Motorola Inc. 1
+Toshiba America Research, Inc.;Telcordia Tech 1
+Queen Mary & Westfield College 1
+AT&T Intellectual Property I, LP 1
+Kabushiki Kaisha Kenwood 1
+Kineto Wireless, Inc. 1
+Sanyo Electric Co. Ltd. 1
+NEC Infrontia Corporation 1
+Inmarsat Global Limited 1
+Agilent Technologies, Inc. 1
+Nextel Communications Inc. 1
+T-Mobile USA, Inc. 1
+Mobitrum Corporation 1
+2Wire, Inc. 1
+Industrial Technology Research Institute 1
+Dust Networks, Inc. 1
+Redtone Technology Sdn Bhd 1
+Raptor Networks Technology, Inc. 1
+British Telecommunications public limited com 1
+Hitachi Communication Technologies, Ltd. 1
+IPCom GmbH & Co. KG 1
+Oracle International Corporation 1
+Nokia Siemens Networks Oy 1
+Xcellasave, Inc. 1
+InterDigital Technolgy Corporation 1
+KTFREETEL Co., Ltd. 1
+Rockliffe Systems 1
+SiRF Technology, Inc. 1
+LG Electronic Inc. 1
+PivotPoint Solutions, LLC 1
+A9.com, Inc. 1
+Samsung Electronics Co., Ltd;Seoul National U 1
+Polycom, Inc. 1
+BBN Technologies Corp 1
+National University of Singapore 1
+Huawei Technologies Co., Ltd. 1
+Telefonaktiebolaget L M Ericsson (publ) 1
+Atrica Israel Ltd. 1
+Vanderbilt University 1
+The Trustees of Columbia University in the Ci 1
+United States Cellular Corporation 1
+Celeno Communications (Israel) Ltd. 1
+Genesys Telecommunications Laboratories, Inc. 1
+Convergin Israel Ltd. 1
+GPNE Corp. 1
+Satyam Computer Services Ltd. 1
+Tektronix, Inc. 1
+Telefonaktiebolaget LM Ericsson (PUBL) 1
+Kyocera Wireless Corp. 1
+Dell Products L.P. 1
+Sony Ericsson Mobile Communications AB 1
+Apple Inc. 1
+Orange France 1
+Eads Secure Networks 1
+AT&T Intellectual Property II, L.P. 1
+Nivis, LLC 1
+Super Wave Corporation 1
+Cisco Technology, Inc 1
+Hughes Network System, LLC 1
+Hitachi, Ltd 1
+Enterasys Networks, Inc. 1
+TeleCommunication Systems, Inc. 1
+Atheros Communications, Inc. 1
+Google Inc. 1
+Bandspeed, Inc. 1
+Netmotion Wireless, Inc. 1
+Alcatel-Lucent 1
+NEC Electronics Corporation 1
+KDDI Corporation;National Institute of Inform 1
+Airvana, Inc. 1
+Lemko Corporation 1
+Siemens Akiengesellschaft 1
+Agere Systems, Inc. 1
+ALCATEL 1
+Verizon Laboratories Inc. 1
+BelAir Networks, Inc. 1
+Nuvoton Technology Corporation 1
+NEC Laboratories America, Inc. 1
+Skyworks Solutions, Inc. 1
+Avaya Technology Corp. 1
+TruePosition, Inc. 1
+Ipcom GmbH & Co. KG 1
+2011
+------------
+LG Electronics Inc. 57
+QUALCOMM Incorporated 43
+Samsung Electronics Co., Ltd. 35
+Nokia Corporation 32
+Samsung Electronics Co., Ltd 25
+Sprint Spectrum L.P. 24
+Telefonaktiebolaget LM Ericsson (publ) 20
+Intel Corporation 19
+NTT DoCoMo, Inc. 18
+Cisco Technology, Inc. 18
+Panasonic Corporation 18
+Research In Motion Limited 18
+Broadcom Corporation 18
+Qualcomm Incorporated 18
+ 16
+Fujitsu Limited 15
+InterDigital Technology Corporation 15
+Telefonaktiebolaget L M Ericsson (Publ) 15
+Alcatel-Lucent USA Inc. 15
+Alcatel Lucent 12
+Motorola Mobility, Inc. 12
+Sprint Communications Company L.P. 11
+AT&T Mobility II LLC 10
+Motorola Solutions, Inc. 10
+Telefonaktiebolaget L M Ericsson (publ) 10
+AT&T Intellectual Property I, L.P. 10
+Huawei Technologies Co., Ltd. 9
+Hitachi, Ltd. 8
+Kineto Wireless, Inc. 8
+AT&T Intellectual Property I, LP 7
+NEC Corporation 7
+AT&T Intellectual Property II, L.P. 7
+TeleCommunication Systems, Inc. 7
+Microsoft Corporation 7
+Sony Corporation 7
+Nortel Networks Limited 6
+Sanyo Electric Co., Ltd. 5
+Tango Networks, Inc. 5
+Nokia Siemens Networks Oy 5
+International Business Machines Corporation 5
+Sony Ericsson Mobile Communications AB 5
+ATC Technologies, LLC 5
+Hewlett-Packard Development Company, L.P. 4
+FutureWei Technologies, Inc. 4
+ZTE Corporation 4
+Skyhook Wireless, Inc. 4
+Research in Motion Limited 4
+Andrew, LLC 4
+Cellco Partnership 4
+Embarq Holdings Company, LLC 4
+Texas Instruments Incorporated 3
+SK Telecom Co., Ltd. 3
+France Telecom 3
+Apple Inc. 3
+Aruba Networks, Inc. 3
+Tekelec 3
+Kyocera Corporation 3
+Syniverse ICX Corporation 3
+Nextel Communications Inc. 3
+Sharp Kabushiki Kaisha 3
+Marvell International Ltd. 3
+Canon Kabushiki Kaisha 3
+AOL Inc. 3
+Symbol Technologies, Inc. 3
+Hewlett-Packard Company 3
+Mediatek Inc. 3
+Clear Wireless LLC 3
+Adaptix, Inc. 3
+Kabushiki Kaisha Toshiba 2
+Qurio Holdings, Inc. 2
+Vasu Networks Corporation 2
+WaveMarket, Inc. 2
+Samsung Electronics Co., Ltd.;Industry-Univer 2
+Airvana, Corp. 2
+Polaris Wireless, Inc. 2
+STMicroelectronics, Inc. 2
+M-Stack Limited 2
+Motorola, Inc. 2
+Pantech & Curitel Communications, Inc. 2
+Mitsubishi Electric Research Laboratories, In 2
+Freescale Semiconductor, Inc. 2
+Yahoo! Inc. 2
+The Board of Trustees of the Leland Stanford  2
+ADC Telecommunications, Inc. 2
+Nokia Siemens Networks GmbH & Co. KG 2
+Andrew LLC 2
+Casio Hitachi Mobile Communications Co., Ltd. 2
+Korean Advanced Institute of Science and Tech 2
+Gogo LLC 2
+Skype Limited 2
+Siemens Aktiengesellschaft 2
+Firetide, Inc. 2
+Toshiba America Research, Inc.;Telcordia Tech 2
+Honeywell International Inc. 2
+Sony Corporation;Sony Electronics Inc. 2
+General Motors LLC 2
+Via Telecom, Inc. 2
+Intermec IP Corp. 2
+Sipco, LLC 2
+Spyder Navigations L.L.C. 2
+MetroPCS Wireless, Inc. 2
+ZTE (USA) Inc. 2
+TruePosition, Inc. 2
+STMicroelectronics S.R.L. 1
+Research In Motion 1
+Ericsson AB 1
+Nokia Inc. 1
+Samsung Electronics Co. Ltd 1
+Sunway Technology Development Limited 1
+NTT DOCOMO, Inc. 1
+Hitachi Ltd. 1
+Tropos Networks, Inc. 1
+Airwalk Communications, Inc. 1
+Koninklijke Philips Electronics N.V. 1
+Pico Mobile Networks, Inc. 1
+Sunplus Mmobile Inc. 1
+Locator IP, L.P. 1
+LG Electronics, Inc 1
+KT Corporation 1
+OnePIN, Inc. 1
+Marvell World Trade Ltd. 1
+LGC Wireless, Inc. 1
+Metrico Wireless, Inc. 1
+Actix GmbH 1
+ITT Manufacturing Enterprise, Inc. 1
+Jasper Wireless, Inc 1
+Teliasonera AB 1
+Toshiba America Research, Inc. 1
+Lenovo (Singapore) Pte. Ltd. 1
+AT&T Intellectual Property II 1
+National Institute of Advanced Industrial Sci 1
+XG Technology, Inc. 1
+Telefonaktiebolaget L M Ericsson 1
+Misonimo Chi Acquistion L.L.C. 1
+Pantech Co., Ltd. 1
+Honda Motor Co., Ltd. 1
+Wireless Technology Solutions LLC 1
+Electronics & Telecommunications Research Ins 1
+Pioneer Corporation 1
+Zebra Enterprise Solutions Corp. 1
+Callpod, Inc. 1
+Go2Call.com, Inc. 1
+O2Micro International Limited 1
+QUALCOMM, Incorporated 1
+Xocyst Transfer AG L.L.C. 1
+Sasken Communications Technologies 1
+Ubiquisys Limited 1
+Electronics and Telecommunciations Research I 1
+Ascendent Telecommunications, Inc. 1
+Alps Electronic Co., Ltd. 1
+Sybase 365, Inc. 1
+Infineon Technologies AG 1
+Sur-Tec, Inc. 1
+Interdigital Technology Corporation 1
+Front Row Technologies, LLC 1
+Sharp Laboratories of America, Inc. 1
+Brother Kogyo Kabushiki Kaisha 1
+AT&T Intellectual Property I 1
+Clearwire Legacy LLC 1
+BRITISH TELECOMMUNICATIONS public limited com 1
+BCE Inc. 1
+Roamware Inc. 1
+Fisher-Rosemount Systems, Inc. 1
+Cisco Systems, Inc. 1
+Robert Bosch GmbH 1
+Institute for Information Industry 1
+Alcatel 1
+NEC Infrontia Corporation 1
+Inmarsat Global Limited 1
+Pine Valley Investments, Inc. 1
+Nethawk Oyj 1
+Brocade Communications Systems, Inc. 1
+Sejong Industry¡XAcademy Cooperation Foundatio 1
+AirDefense, Inc. 1
+Google Inc. 1
+Industrial Technology Research Institute 1
+Palm, Inc. 1
+Raytheon BBN Technologies Corp 1
+Cricket Communications, Inc. 1
+Novatel Wireless, Inc. 1
+Camiant, Inc. 1
+Openwave Systems Inc. 1
+Reseach In Motion Limited 1
+Juniper Networks, Inc. 1
+StarHome GmbH 1
+Telecom Italia S.p.A. 1
+Electronics and Telecommunications Research I 1
+Ruckus Wireless, Inc. 1
+Comverse Ltd. 1
+Tektronix, Inc. 1
+SellerBid, Inc. 1
+A9.com, Inc. 1
+LiveU Ltd. 1
+DENSO CORPORATION 1
+Shanghai Ultimate Power Communications Techno 1
+British Telecommunications PLC 1
+Oracle International Corporation 1
+Raytheon BBN Technologies Corp. 1
+The Invention Science Fund I, LLC 1
+Via Technologies, Inc. 1
+Actix Limited 1
+Spreadtrum Communications, Inc. 1
+Logitech Europe S.A. 1
+Virgin Mobile USA L.L.C. 1
+Harris Corporation 1
+EchoStar Technologies L.L.C. 1
+IpVenture, Inc. 1
+IPWireless, Inc. 1
+HTC Corporation 1
+SiRF Technology, Inc. 1
+SkyWire Media, Inc. 1
+QUALCOMM incorporated 1
+Mitsubishi Electric Corporation 1
+McMaster University 1
+The DIRECTV Group, Inc. 1
+Mstar Semiconductor, Inc. 1
+TechnoCom Corporation 1
+Integrity Tracking, LLC 1
+Dai Nippon Printing Co., Ltd.;NTT Docomo, Inc 1
+Enovsys LLC 1
+Oracle Israel Ltd. 1
+Hangzhou H3C Technologies Co., Ltd. 1
+GLOBALFOUNDRIES Inc. 1
+Airwide Solutions Oy 1
+Synchronica plc 1
+Sirf Technology, Inc. 1
+Thomson  Licensing 1
+Verizon Patent and Licensing Inc. 1
+United Services Automobile Association (USAA) 1
+Red Sky Technologies, Inc. 1
+Mitsubishi Electric Research Labs, Inc. 1
+ParkerVision, Inc. 1
+Garmin Switzerland GmbH 1
+Renesas Electronics Corporation 1
+United States Cellular Corporation 1
+Genesys Telecommunications Laboratories, Inc. 1
+Battelle Energy Alliance, LLC 1
+AirCell LLC 1
+Aegis Mobility, Inc. 1
+Loopt, Inc. 1
+Yahoo Japan Corporation 1
+Airbiquity Inc. 1
+Amazon Technologies, Inc. 1
+Golden Bridge Technology, Inc. 1
+Cygnus Broadband, Inc. 1
+ITT Manufacturing Enterprises, Inc. 1
+Rotani, Inc. 1
+Wi-LAN, Inc. 1
+Powerwave Cognition, Inc. 1
+Intellisist, Inc. 1
+Misomino Chi Acquisitions L.L.C. 1
+Worcester Polytechnic Institute 1
+Alvarion Ltd. 1
+MeshNetworks, Inc. 1
+Proximetry, Inc. 1
+GPNE Corp. 1
+LG Electronics, Inc. 1
+Silverbrook Research Pty Ltd 1
+Rafael Advanced Defense Systems Ltd. 1
+Cellemetry LLC 1
+Wavion Ltd. 1
+Carrier IQ, Inc. 1
+Airvana Network Solutions, Inc. 1
+MFormation Technologies, Inc. 1
+Varia Holdings LLC 1
+Telcordia Technologies, Inc.;Toyota Infotechn 1
+LOOPT, Inc. 1
+NEC (China) Co., Ltd. 1
+Harris Stratex Networks, Inc. 1
+TracBeam LLC 1
+British Telecommunications plc 1
+Spectrum Bridge, Inc. 1
+Lemko Corporation 1
+Siemens Enterprise Communications, Inc. 1
+Mitac Technology Corp. 1
+Rohde & Schwarz GmbH & Co. KG 1
+Spidercloud Wireless Inc. 1
+Airwide Solutions, Inc 1
+China Academy of Telecommunications Technolog 1
+Qwest Communications International Inc. 1
+EMC Corporation 1
+Zumobi, Inc. 1
+IPCO, LLC 1
+InterDigital Patent Holdings, Inc. 1
+Amosmet Investments LLC 1
+NEC Laboratories America, Inc. 1
+Telefonaktiebolaget L M Ericcson (PUBL) 1
+Intervoice Limited Partnership 1
+CourteousCellphones LLC (Texas) 1
+Cellport Systems, Inc. 1
+Orange SA 1
+Neocific, Inc. 1
+Elisa Matkapuhelinpalvelut Oy 1
+Tendler Cellular of Texas LLC 1
+Kraasten Bros. Fund B.V. LLC 1
+Starent Networks LLC 1
+Joikusoft Ltd. 1
+2014
+------------
+QUALCOMM Incorporated 167
+LG Electronics Inc. 96
+BlackBerry Limited 40
+Samsung Electronics Co., Ltd. 38
+Telefonaktiebolaget L M Ericsson (publ) 34
+Apple Inc. 32
+ZTE Corporation 31
+Huawei Technologies Co., Ltd. 27
+ 26
+Fujitsu Limited 24
+AT&T Intellectual Property I, L.P. 23
+Qualcomm Incorporated 22
+Telefonaktiebolaget L M Ericsson (Publ) 21
+NTT DoCoMo, Inc. 20
+Intel Corporation 19
+Alcatel Lucent 18
+Nokia Corporation 16
+AT&T Mobility II LLC 16
+Sony Corporation 16
+Google Inc. 16
+Sprint Spectrum L.P. 16
+Electronics and Telecommunications Research I 15
+NEC Corporation 15
+Cisco Technology, Inc. 14
+Microsoft Corporation 14
+Samsung Electronics Co., Ltd 14
+Broadcom Corporation 14
+Verizon Patent and Licensing Inc. 14
+Motorola Solutions, Inc. 13
+Panasonic Corporation 13
+Panasonic Intellectual Property Corporation o 12
+InterDigital Patent Holdings, Inc. 12
+Marvell World Trade Ltd. 11
+Sharp Kabushiki Kaisha 10
+International Business Machines Corporation 10
+Motorola Mobility LLC 9
+Nokia Siemens Networks Oy 9
+Marvell International Ltd. 8
+T-Mobile USA, Inc. 7
+Blackberry Limited 7
+Telefonaktiebolaget LM Ericsson (publ) 7
+InterDigital Technology Corporation 7
+Futurewei Technologies, Inc. 6
+HTC Corporation 6
+Texas Instruments Incorporated 6
+KYOCERA Corporation 6
+Canon Kabushiki Kaisha 5
+China Academy of Telecommunications Technolog 5
+Ubiquisys Limited 5
+Mediatek Inc. 5
+Vodafone Group PLC 5
+TeleCommunication Systems, Inc. 5
+X One, Inc. 4
+Hitachi, Ltd. 4
+Interdigital Patent Holdings, Inc. 4
+Ofinno Technologies, LLC 4
+Aruba Networks, Inc. 4
+Sprint Communications Company L.P. 4
+Koninklijke Philips N.V. 4
+TracFone Wireless, Inc. 3
+Hewlett-Packard Development Company, L.P. 3
+Intellectual Discovery Co., Ltd. 3
+Industrial Technology Research Institute 3
+Samsung Electronics Co., Ltd.;Electronics and 3
+Wi-Lan, Inc. 3
+Mitsubishi Electric Corporation 3
+Unwired Planet, LLC 3
+AT&T Intellectual Property II, L.P. 3
+RingCentral, Inc. 3
+Acer Incorporated 3
+TruePosition, Inc. 3
+Kyocera Corporation 3
+Citrix Systems, Inc. 3
+Telefonaktiebolaget LM Ericsson (Publ) 3
+Polaris Wireless, Inc. 3
+Siemens Aktiengesellschaft 3
+Huawei Device Co., Ltd. 3
+Cellco Partnership 3
+Cubic Corporation 3
+Joingo, LLC 2
+Verizon Patent and Licensing Inc.;Cellco Part 2
+Innovative Sonic Corporation 2
+Empire Technology Development LLC 2
+Nuance Communications, Inc. 2
+GM Global Technology Operations LLC 2
+Huawei Technologies Co., Ltd 2
+Oracle International Corporation 2
+Trimble Navigation Limited 2
+Electronics & Telecommunications Research Ins 2
+Honeywell International Inc. 2
+Nec Corporation 2
+Rivada Networks LLC 2
+Comtech EF Data Corp. 2
+LG Electronics Inc.;Industry-Academic Coopera 2
+Spectrum Bridge, Inc. 2
+Rivada Networks, LLC 2
+Vodafone IP Licensing Limited 2
+Intel Mobile Communications GmbH 2
+TruePath Technologies, LLC 2
+Hart Communication Foundation 2
+Kabushiki Kaisha Toshiba 2
+Sparkmotion Inc. 2
+Liveu Ltd. 2
+Vasu Networks Corporation 2
+Ubeeairwalk, Inc. 2
+Skyhook Wireless, Inc. 2
+Samsung Electronics Co., Ltd.;Korea Advanced  2
+MLR, LLC 2
+Airbiquity Inc. 2
+Orange 2
+Pantech Co., Ltd. 2
+OpenPeak Inc. 2
+Telecom Italia S.p.A. 2
+Clearwire IP Holdings LLC 2
+National Institute of Information and Communi 2
+China Iwncomm Co., Ltd. 2
+Rockwell Collins, Inc. 2
+Meru Networks 2
+Adaptix, Inc. 2
+Nintendo Co., Ltd. 2
+ZTE (USA) Inc. 2
+Auden Techno Corp. 1
+Siemens Enterprise Communications GmbH & Co.  1
+Via Telecom Co., Ltd. 1
+France Telecom 1
+QUALCOMM Incorporate 1
+WaveMarket, Inc. 1
+Huizhou TCL Mobile Communication Co., Ltd 1
+FutureWei Technologies, Inc. 1
+Blackbird Technology Holdings, Inc. 1
+E-Lane Systems Inc. 1
+Buffalo Inc. 1
+Lookout, Inc. 1
+Sigram Schindler Beteiligungsgesellschaft mbH 1
+Mimos Berhad 1
+Nokia, Inc. 1
+Symantec Corporation 1
+Cox Communications, Inc. 1
+King Abdulaziz City for Science and Technolog 1
+mCube Inc. 1
+Digimarc Corporation 1
+Telefonaktiebolaget L M Ericsson 1
+BRITISH TELECOMMUNICATIONS public limited com 1
+National Institute Of Information And Communi 1
+Twilio, Inc. 1
+Allure Energy, Inc. 1
+Datang Mobile Communications Equipment Co., L 1
+Alaxala Networks Corporation 1
+Interdigital Technology Corporation 1
+NearVerse, Inc. 1
+Skype 1
+Icera Inc. 1
+LG Electronics 1
+SiBeam, Inc. 1
+Millennial Media, Inc. 1
+Jasper Wireless Inc. 1
+National Taiwan University MediaTek Inc. 1
+AT&T Intellectual Property I, LP 1
+Vonage Network LLC 1
+Robert Bosch GmbH 1
+ENORCOM Corporation 1
+Firetide, Inc. 1
+Brocade Communications Systems, Inc. 1
+Avaya, Inc. 1
+ESC Apps, LLC 1
+Tymphany Hong Kong Limited 1
+Honeywell International SARL;Yokogawa USA, In 1
+Percello Ltd. 1
+Covidien LP 1
+Deutsche Telekom AG 1
+Sybase, Inc. 1
+Jasper Wireless, Inc. 1
+BlackBerry Limited;McMaster University 1
+The MITRE Corporation 1
+NEC Europe Ltd. 1
+Lockheed Martin Corporation 1
+The Invention Science Fund I, LLC 1
+Intellectual Ventures I LLC 1
+SenseTech, LLC 1
+Telefonaktiebolaget L M Ericsson (PUBL) 1
+Beijing Lenovo Software Ltd.;Lenovo (Beijing) 1
+ADC Telecommunications, Inc. 1
+Raytheon Company 1
+LitePoint Corporation 1
+Mutualink, Inc. 1
+GainSpan Corporation 1
+Oracle Israel Ltd. 1
+Andrew LLC 1
+Samsung Electronics Co., Ltd.;Seoul National  1
+Telefonaktiebolaget L M Ericcson (publ) 1
+Toshiba America Resesarch, Inc.;Telcordia Inc 1
+LiveU Ltd. 1
+Private Group Networks, Inc. 1
+SIPCO, LLC 1
+Strix Systems, Inc. 1
+Maple Acquisition LLC 1
+CSC Holdings, LLC 1
+Media Friends, Inc. 1
+ABB Research Ltd. 1
+The Boeing Company 1
+Parallel Wireless, Inc. 1
+Aegis Mobility, Inc. 1
+Conexant Systems, Inc. 1
+HMicro, Inc. 1
+Airborne Media Group, Inc. 1
+Kodiak Networks, Inc. 1
+NTT Docomo, Inc. 1
+Airhop Communications, Inc. 1
+Roamware, Inc. 1
+Via Telecom, Inc. 1
+Red Hat Israel, Ltd. 1
+Telfonaktiebolaget LM Ericsson (publ) 1
+On-Ramp Wireless, Inc. 1
+Loopt LLC 1
+PureWave Networks, Inc 1
+Disk Network Corporation 1
+The Nielsen Company (US), LLC 1
+Devicescape Software, Inc. 1
+Ford Global Technologies, LLC 1
+Spreadtrum Communications (Shanghai) Co., Ltd 1
+Amdocs Software Systems Limited 1
+Smarter Agent, LLC 1
+Nokia Siemens and Networks Oy 1
+FM S.R.L. 1
+Location Based Technologies, Inc. 1
+Sling Media Inc.;Sling Media PVT Ltd 1
+Swisscom AG 1
+Silent Communication Ltd. 1
+eBay Inc. 1
+Qualcomm Connected Experiences, Inc. 1
+SK Telecom Co., Ltd. 1
+Socowave Technologies Limited 1
+SparkMotion Inc. 1
+MasterCard International Incorporated 1
+STMicroelectronics S.R.L. 1
+ViaSat, Inc. 1
+KT Corporation 1
+Sonic Notify, LLC 1
+CenturyLink Intellectual Property LLC 1
+Nomadic Technologies Inc. 1
+Yellowpages.com LLC 1
+Harris Corporation 1
+Vitesse Semiconductor Corporation 1
+Apriva, LLC 1
+HJ Laboratories, LLC 1
+Finsphere Corporation 1
+BAE Systems Information and Electronic System 1
+Telefonaktiebolaget LM Ericsson 1
+Earthsweep LLC 1
+Nuon, Inc. 1
+Casio Computer Co., Ltd. 1
+Utility Associates, Inc. 1
+IDT Corporation 1
+F-Secure Oyj 1
+QUALCOMM, Incorporated 1
+WEFI, Inc. 1
+Mediatek Singapore Pte. Ltd. 1
+Mobiteris, Inc. 1
+BelAir Networks Inc. 1
+Avaya Inc. 1
+Denso Corporation 1
+Sprint Communications Company, L.P. 1
+McAfee, Inc. 1
+Agency for Science, Technology and Research 1
+Radiofy LLC 1
+Bridgewater Systems Corp. 1
+Nariste Networks Pty. Ltd. 1
+Telcom Italia S.p.A. 1
+ST-Ericsson SA 1
+The Trustees of the Stevens Institute of Tech 1
+Airvana LP 1
+Enhanced Geographic LLC 1
+Proxicom Wireless, LLC 1
+Nokia Siemens Networks GmbH & Co. KG 1
+STMicroelectronics, Inc. 1
+Novatel Wireless, Inc. 1
+Behemoth Development Co. L.L.C. 1
+Mitsubishi Electric Research Laboratories, In 1
+Comptel Corporation 1
+Juniper Networks, Inc. 1
+Cradlepoint, Inc. 1
+Nippon Telegraph and Telephone Corporation 1
+Deutsche Telekom AG;William Marsh Rice Univer 1
+Tektronix, Inc. 1
+Buckyball Mobile Inc 1
+IPCom GmbH & Co. KG 1
+Telefonaktiebolaget L M Ericssn (pub) 1
+RF Spot Inc. 1
+Pacific Star Communications, Inc. 1
+Multi-Tech Systems, Inc. 1
+Kirusa Inc. 1
+Amazon Technologies, Inc. 1
+Nokia Solutions and Networks GmbH & Co. KG;Fr 1
+Actix Limited 1
+Intellectual Ventures Holding 81 LLC 1
+Spirent Communications, Inc. 1
+Telsima Corporation 1
+Sharp Kabushiki Kaisha;Kyoto University;Keio  1
+PCTEL, Inc. 1
+Belkin International, Inc. 1
+Telefonica S.A. 1
+Agere Systems LLC 1
+Brother Kogyo Kabushiki Kaisha 1
+Callwave Communications, LLC 1
+Fujitsu Mobile Communications Limited 1
+Bandwidth.com, Inc. 1
+Omnitracs, LLC 1
+Urban Airship, Inc. 1
+WI-LAN, Inc. 1
+Telcordia Technologies, Inc.;Toyota Infotechn 1
+IP  Holdings, Inc. 1
+Rogers Communications Inc. 1
+Genesys Telecommunications Laboratories, Inc. 1
+Airwatch LLC 1
+Fluiditech IP Limited 1
+Sequans Communications 1
+Waldeck Technology, LLC 1
+Corning Cable Systems LLC 1
+Realtek Semiconductor Corp. 1
+Dish Network Corporation 1
+Lite-On Electronics (Guangzhou) Limited;Lite- 1
+CBF Networks, Inc. 1
+Smartsky Networks LLC 1
+Solacom Technologies Inc. 1
+Samsung Electronics Co., Ltd.;Ajou University 1
+Fisher-Rosemount Systems, Inc. 1
+IDTP Holdings, Inc. 1
+Huawei Technologies Co., Ltd.;Fraunhofer-Gese 1
+Logic PD, Inc. 1
+Facebook, Inc. 1
+Nokia Solutions and Networks Oy 1
+Humax Holdings Co., Ltd. 1
+Sierra Wireless, Inc. 1
+Koninklijke KPN N.V. 1
+Interditgital Patent Holdings, Inc. 1
+Absolute Software Corporation 1
+MobileDay, Inc. 1
+Xirrus, Inc. 1
+Thomson Licensing 1
+LG Innotek Co., Ltd. 1
+IGRS Engineering Lab Ltd. 1
+Elwha LLC 1
+Boingo Wireless, Inc. 1
+Samsung Electronics, Co., Ltd 1
+Mobivity, Inc. 1
+City University of Hong Kong 1
+The Charles Stark Draper Laboratory, Inc. 1
+Wifi Rail, Inc 1
+Unomobi, Inc. 1
+The Goodyear Tire & Rubber Company 1
+OpenMIND Networks Limited 1
+SK Telecom Co., Ltd.;SK Planet Co., Ltd. 1
+Pilatus Flugzeugwerke AG 1
+2010
+------------
+Nokia Corporation 37
+Intel Corporation 34
+QUALCOMM Incorporated 30
+ 29
+Cisco Technology, Inc. 28
+LG Electronics Inc. 25
+Alcatel-Lucent USA Inc. 23
+Samsung Electronics Co., Ltd. 23
+Motorola, Inc. 22
+Samsung Electronics Co., Ltd 20
+Sprint Spectrum L.P. 18
+Broadcom Corporation 17
+NTT DoCoMo, Inc. 16
+Research In Motion Limited 16
+InterDigital Technology Corporation 15
+Fujitsu Limited 12
+Microsoft Corporation 12
+Panasonic Corporation 11
+NEC Corporation 11
+Huawei Technologies Co., Ltd. 11
+ATC Technologies, LLC 11
+Qualcomm Incorporated 11
+AT&T Mobility II LLC 10
+Nortel Networks Limited 9
+AT&T Intellectual Property I, L.P. 8
+TeleCommunication Systems, Inc. 7
+Telefonaktiebolaget LM Ericsson (publ) 7
+LG Electronics, Inc. 6
+Hitachi, Ltd. 5
+Ericsson AB 5
+Siemens Aktiengesellschaft 5
+AT&T Intellectual Property II, L.P. 5
+Nextel Communications Inc. 5
+Kyocera Corporation 4
+Alcatel Lucent 4
+Motorola Mobility, Inc. 4
+Symbol Technologies, Inc. 4
+Toshiba America Research, Inc.;Telcordia Tech 4
+Alcatel 4
+Telefonaktiebolaget L M Ericsson (Publ) 4
+Sprint Communications Company L.P. 4
+Mitsubishi Denki Kabushiki Kaisha 4
+AT&T Corp. 3
+Industrial Technology Research Institute 3
+Electronics and Telecommunications Research I 3
+International Business Machines Corporation 3
+Sony Ericsson Mobile Communications AB 3
+Samsung Electronics Co., Ltd;Korea Advanced I 3
+Silverbrook Research Pty Ltd 3
+Thomson Licensing 3
+Siemens Enterprise Communications, Inc. 3
+Pantech Co., Ltd. 3
+Sony Corporation 3
+TruePosition, Inc. 3
+SRI International 2
+Kabushiki Kaisha Toshiba 2
+Koninklijke Philips Electronics N.V. 2
+Hewlett-Packard Development Company, L.P. 2
+Tekelec 2
+Skyhook Wireless, Inc. 2
+QUALCOMM, Incorporated 2
+Cellco Partnership 2
+Avaya Inc. 2
+M-Stack Limited 2
+Kineto Wireless, Inc. 2
+Agere Systems Inc. 2
+IPWireless, Inc. 2
+Lemko Corporation 2
+Samsung Electronics Co., Ltd.;Seoul National  2
+Telefonaktiebolaget L M Ericsson (publ) 2
+Infineon Technologies AG 2
+NVIDIA Corporation 2
+The Boeing Company 2
+Trend Micro Incorporated 2
+NTT Docomo, Inc. 2
+Atheros Communications, Inc. 2
+Airvana, Inc. 2
+United Parcel Service of America, Inc. 2
+Amdocs Software Systems Limited 1
+Spreadtrum Communications Inc. 1
+U4EA Wireless, Inc. 1
+Solacom Technologies Incorporated 1
+Texas Instruments Incorporated 1
+Waav Inc. 1
+Plant Equipment Inc. 1
+Orange SA 1
+IpVenture, Inc 1
+Sybase 365, Inc. 1
+Samsung Electronics Co., Ltd.;WINLAB, Rutgers 1
+Apple Inc. 1
+Qurio Holdings, Inc. 1
+Markport Limited 1
+AT&T Intellectual Property, I,L.P. 1
+Huawei Technologies, Co., Ltd. 1
+Bridgeport Networks, Inc. 1
+deCarta Inc. 1
+AeroScout, Inc. 1
+Marvell World Trade Ltd. 1
+Canon U.S.A., Inc. 1
+SiRF Technology Inc. 1
+Harris Corporation 1
+Siemens Corporation 1
+Alcatel-Lucent Canada Inc. 1
+Designart Networks Ltd 1
+Where, Inc. 1
+Wireless Valley Communications, Inc. 1
+AT&T Intellectual Property, I, L.P. 1
+BAE Systems Information and Electronic System 1
+Samsung Electronics, Co., Ltd. 1
+Telefonaktiebolaget LM Ericsson (publ0 1
+AFX Technology Group International, Inc. 1
+SK Telecom Co., Ltd. 1
+Honda Motor Co., Ltd. 1
+Samsung Electro-Mechanics 1
+Elisa Oyj 1
+T-Mobile International AG & Co. KG 1
+Cisco Technologies, Inc. 1
+Callpod, Inc. 1
+Aircell LLC 1
+Olsonet Communications 1
+LitePoint Corp. 1
+Brother Kogyo Kabushiki Kaisha 1
+Motorola Inc. 1
+Polaris Wireless, Inc. 1
+Carrier IQ, Inc. 1
+w2bi, Inc. 1
+Research in Motion Limited 1
+Infosys Technolologies Ltd. 1
+ADC Wireless Solutions LLC 1
+Airbiquity Inc. 1
+Toshiba America Research, Inc.;Telecordia Tec 1
+Myriad Group AG 1
+Beiden Inc. 1
+T-Mobile USA, Inc. 1
+Aztec Systems, Inc. 1
+Datang Mobile Communications Co. Ltd. 1
+Vodafone Holding GmbH 1
+Verizon Services Corp. 1
+Casio Hitachi Mobile Communications Co. 1
+Endtone, LLC 1
+Clearwire Legacy LLC 1
+STMicroelectronics, Inc. 1
+Link US All, LLC 1
+Oki Electric Industry Co., Ltd. 1
+I/O Controls Corporation 1
+Openwave Systems Inc. 1
+SanDisk IL Ltd. 1
+The United States of America as represented b 1
+NEXTG Networks, Inc. 1
+Motorola, Inc 1
+Motorola-Mobility, Inc. 1
+Network Security Technologies, Inc. 1
+Hitachi Communication Technologies, Ltd. 1
+Orange S.A. 1
+The MITRE Corporation 1
+Oracle America, Inc, 1
+Belair Networks Inc. 1
+Swisscom Mobile AG 1
+The Nielson Company (US), LLC. 1
+Control4 Corporation 1
+Telefonaktiebolaget L M Ericsson (PUBL) 1
+VeriWave, Inc. 1
+Samsung Electronics Co., Ltd.;Board of Regent 1
+Marvell International Ltd. 1
+Canon Kabushiki Kaisha 1
+Cvon Innovations Limited 1
+Bluetronix Inc. 1
+ADC Telecommunications, Inc. 1
+Honeywell International Inc. 1
+Virgin Mobile USA, L.P. 1
+Palm, Inc. 1
+Computer Associates Think, Inc. 1
+A9.com, Inc. 1
+Seiko Epson Corporation 1
+Mutualink, Inc. 1
+Samsung Electronics Co., Ltd;Seoul National U 1
+Rambus Inc. 1
+Altair Semiconductor Ltd. 1
+Andrew LLC 1
+Mitisubishi Electric Research Laboratories, I 1
+Connectivities LLC 1
+Primax Electronics, Ltd. 1
+OKI Electric Industry Co., Ltd. 1
+Roamware, Inc. 1
+Telcordia Technologies, Inc.;Toyota Infotechn 1
+Sony Corporation;Sony Electronics, Inc. 1
+Point-1 Co., Ltd. 1
+Hitachi Communication Technologies, Ltd.;Hita 1
+Sipco, LLC 1
+Wavemarket, Inc. 1
+GPNE Corp. 1
+Seoul National University Industry Foundation 1
+Utstarcom Telecom Co., Ltd. 1
+Sony Ericsson Communications AB 1
+Adobe Systems Incorporated 1
+Sirf Technology, Inc. 1
+LGC Wireless, Inc. 1
+Mediatek Inc. 1
+Samsung Electronics Co., Ltd;Beijing Samsung  1
+Sony Ericsoon Mobile Communications AB 1
+Powerwave Cognition, Inc. 1
+Oto Technologies, LLC 1
+Alvarion Ltd. 1
+MeshNetworks, Inc. 1
+EchoStar Technologies L.L.C. 1
+HTC Corporation 1
+WAAU Inc. 1
+Sony Corporation;Sony Electronics Inc. 1
+Telefonaktiebolaget LM Ericsson (publ);Siemen 1
+Google Inc. 1
+Core Mobility, Inc. 1
+Disney Enterprises, Inc. 1
+Cingular Wireless II, LLC 1
+Harman Becker Automotive GmbH 1
+OnePin, LLC 1
+Extricom Ltd. 1
+On-Ramp Wireless, Inc. 1
+Logitech Europe S.A. 1
+Email Link Corporation 1
+Rearden Commerce, Inc. 1
+Sony Deutschland GmbH 1
+Sharp Laboratories of America, Inc. 1
+Eaton Corporation 1
+Belden, Inc. 1
+Adaptix, Inc. 1
+San Diego Research Center, Inc. 1
+The Hong Kong University of Science and Techn 1
+EnvisionIT LLC 1
+QUALCOMM, Inc. 1
+AOL Inc. 1
+Fujistu Limited 1
+NXP B.V. 1
+Pelago, Inc. 1
+Celltick Technologies Ltd. 1
+IP Holdings, Inc. 1
+The DIRECTV Group, Inc. 1
+Skype Limited 1
+General Instrument Corporation 1
+Nokia Siemens Networks Oy 1
+BAE Systems Information And Electronic System 1
+2012
+------------
+QUALCOMM Incorporated 70
+LG Electronics Inc. 67
+Samsung Electronics Co., Ltd. 45
+Research In Motion Limited 43
+Huawei Technologies Co., Ltd. 29
+Intel Corporation 25
+Sprint Spectrum L.P. 25
+Samsung Electronics Co., Ltd 25
+Qualcomm Incorporated 24
+Telefonaktiebolaget LM Ericsson (publ) 23
+ 20
+NTT DoCoMo, Inc. 20
+Nokia Corporation 20
+Alcatel Lucent 20
+Panasonic Corporation 20
+Sprint Communications Company L.P. 18
+Fujitsu Limited 17
+Cisco Technology, Inc. 16
+Motorola Mobility, Inc. 15
+AT&T Mobility II LLC 14
+InterDigital Technology Corporation 13
+Apple Inc. 13
+Google Inc. 13
+Electronics and Telecommunications Research I 13
+Telefonaktiebolaget L M Ericsson (Publ) 12
+Broadcom Corporation 12
+Telefonaktiebolaget L M Ericsson (publ) 11
+Clearwire IP Holdings LLC 10
+AT&T Intellectual Property I, L.P. 10
+Motorola Solutions, Inc. 9
+Hitachi, Ltd. 9
+TruePosition, Inc. 9
+Andrew, LLC 8
+Marvell International Ltd. 8
+NEC Corporation 7
+Cellco Partnership 7
+Kyocera Corporation 6
+Texas Instruments Incorporated 6
+Skyhook Wireless, Inc. 6
+Sharp Kabushiki Kaisha 6
+Nokia Siemens Networks Oy 6
+International Business Machines Corporation 6
+NTT Docomo, Inc. 6
+Embarq Holdings Company, LLC 5
+T-Mobile USA, Inc. 5
+Rockstar Bidco, LP 5
+FutureWei Technologies, Inc. 5
+InterDigital Patent Holdings, Inc. 5
+Research in Motion Limited 5
+Sony Corporation 5
+Global Alert Network, Inc. 4
+Andrew LLC 4
+Motorola Mobility LLC 4
+Verizon Patent and Licensing Inc. 4
+HTC Corporation 4
+TeleCommunication Systems, Inc. 4
+Microsoft Corporation 4
+Innovative Sonic Limited 3
+Koninklijke Philips Electronics N.V. 3
+Hewlett-Packard Development Company, L.P. 3
+ZTE Corporation 3
+Kineto Wireless, Inc. 3
+STMicroelectronics, Inc. 3
+Mitsubishi Electric Research Laboratories, In 3
+Cequint, Inc. 3
+Pantech Co., Ltd. 3
+Telecom Italia S.p.A. 3
+Interdigital Patent Holdings, Inc. 3
+Wi-LAN, Inc. 3
+Lemko Corporation 3
+ZOS Communications, LLC 3
+The DIRECTV Group, Inc. 2
+WaveMarket, Inc. 2
+KT Corporation 2
+XG Technology, Inc. 2
+Digimarc Corporation 2
+Sony Ericsson Mobile Communications AB 2
+LG-Ericsson Co., Ltd. 2
+BelAir Networks Inc. 2
+Hon Hai Precision Industry Co., Ltd. 2
+Renesas Mobile Corporation 2
+University of South Florida 2
+AT&T Intellectual Property I, LP 2
+Bridgewater Systems Corp. 2
+Agere Systems Inc. 2
+Empire Technology Development LLC 2
+Airwalk Communications, Inc. 2
+Canon Kabushiki Kaisha 2
+ViaSat, Inc. 2
+Honeywell International Inc. 2
+Shared Spectrum Company 2
+KYOCERA Corporation 2
+Mitsubishi Electric Corporation 2
+Marvell World Trade Ltd. 2
+Telcom Ventures, LLC 2
+United States Cellular Corporation 2
+ParkerVision, Inc. 2
+VTech Telecommunications Limited 2
+Futurewei Technologies, Inc. 2
+Oki Electric Industry Co., Ltd. 2
+Aegis Mobility, Inc. 2
+Vodafone Group PLC 2
+Conexant Systems, Inc. 2
+ATC Technologies, LLC 2
+Qualcomm Atheros, Inc. 2
+Airvana Network Solutions, Inc. 2
+General Motors LLC 2
+Rockstar Bidco LP 2
+Spectrum Bridge, Inc. 2
+Intellectual Ventures I LLC 2
+Ajou University Industry-Academic Cooperation 2
+ZTE (USA) Inc. 2
+Lantiq Deutschland GmbH 1
+Jambo Networks, Inc. 1
+Infosys Limited 1
+Oracle International Corporation 1
+T-Mobile International AG 1
+TEPA Datasolutions Co., LLC 1
+Beijing Xinwei Telecom Technology Inc. 1
+M.M.I. Research Limited 1
+eAgency, Inc. 1
+Pine Valley Investments, Inc. 1
+Hart Communication Foundation 1
+Kabushiki Kaisha Toshiba 1
+Tekelec, Inc. 1
+Telefonaktiebolaget LM Ericsson (PUBL) 1
+Telcordia Technologies, Inc.;Toshiba America  1
+Qurio Holdings, Inc. 1
+MStar Semiconductor, Inc. 1
+Locator IP, L.P. 1
+Ultra Proizvodnja Elektronskih Naprav D.O.O. 1
+Aerohive Networks 1
+Lapis Semiconductor Co., Ltd. 1
+VIA Telecom, Inc;IPComm;LG Electronics, Inc. 1
+Swisscom AG 1
+King Fahd University of Petroleum and Mineral 1
+Wirelesswerx International, Inc. 1
+Location Based Technologies Inc. 1
+Ricoh Co., Ltd. 1
+Yahoo! Inc. 1
+Amazon Technologies, Inc. 1
+Sumsung Electronics Co., Ltd 1
+BAE Systems Information and Electronic System 1
+Telcordia Technologies, Inc.;KDDI Corporation 1
+Aechelon Technology, Inc. 1
+VIA Telecom, Inc. 1
+Rockstar Consortium 1
+Wireless Science, LLC 1
+Symbol Technologies, Inc. 1
+I/O Controls Corporation 1
+Fraunhofer-Gesellschaft zur Foerderung der An 1
+Accenture Global Services Limited 1
+Hong Kong Applied Science and Technology Rese 1
+MediaTek Inc. 1
+Universal Avionics Systems Corporation 1
+Enhanced Geographic LLC 1
+Wireless Technology Solutions LLC 1
+Celltick Technologies Ltd. 1
+NXP B.V. 1
+WiChorus Inc. 1
+Harington Valve, LLC 1
+LGC Wireless, LLC 1
+Navteq B.V. 1
+Visa U.S.A. Inc. 1
+France Telecom 1
+KDDI Corporation 1
+Nissan Motor Co., Ltd. 1
+Elektrobit Wireless Communications Oy 1
+Samsung Electronics Co., Ltd;Beijing Samsung  1
+Avaya Inc. 1
+LG Electronics 1
+Polaris Wireless, Inc. 1
+Samsung Electronics Co., Ltd.;Korea Advanced  1
+TeleCommunications Systems, Inc. 1
+TIP Solutions, Inc. 1
+Firsthand Technologies Inc. 1
+Koninklijke KPN N.V.;Nederlandse Organisatie  1
+West Corporation 1
+InterDigital Technology Corporation;SK Teleco 1
+Silicon Image, Inc. 1
+IPCom GmbH & Co., KG 1
+Kota Enterprises, LLC 1
+Virginia Tech Intellectual Properties, Inc. 1
+NEC Infrontia Corporation 1
+Eagle Harbor Holdings, LLC 1
+ST-Ericsson SA 1
+Nextel Communications Inc. 1
+CBF Networks, Inc. 1
+IPWireless, Inc. 1
+Ubiquisys Limited 1
+Telefonaktiebolaget LM Ericsson (Publ) 1
+Vodafone Holding GmbH 1
+Samsung Electronics Co., Ltd;University-Indus 1
+Regents of the University of Minnesota 1
+Research In Motion Limited;McMaster Universit 1
+Novatel Wireless, Inc. 1
+HNTB Holdings Ltd. 1
+Airbus Operations GmbH 1
+China Mobile Communications Corporation 1
+ShoreTel, Inc. 1
+Ruckus Wireless, Inc. 1
+Sybase, Inc. 1
+Konlinklijke Philips Electronics N.V. 1
+Enovsys LLC 1
+Vodafone Intellectual Property Licensing Limi 1
+SellerBid, Inc. 1
+China IWNCOMM Co., Ltd. 1
+EMC Corporation 1
+Nokia Siemens Network GmbH & Co. KG 1
+Hytera Communications Corp., Ltd. 1
+Visto Corporation 1
+Raytheon BBN Technologies Corp. 1
+The Invention Science Fund I, LLC 1
+Roundbox, Inc. 1
+Broadphone, LLC 1
+Trimble Navigation Limited 1
+IpVenture, Inc. 1
+Kathrein-Werke KG 1
+ADC Telecommunications, Inc. 1
+eBay Inc. 1
+Optimi Corporation 1
+KAIST, Technology Commercialization Team;Univ 1
+AirHop Communications, Inc. 1
+Samsung Electronics Co., Ltd.;Seoul National  1
+Garmin Switzerland GmbH 1
+Nokia Siemens Networks GmbH & Co. KG 1
+AT&T Labs, Inc. 1
+Ozmo, Inc. 1
+Casio Hitachi Mobile Communications Co., Ltd. 1
+Eden Rock Communications, LLC 1
+StarHome GmbH 1
+Skype 1
+Koninklijke Philips Electronics N.V.;Sharp Co 1
+Teamon Systems, Inc. 1
+Grape Technology Group, Inc. 1
+Samsung Electronics Co., Ltd.;George Mason In 1
+EnvisionIT, LLC 1
+The Boeing Company 1
+Openwave Systems, Inc. 1
+Electronics and Telecomunications Research In 1
+WeFi, Inc. 1
+Neocific, Inc. 1
+Tracfone Wireless, Inc. 1
+Spreadtrum Communications (Shanghai) Co. Ltd. 1
+Adobe Systems Incorporated 1
+WiChorus, Inc. 1
+Metrico Wireless, Inc. 1
+Wi-LAN Inc. 1
+Sungkyunkwan University Foundation for Corpor 1
+Marvell Word Trade Ltd. 1
+Sprint Spectrum, L.P. 1
+Rotani, Inc. 1
+Incnetworks Inc. 1
+Samsung Electronics Co., LTD 1
+Samsung Electronics Co., Ltd;Korea University 1
+Smartsky Networks LLC 1
+Freescale Semiconductor, Inc. 1
+Samsung Electronics Co., Ltd.;Industry-Univer 1
+Alvarion Ltd. 1
+FUJIFILM Corporation 1
+Telefonakatiebolaget LM Ericsson (publ) 1
+Selex Communications S.p.A. 1
+Hitachi, Ltd 1
+Silverbrook Research Pty Ltd 1
+Sony Corporation;Sony Electronics Inc. 1
+LG Electronics, Inc. 1
+Synchronica plc 1
+Via Telecom, Inc. 1
+Cellepathy Ltd. 1
+Collision Technology, LLC 1
+Trapeze Networks, Inc. 1
+IPCOM GmbH & Co. KG;Robert Bosch GmbH 1
+Radiofy LLC 1
+Targus Information Corporation 1
+China Academy of Telecommunications Technolog 1
+TracBeam LLC 1
+Xirrus, Inc. 1
+Resource Consortium Limited 1
+Bridgeport Networks, Inc. 1
+Siemens Aktiengesellschsft 1
+Radio IP Software Inc. 1
+Rockwell Collins, Inc. 1
+Powerwave Cognition, Inc. 1
+Bank of America Corporation 1
+The Nielsen Company (US), LLC 1
+Devicescape Software, Inc. 1
+Institute for Information Industry 1
+NTT DoCoMo 1
+Evolving Systems, Inc. 1
+Open Invention Network LLC 1
+Rockstar Bidco, L.P. 1
+Unomobi, Inc. 1
+Telefonaktiebolaget L M Ericsson 1
+Core Wireless Licensing S.a.r.l. 1
+Qwest Communiations International, Inc 1
+InterDigital Communications Corporation 1
+Viasat, Inc. 1
+Electronics and Telecommincations Research In 1
+Universal Electronics Inc. 1
+Sprint Communications Company L. P. 1
+Vringo, Inc. 1
+Wireless Valley Communications Inc. 1
+Lenovo (Singapore) Pte. Ltd. 1
+Loopt, Inc. 1
+Ektimisi Semiotics Holdings, LLC 1
+Siemens Aktiengesellschaft 1
+Tango Networks, Inc. 1
+Aeris Communications, Inc. 1
+SK Telecom Co., Ltd.;SK Planet Co., Ltd. 1
+Quantenna Communications, Inc. 1
+2013
+------------
+LG Electronics Inc. 88
+QUALCOMM Incorporated 86
+Research In Motion Limited 32
+Samsung Electronics Co., Ltd. 31
+Huawei Technologies Co., Ltd. 30
+Apple Inc. 29
+NTT DoCoMo, Inc. 25
+Cisco Technology, Inc. 23
+Sprint Spectrum L.P. 23
+Telefonaktiebolaget L M Ericsson (publ) 22
+Telefonaktiebolaget LM Ericsson (publ) 20
+Nokia Corporation 19
+Alcatel Lucent 19
+Intel Corporation 19
+Electronics and Telecommunications Research I 18
+Sprint Communications Company L.P. 18
+AT&T Mobility II LLC 17
+AT&T Intellectual Property I, L.P. 17
+Broadcom Corporation 16
+Fujitsu Limited 15
+Panasonic Corporation 15
+ZTE Corporation 14
+Samsung Electronics Co., Ltd 14
+Motorola Mobility LLC 13
+NEC Corporation 12
+ 11
+Kyocera Corporation 11
+Google Inc. 11
+Nokia Siemens Networks Oy 11
+Microsoft Corporation 11
+Clearwire IP Holdings LLC 9
+International Business Machines Corporation 9
+Qualcomm Incorporated 9
+Marvell International Ltd. 8
+Verizon Patent and Licensing Inc. 8
+InterDigital Patent Holdings, Inc. 8
+InterDigital Technology Corporation 7
+BlackBerry Limited 7
+Nvidia Corporation 7
+Telefonaktiebolaget LM Ericsson (Publ) 7
+Telefonaktiebolaget L M Ericsson (Publ) 7
+Sharp Kabushiki Kaisha 7
+Hitachi, Ltd. 6
+Intel Mobile Communications GmbH 5
+Andrew LLC 5
+Ofinno Technologies, LLC 4
+FutureWei Technologies, Inc. 4
+Marvell World Trade Ltd. 4
+Digimarc Corporation 4
+Skyhook Wireless, Inc. 4
+Renesas Mobile Corporation 4
+Palm, Inc. 4
+Aruba Networks, Inc. 4
+KYOCERA Corporation 4
+HTC Corporation 4
+Cellco Partnership 4
+Futurewei Technologies, Inc. 3
+Texas Instruments Incorporated 3
+Orange SA 3
+Innovative Sonic Limited 3
+Vodafone IP Licensing Limited 3
+Motorola Solutions, Inc. 3
+Avaya Inc. 3
+Oracle International Corporation 3
+T-Mobile USA, Inc. 3
+Juniper Networks, Inc. 3
+Hera Wireless S.A. 3
+Huawei Technologies Co., Ltd 3
+Interdigital Patent Holdings, Inc. 3
+Sony Corporation 3
+Airvana LLC 3
+Global Alert Network, Inc. 2
+Hart Communication Foundation 2
+Kabushiki Kaisha Toshiba 2
+Koninklijke Philips Electronics N.V. 2
+Apriva, LLC 2
+Honeywell International Inc. 2
+Spring Spectrum L.P. 2
+Avaya, Inc. 2
+Novatel Wireless, Inc. 2
+Mitsubishi Electric Research Laboratories, In 2
+Deutsche Telekom AG 2
+Samsung Electronics Co., Ltd.;Purdue Research 2
+Canon Kabushiki Kaisha 2
+IpVenture, Inc. 2
+Mitsubishi Electric Corporation 2
+Nokia Siemens Networks GmbH & Co. KG 2
+Blackberry Limited 2
+Eden Rock Communications, LLC 2
+Grape Technology Group, Inc. 2
+Facebook, Inc. 2
+Siemens Aktiengesellschaft 2
+Aegis Mobility, Inc. 2
+Mediatek Inc. 2
+Samsung Electronics Co., Ltd;Beijing Samsung  2
+RingCentral, Inc. 2
+AT&T Intellectual Property II, L.P. 2
+Headwater Partners I LLC 2
+Airvana Network Solutions, Inc. 2
+Quintic Holdings 2
+Sony Corporation;Sony Mobile Communications A 2
+China Academy of Telecommunications Technolog 2
+NEC Laboratories America, Inc. 2
+Tango Networks, Inc. 2
+TruePosition, Inc. 2
+King Abdulaziz City for Science and Technolog 2
+AT&T Mobility II LLC;AT&T Intellectual Proper 1
+Qwest Communications International Inc. 1
+Tata Consultancy Services Ltd. 1
+Sybase 365, Inc. 1
+Misonimo Chi Acquisitions L.L.C. 1
+Telefonaktiebolaget LM Ericsson (PUBL) 1
+Ubidyne, Inc. 1
+Hewlett-Packard Development Company, L.P. 1
+Tekelec Global, Inc. 1
+British Telecommunications public limited com 1
+NEC Europe Ltd. 1
+Visa U.S.A. Inc. 1
+Thomson Licensing 1
+ViaSat, Inc. 1
+KT Corporation 1
+Telefonaktiebolaget LM Ericsson (pulb) 1
+Buffalo Inc. 1
+Sanyo Electric Co., Ltd. 1
+Harris Corporation 1
+La Crosse Technology, Ltd. 1
+ALCATEL LUCENT 1
+Movik Networks, Inc. 1
+Varia Holdings LLC 1
+Beijing Xinwei Telecom Technology Inc. 1
+Ortiz and Associates Consulting, LLC 1
+BAE Systems Information and Electronic System 1
+Core Wireless Licensing S.a.r.l. 1
+Symbol Technologies, Inc. 1
+Loopt LLC. 1
+FMR LLC 1
+GE Security, Inc. 1
+IVIU Technologies, Inc. 1
+Casio Computer Co., Ltd. 1
+Samsung Electronics Co., Ltd;Industry-Academi 1
+Aerohive Networks, Inc. 1
+SnapTrack, Inc. 1
+Enhanced Geographic LLC 1
+Tellabs Oy 1
+WiChorus Inc. 1
+Harington Valve, LLC 1
+Verizon Patent and Licensing Inc.;Cellco Part 1
+Digi International Inc. 1
+Ubiquisys Limited 1
+Wi-Lan Inc. 1
+Elektrobit Wireless Communications Oy 1
+mPanion, Inc. 1
+SAP AG 1
+Qualcomm Innovation Center, Inc. 1
+Unwired Planet, Inc. 1
+Sandwave IP, LLC 1
+QUALCOMM INCORPORATED 1
+Denso Corporation 1
+TTI Inventions D LLC 1
+Samsung Electronics Co. Ltd. 1
+Trex Enterprises Corp 1
+Belkin International, Inc. 1
+Samsung Electronics Co., Ltd.;Korea Advanced  1
+Camiant, Inc. 1
+Innovative Wireless Sweden AB 1
+Toshiba America Research, Inc.;Telcordia Tech 1
+Jumptap, Inc. 1
+International Business Machiness Corporation 1
+X One, Inc. 1
+Aylus Networks, Inc. 1
+Radiofy LLC 1
+Bridgewater Systems Corp. 1
+Empire Technology Development LLC 1
+Robert Bosch GmbH 1
+Good Technology Software, Inc 1
+Huawei Technologies Co. Ltd. 1
+Pokos Communications Corp 1
+Mastercard International Incorporated 1
+Pine Valley Investments, Inc. 1
+DBSD Satellite Services G.P. 1
+Nextel Communications Inc. 1
+CBF Networks, Inc. 1
+Omega Sub Holdings, Inc. 1
+TIP Solutions, Inc. 1
+Liveu Ltd. 1
+Proxicom Wireless, LLC 1
+Industrial Technology Research Institute 1
+STMicroelectronics, Inc. 1
+Smartsky Networks LLC 1
+Ricoh Company, Limited 1
+Empire Technology Development, LLC 1
+Zipwhip, Inc. 1
+STMicroelectronics S.r.l. 1
+Samsung Electronics  Co., Ltd 1
+Joingo LLC 1
+Invisitrack, Inc. 1
+Locator IP, LP 1
+Lig Nex1 Co., Ltd. 1
+Vodafone Intellectual Property Licensing Limi 1
+Fujitsu Mobile Communications Limited 1
+Sumitomo Electric Industries, Ltd. 1
+Shoretel, Inc. 1
+Control4 Corporation 1
+Raytheon BBN Technologies Corp. 1
+Samsung Electronics Co., Ltd.;Korea Universit 1
+Mindspeed Technologies U.K., Limited 1
+GoGo LLC 1
+Trimble Navigation Limited 1
+Science Applications International Corporatio 1
+EXFO Oy 1
+Airwalk Communications, Inc. 1
+Paxgrid Telemetric Systems, Inc 1
+Huawei Technologies, Co., Ltd. 1
+ADC Telecommunications, Inc. 1
+GoFigure Media, LLC 1
+Siemens AG 1
+Geos Communications IP Holdings, Inc., a whol 1
+Actix Limited 1
+Awarepoint Corporation 1
+Sonic Notify, Inc. 1
+Telsima Corporation 1
+Universal Metaphor, LLC 1
+Adobe Systems Incorporated 1
+Jingle Technologies LLC 1
+Pine Valley Inestments, Inc. 1
+Telecom Italia S.p.A. 1
+Vonage Network, LLC 1
+Roamware Inc. 1
+Dai Nippon Printing Co., Ltd.;NTT DoCoMo, Inc 1
+Agere Systems LLC 1
+University of Washington through its Center o 1
+Apple, Inc. 1
+Marvell World Trade Ltd 1
+Industrial Technology Research 1
+WAAV Inc. 1
+Ubeeairwalk, Inc. 1
+Huizhou TCL Mobile Communication Co., Ltd. 1
+Spectrum Bridge Inc. 1
+Nokia Corporation;Massachusetts Institute of  1
+Vodafone Group PLC;Vodafone Omnitel N.V. 1
+Elster Solutions, LLC 1
+Samsung Electronics Co., Ltd.;SNU R&DB Founda 1
+Sprint Communication Company L.P. 1
+Tracfone Wireless, Inc. 1
+Universidad Tecnica Federico Santa Maria 1
+Mobile Iron, Inc. 1
+Mitel Networks Corporation 1
+Waldeck Technology, LLC 1
+Marvell International, Ltd. 1
+LumenRadio AB 1
+Electronics & Telecommunications Research Ins 1
+Vodafone Group PLC 1
+Rotani, Inc. 1
+Wi-LAN, Inc. 1
+Polaris Wireless, Inc. 1
+Intertrust Technologies Corporation 1
+Huawei Device Co., Ltd. 1
+KBA2, Inc. 1
+Freescale Semiconductor, Inc. 1
+Hmicro, Inc. 1
+Mach S.A.R.L. 1
+Allure Energy, Inc. 1
+EchoStar Technologies L.L.C. 1
+Nuance Communications, Inc. 1
+Thales 1
+Olsonet Communications Corporation 1
+Accelera Mobile Broadband, Inc. 1
+TeleCommunication Systems, Inc. 1
+NTT Docomo, Inc. 1
+Stoke, Inc. 1
+Core Wireless Licensing S.A.R.L. 1
+Disney Enterprises, Inc. 1
+Callwave Communications, LLC 1
+Bandspeed, Inc. 1
+LG Electronics Inc.;Industry-Academic Coopera 1
+Spectrum Bridge, Inc. 1
+NTT DoCoMo, Inc 1
+Nokia Siemens Networks GmbH & Co. 1
+General Motors LLC. 1
+Apogee Technology Consultants, LLC 1
+Visteon Global Technologies, Inc. 1
+Acer Incorporated 1
+PMC-Sierra Ltd. 1
+Altair Semiconductor Ltd. 1
+Sharp Laboratories of America, Inc. 1
+MLR, LLC 1
+ParkerVision, Inc. 1
+Unwired Planet, LLC 1
+Tomtom International B.V. 1
+General Electric Company 1
+Institute for Information Industry 1
+Legend Holdings Ltd.;Lenovo (Beijing) Limited 1
+Exelis, Inc. 1
+Siklu Communication Ltd. 1
+MU Research & Development Grove, LLC 1
+Wounder GmbH., LLC 1
+Lookout, Inc. 1
+Reverb Networks 1
+Wefi, Inc. 1
+Skype 1
+Smarter Agent, LLC 1
+Universal Electronics Inc. 1
+Sunplus Technology Co., Ltd 1
+Guardity Technologies, Inc. 1
+Celeno Communications Ltd. 1
+Telefonaktiebolaget LM Ericsson (publ.) 1
+National Institute of Information and Communi 1
+NEC Europe Ltd.;NEC Corporation 1
+Ektimisi Semiotics Holdings, LLC 1
+Piccata Fund Limited Liability Company 1
+Cardiac Pacemakers, Inc. 1
+ZTE (USA) Inc. 1
+WeFi Inc. 1
+2015
+------------
+QUALCOMM Incorporated 44
+LG Electronics Inc. 15
+BlackBerry Limited 13
+Samsung Electronics Co., Ltd. 12
+Broadcom Corporation 11
+Apple Inc. 10
+ 7
+Telefonaktiebolaget L M Ericsson (publ) 7
+Alcatel Lucent 7
+Cisco Technology, Inc. 6
+Electronics and Telecommunications Research I 6
+International Business Machines Corporation 5
+Motorola Solutions, Inc. 5
+Google Inc. 5
+Fujitsu Limited 5
+Telefonaktiebolaget L M Ericsson (Publ) 5
+Microsoft Corporation 5
+Huawei Technologies Co., Ltd. 4
+NTT DOCOMO, INC. 4
+Sprint Spectrum L.P. 4
+NEC Corporation 4
+Panasonic Intellectual Property Corporation o 3
+Nokia Corporation 3
+Mitsubishi Electric Corporation 3
+Optis Wireless Technology, LLC 3
+Sprint Communications Company L.P. 3
+Mediatek Inc. 3
+CenturyLink Intellectual Property LLC 3
+Qualcomm Incorporated 3
+Lenovo Innovations Limited (Hong Kong) 3
+Novatel Wireless, Inc. 3
+Sharp Kabushiki Kaisha 3
+Nokia Siemens Networks Oy 3
+AT&T Mobility II LLC 3
+General Dynamics C4 Systems, Inc. 2
+Hewlett-Packard Development Company, L.P. 2
+LiveU Ltd. 2
+Eden Rock Communications, LLC 2
+Verizon Patent and Licensing Inc. 2
+TrellisWare Technologies, Inc. 2
+AT&T Intellectual Property I, L.P. 2
+Panasonic Intellectual Property Management Co 2
+Citrix Systems, Inc. 2
+Facebook, Inc. 2
+Amazon Technologies, Inc. 2
+Intel Corporation 2
+Rivada Networks, LLC 2
+TeleCommunication Systems, Inc. 2
+Cambridge Silicon Radio Limited 2
+Blackberry Limited 2
+Airbus Operations GmbH 1
+Tekelec, Inc. 1
+Uniquisys Limited 1
+Canon Kabushiki Kaisha 1
+TravelStorysGPS, LLC 1
+NTT DoCoMo, Inc. 1
+Spirent Communications, Inc. 1
+Honeywell International Inc. 1
+Yougetitback Limited 1
+Bluetick, Inc. 1
+Intel Mobile Communications GmbH 1
+Hart Communication Foundation 1
+Lenovo Enterprise Solutions (Singapore) Pte.  1
+Futurewei Technologies, Inc. 1
+Telecom Italia S.p.A.;Pirelli & C. S.p.A. 1
+Vasu Networks Corporation 1
+World Emergency Network¡XNevada Ltd. 1
+Hitachi, Ltd. 1
+KT Corporation 1
+Ricoh Company, Ltd. 1
+Hitachi Kokusai Electric Inc. 1
+Cequint, Inc. 1
+Interdigital Patent Holdings, Inc. 1
+Bandwidth.com, Inc. 1
+Lookout, Inc. 1
+TRX Systems, Inc. 1
+General Motors LLC 1
+CA, Inc. 1
+Huizhou TCL Mobile Communication Co., Ltd. 1
+Signal Trust for Wireless Innovation 1
+InterDigital Patent Holdings, Inc. 1
+M. I. Tech Co., Ltd. 1
+Seven Networks, Inc. 1
+Marvell International Ltd 1
+Texas Instruments Incorporated 1
+Neocific, Inc. 1
+AT&T Mobility II LLC;AT&T Intellectual Proper 1
+Theatro Labs, Inc. 1
+Casio Computer Co., Ltd. 1
+Informedia Services Limited 1
+Harris Corporation 1
+Dell Products L.P. 1
+Telefonaktiebolaget LM Ericsson (publ) 1
+Noble Systems Corporation 1
+Dish Network Corporation 1
+ZTE Corporation 1
+China Mobile Communications Corporation 1
+Verizon Patent and Licensing Inc.;Cellco Part 1
+Firetide, Inc. 1
+Airborne Media Group, Inc. 1
+Huawei Device Co., Ltd. 1
+MediaTek Inc 1
+mPanion, Inc. 1
+Orange 1
+Hmicro, Inc. 1
+LG Electronics Inc.;Research & Business Found 1
+Here Global B.V. 1
+IP Holdings, Inc. 1
+Dejero Labs Inc. 1
+HTC Corporation 1
+The Nielson Company (US), LLC 1
+ZTE Corporation;ZTE (USA) Inc. 1
+Avaya Inc. 1
+Sony Corporation;Sony Electronics Inc. 1
+Telsima Corporation 1
+Polaris Wireless, Inc. 1
+Samsung Electronics Co., Ltd.;Korea Advanced  1
+Lenovo Group Limited 1
+Brother Kogyo Kabushiki Kaisha 1
+Toshiba America Research, Inc.;Telcordia Tech 1
+Marvell International Ltd. 1
+Sierra Wireless, Inc. 1
+Skyhook Wireless, Inc. 1
+LG Electronics Inc.;Postech Academy-Industry  1
+Absolute Software Corporation 1
+Dexin Corporation 1
+AT&T Intellectual Property I, LP;AT&T Mobilit 1
+National Sun Yat-Sen University;National Chia 1
+Wicentric, Inc. 1
+TeleCommunications Systems, Inc. 1
+T-Mobile USA, Inc. 1
+VoAPPs, Inc. 1
+WiChorus 1
+Samsung Electronics Co., Ltd.;Industry-Academ 1
+Jasper Technologies, Inc. 1
+Xirrus, Inc. 1
+Vodafone Holding GmbH 1
+Myth Innovations, Inc. 1
+RingCentral, Inc. 1
+Sharp Laboratories of America, Inc. 1
+Alcatel Lucent;Genesys Telecommunications Lab 1
+Sony Corporation;Sony Computer Entertainment  1
+Kathrein-Werke KG 1
+Airbus Operations 1
+Loyalblocks Ltd. 1
+Traxcell Technologies, LLC 1
+Evolving Systems, Inc. 1
+AirWatch LLC 1
+Qurio Holdings, Inc. 1
+Nuance Communications, Inc. 1
+Nintendo Co., Ltd. 1
+Sony Corporation 1
+Vonage Network, LLC 1
+Allstate Insurance Company 1
+Samsung Electronics Co., Ltd 1
+Universal Electronics Inc. 1
+Ford Global Technologies, LLC 1
+Ofinno Technologies, LLC 1
+Pathfinders International, LLC 1
+TiKL, Inc. 1
+Beijing Boe Optoelectronics Technology Co., L 1
+Shoretel, Inc. 1
+General Electric Company 1
+Innovative Sonic Corporation 1
+Juniper Networks, Inc. 1
+Pantech Co., Ltd. 1
+Microsoft Technology Licensing, LLC 1
+=============================================
+2009
+------------
+36/* 1
+68/* 1
+64/* 1
+None/* 1
+28/* 1
+4/* 1
+52/* 1
+1/* 1
+72/* 1
+40/* 1
+84/* 1
+7/* 1
+88/* 1
+24/* 1
+74/* 1
+12/* 1
+2011
+------------
+68/* 1
+56/* 1
+48/* 1
+60/* 1
+80/* 1
+1/* 1
+76/* 1
+40/* 1
+84/* 1
+7/* 1
+74/* 1
+16/* 1
+36/* 1
+24/* 1
+88/* 1
+64/* 1
+52/* 1
+72/* 1
+28/* 1
+8/* 1
+12/* 1
+4/* 1
+2014
+------------
+68/* 1
+56/* 1
+48/* 1
+28/* 1
+80/* 1
+76/* 1
+4/* 1
+84/* 1
+8/* 1
+74/* 1
+16/* 1
+36/* 1
+24/* 1
+64/* 1
+99/* 1
+52/* 1
+72/* 1
+92/* 1
+60/* 1
+88/* 1
+12/* 1
+40/* 1
+2010
+------------
+68/* 1
+56/* 1
+31/* 1
+20/* 1
+28/* 1
+80/* 1
+1/* 1
+76/* 1
+4/* 1
+84/* 1
+8/* 1
+74/* 1
+12/* 1
+36/* 1
+24/* 1
+48/* 1
+11/* 1
+52/* 1
+88/* 1
+60/* 1
+72/* 1
+16/* 1
+40/* 1
+2012
+------------
+68/* 1
+56/* 1
+48/* 1
+20/* 1
+60/* 1
+80/* 1
+16/* 1
+None/* 1
+1/* 1
+76/* 1
+4/* 1
+84/* 1
+7/* 1
+74/* 1
+12/* 1
+36/* 1
+88/* 1
+64/* 1
+52/* 1
+3/* 1
+72/* 1
+92/* 1
+28/* 1
+8/* 1
+24/* 1
+40/* 1
+2013
+------------
+36/* 1
+68/* 1
+84/* 1
+64/* 1
+20/* 1
+28/* 1
+80/* 1
+52/* 1
+76/* 1
+48/* 1
+12/* 1
+92/* 1
+72/* 1
+4/* 1
+56/* 1
+60/* 1
+88/* 1
+24/* 1
+74/* 1
+40/* 1
+16/* 1
+2015
+------------
+36/* 1
+68/* 1
+64/* 1
+48/* 1
+28/* 1
+80/* 1
+16/* 1
+52/* 1
+74/* 1
+76/* 1
+56/* 1
+92/* 1
+72/* 1
+4/* 1
+84/* 1
+60/* 1
+88/* 1
+24/* 1
+8/* 1
+40/* 1
+12/* 1

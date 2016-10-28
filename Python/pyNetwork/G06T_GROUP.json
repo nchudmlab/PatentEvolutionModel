@@ -1,0 +1,96 @@
+
+{
+	"1/*":[ 
+		"General purpose image data processing",
+		{
+			"1/20": "Processor architectures; Processor configuration, e.g. pipelining",
+			"1/40": "Neural networks",
+			"1/60": "Memory management"
+		}
+	],
+	"3/*":[ 
+		"Geometric image transformation in the plane of the image, e.g. from bit-mapped to bit-mapped creating a different image",
+		{
+			"3/20": "Linear translation of a whole image or part thereof, e.g. panning",
+			"3/40": "Scaling of a whole image or part thereof",
+			"3/60": "Rotation of a whole image or part thereof"
+		}
+	],
+	"5/*": [
+		"Image enhancement or restoration, e.g. from bit-mapped to bit-mapped creating a similar image",
+		{
+			"5/10": "by non-spatial domain filtering",
+			"5/20": "by the use of local operators",
+			"5/30": "Erosion or dilatation, e.g. thinning",
+			"5/40": "by the use of histogram techniques",
+			"5/50": "by the use of more than one image, e.g. averaging, subtraction"
+		}
+	],
+	"7/*": [
+		"Image analysis, e.g. from bit-mapped to non bit-mapped",
+		{
+			"7/20": "Analysis of motion",
+			"7/40": "Analysis of texture",
+			"7/60": "Analysis of geometric attributes, e.g. area, centre of gravity, perimeter, from an image"
+		}
+	],
+	"9/*": [
+		"Image coding, e.g. from bit-mapped to non bit-mapped",
+		{
+			"9/20": "Contour coding, e.g. using detection of edges",
+			"9/40": "Tree coding, e.g. quadtree, octree"
+		}
+	],
+	"11/*": [
+		"2D [Two Dimensional] image generation",
+		{
+			"11/20": "Drawing from basic elements, e.g. lines or circles",
+			"11/40": "Filling a planar surface by adding surface attributes, e.g. colour or texture",
+			"11/60": "Editing figures and text; Combining figures or text",
+			"11/80": "Creating or modifying a manually drawn or painted image using a manual input device, e.g. mouse, light pen, direction keys on keyboard"
+		}
+	],
+	"13/*": [
+		"Animation",
+		{
+			"13/20": "3D [Three Dimensional] animation",
+			"13/40": "3D of characters, e.g. humans, animals or virtual beings",
+			"13/60": "3D of natural phenomena, e.g. rain, snow, water or plants",
+			"13/80": "2D animation, e.g. using sprites"
+		}
+	],
+	"15/*": [
+		"3D [Three Dimensional] image rendering",
+		{
+			"15/02": "Non-photorealistic rendering",
+			"15/04": "Texture mapping",
+			"15/06": "Ray-tracing",
+			"15/08": "Volume rendering",
+			"15/10": "Geometric effects",
+			"15/20": "Perspective computation",
+			"15/30": "Clipping",
+			"15/40": "Hidden part removal",
+			"15/50": "Lighting effects",
+			"15/55": "Radiosity",
+			"15/60": "Shadow generation",
+			"15/80": "Shading",
+			"15/83": "Phong shading",
+			"15/87": "Gouraud shading"
+		}
+	],
+	"17/*": [
+		"3D modelling for computer graphics",
+		{
+			"17/05": "Geographic models",
+			"17/10": "Volume description, e.g. cylinders, cubes or using CSG [Constructive Solid Geometry]",
+			"17/20": "Wire-frame description, e.g. polygonalisation or tessellation",
+			"17/30": "Surface description, e.g. polynomial surface description"
+		}
+	],
+	"19/*": [
+		"Manipulating 3D models or images for computer graphics",
+		{
+			"19/20": "Editing of 3D images, e.g. changing shapes or colours, aligning objects or positioning parts"
+		}
+	]
+}
